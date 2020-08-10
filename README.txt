@@ -13,7 +13,7 @@ Read the abstract, title, introduction and conclusions as a whole and ignore any
 * The second pass: Grasp the content (Schmidl).
 Read the paper in its entirety and make some notes about the key points in the margins. Ignore some of the details.
 * The third pass: Virtually re-implement the paper (Schmidl).
-Read the complete paper with all of its details and try to recr4eate th results.
+Read the complete paper with all of its details and try to recreate th results.
 
 [Pain: How to (seriously) read a scientific paper](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)  
 
