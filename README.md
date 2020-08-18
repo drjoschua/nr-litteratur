@@ -36,5 +36,17 @@ Source: [Color-coding your highlighting when reading articles and book chapters]
 
 Source: [How to read (science) journal articles](https://caffeinatedconfidence.com/2015/10/15/how-to-read-science-journal-articles/)
 
+## The Yoshi method
+With inspirations from the previous methods.
+1. Main tier:
+  * ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) __main points__: If I only remembered _one thing_ ...
+  * ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) __conclusions__: _Something new_ they discovered or proposed.
+2. Supporting tier:
+  * ![#008800](https://via.placeholder.com/15/008800/000000?text=+) __motivation, background, definitions__: _Where we come from._ The starting point. Very general, more common information.
+  * ![#000088](https://via.placeholder.com/15/000088/000000?text=+) __examples, challenges, obstacles__: _Where we are._ Information that is more specific to the study and newer research.
+  * ![#880088](https://via.placeholder.com/15/880088/000000?text=+) __methods/means, implementations, results__: _Where we want to go. Where we have come to._ The (temporary) ending point.
+3. Optional tier:
+  * ![#ff8800](https://via.placeholder.com/15/ff8800/000000?text=+) interesting __litterature__
+
 ## Other methods
 [Color-coding 2](https://medium.goodnotes.com/three-pitfalls-to-avoid-when-studying-with-a-highlighter-2aa345e1e6eb)
