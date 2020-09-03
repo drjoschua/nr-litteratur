@@ -4,8 +4,6 @@ This document contains genereal information about literature research.
 
 # How to read scientific papers
 
-
-
 The three-pass approach:  
 * The first pass: The bird's eye view (Schmidl).
 Read the abstract, title, introduction and conclusions as a whole and ignore any details (math equations, etc.).
