@@ -25,7 +25,7 @@ WCAG defines the four major principis of acessibility of the content to be (1) p
 
 ### Lov om likestilling og forbud mot diskriminering (likestillings- og diskrimineringsloven)
 
-[Kilde](Likestillings- og diskrimineringsloven)
+[Kilde](https://lovdata.no/dokument/NL/lov/2017-06-16-51)
 
 ```
 § 12.Brudd på plikten til universell utforming eller individuell tilrettelegging
