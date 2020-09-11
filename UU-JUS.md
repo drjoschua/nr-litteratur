@@ -13,10 +13,13 @@ Det fins noen juridiske tekster i norsk lov som behandler universell utforming (
 * Konvensjoner:
    - [ ] [Konvensjon om rettighetene til mennesker med nedsatt funksjonsevne](https://lovdata.no/dokument/TRAKTAT/traktat/2006-12-13-34)
 
-The Anti-Discrimination Act (likestillings- og diskrimineringsloven) handles universal design for public services in Norway, and states that "public and private actors cirected towards the public are obligated to use universal desing in their general functions" (§17). 
+The Anti-Discrimination Act (likestillings- og diskrimineringsloven) handles universal design for public services in Norway, and states that "public and private actors cirected towards the public are obligated to use universal design in their general functions" (§17). 
+Other acts related to education, f.ex. the Unviersity and University College Act(universitets- og høyskoleloven), the Vocational School Act (fagskoleloven), Adult Education Center Act (folkehøskoleloven), oblige institutions to have a universally designed education environment (§4-3, §15, §5a).
+ oblige public actors to make demands to unviersal desing in public procurements. 
 For ICT solutions, however, the law states that this obligation is invalid for sectors with their own specific law or regulation (§18).
 There is a specific regulation for universal desing of ICT solutions (forskrift om universell utforming av IKT-løsninger) specifying that UD only applies for online solutions (websites, apps) including teaching aids, and automats (???) (§2).
-The regulation states that websides should follow the Web Content Accessibility Guidelines 2.0 standard (WCAG 2.0) on Level A and AA(§4)
+The regulation states that websides should follow the Web Content Accessibility Guidelines 2.0 standard (WCAG 2.0) on Level A and AA(§4). 
+WCAG defines the four major principis of acessibility of the content to be (1) perceivable, (2) operable, (3) understandable, and (4) robust. 
    
 ## Lover
 
@@ -73,6 +76,68 @@ Difi kan kreve de opplysningene som er nødvendige for å gjennomføre sine oppg
 Søksmål om gyldigheten av vedtak truffet av Difi eller av klageinstansen må reises innen tre måneder etter at underretning om vedtaket er mottatt. Vedtaket kan ikke bringes inn for domstolene uten at klageadgangen er utnyttet og klagen er avgjort. Søksmål skal likevel i alle tilfelle kunne reises når det er gått seks måneder fra klage første gang ble fremsatt, og det ikke skyldes forsømmelse fra klagerens side at klageinstansens avgjørelse ikke foreligger.
 
 Departementet kan i forskrift fastsette nærmere regler om utmåling av tvangsmulkt, og hvordan vedtak om tvangsmulkt skal gjennomføres.
+```
+
+### Lov om universiteter og høyskoler (universitets- og høyskoleloven)
+
+[Kilde](https://lovdata.no/dokument/NL/lov/2005-04-01-15)
+
+```
+§ 4-3.Læringsmiljø
+[…]
+(2) Styret har ansvar for at læringsmiljøet på institusjonen, herunder det fysiske og psykiske arbeidsmiljø, er fullt forsvarlig ut fra en samlet vurdering av hensynet til studentenes helse, sikkerhet og velferd. 
+I utformingen av det fysiske arbeidsmiljøet skal det, så langt det er mulig og rimelig, sørges for
+a)	at lokaler, adkomstveier, trapper mv. er dimensjonert og innredet for den virksomhet som drives.
+b)	at lokalene har gode lys- og lydforhold og forsvarlig inneklima og luftkvalitet.
+c)	at lokalene blir vedlikeholdt og er rene og ryddige.
+d)	at lokalene er innredet slik at uheldige fysiske belastninger for studentene unngås.
+e)	at virksomheten er planlagt slik at skader og ulykker forebygges.
+f)	at tekniske innretninger og utstyr er forsynt med verneinnretninger og blir vedlikeholdt slik at studentene er vernet mot skader på liv og helse.
+g)	at lokaler, adkomstveier, sanitæranlegg og tekniske innretninger er utformet på en slik måte at funksjonshemmede kan studere ved institusjonen.
+h)	at læringsmiljøet er innrettet for studenter av begge kjønn.
+i)	at læringsmiljøet er utformet etter prinsippet om universell utforming.
+Departementet kan i forskrift gi utfyllende bestemmelser om krav til læringsmiljøet.
+```
+
+### Lov om høyere yrkesfaglig utdanning (fagskoleloven)
+
+[Kilde](https://lovdata.no/dokument/NL/lov/2018-06-08-28)
+
+```
+§ 15. Læringsmiljø
+[…]
+Styret har ansvaret for at læringsmiljøet og det fysiske og psykiske arbeidsmiljøet er fullt forsvarlig med hensyn til studentenes helse, sikkerhet og velferd. I utformingen av det fysiske arbeidsmiljøet skal styret, så langt det er mulig og rimelig, sørge for
+a)	at lokaler, adkomstveier, trapper, mv. er dimensjonert og innredet for den virksomheten som drives
+b)	at lokalene har gode lys- og lydforhold og forsvarlig inneklima og luftkvalitet
+c)	at lokalene blir vedlikeholdt og er rene og ryddige
+d)	at lokalene er innredet slik at studentene unngår uheldige fysiske belastninger
+e)	at virksomheten er planlagt slik at skader og ulykker forebygges
+f)	at tekniske innretninger og utstyr er sikret og blir vedlikeholdt, slik at studentene unngår skader og ulykker
+g)	at lokaler, adkomstveier, sanitæranlegg og tekniske innretninger er utformet på en slik måte at personer med nedsatt funksjonsevne kan studere ved fagskolen
+h)	at læringsmiljøet er innrettet for studenter av ulike kjønn
+i)	at læringsmiljøet er utformet etter prinsippet om universell utforming.
+Departementet kan gi forskrift om kravene til læringsmiljøet.
+```
+
+### Lov om folkehøyskoler (folkehøyskoleloven)
+
+[Kilde](https://lovdata.no/dokument/NL/lov/2002-12-06-72)
+
+```
+§ 5a. Læringsmiljø
+Styret har ansvar for at læringsmiljøet på skolen, herunder det fysiske og psykiske arbeidsmiljø, er fullt forsvarlig ut fra en samlet vurdering av hensynet til elevenes helse, sikkerhet og velferd. 
+I utformingen av det fysiske arbeidsmiljøet skal det, så langt det er mulig og rimelig, sørges for
+a.	at lokaler, adkomstveier, trapper mv. er dimensjonert og innredet for den virksomhet som drives;
+b.	at lokalene har gode lys- og lydforhold og forsvarlig inneklima og luftkvalitet;
+c.	at lokalene blir vedlikeholdt og er rene og ryddige;
+d.	at lokalene er innredet slik at uheldige fysiske belastninger for elevene unngås;
+e.	at virksomheten er planlagt slik at skader og ulykker forebygges;
+f.	at tekniske innretninger og utstyr er forsynt med verneinnretninger og blir vedlikeholdt slik at elevene er vernet mot skader på liv og helse;
+g.	at lokaler, adkomstveier, sanitæranlegg og tekniske innretninger er utformet på en slik måte at funksjonshemmede kan studere ved skolen;
+h.	at læringsmiljøet er innrettet for elever av begge kjønn;
+i.	at læringsmiljøet er utformet etter prinsippet om universell utforming.
+Arbeidstilsynet fører tilsyn med at kravene i annet ledd overholdes. 
+Arbeidsmiljøloven kapittel 18 om tilsyn og tvangsmidler mv. gjelder tilsvarende så langt det passer.
 ```
 
 ## Forskrifter
