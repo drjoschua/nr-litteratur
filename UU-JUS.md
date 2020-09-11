@@ -24,6 +24,7 @@ Thus, other areas like hardware, equipment are not included in this regulation, 
 However, one could argue that other acts like the Public Procuremnt Act (anskaffelsesloven) and its regulation about public procurment (anskaffelsesforskriften) can be applicable for precuremnet hardware applications of a value above 100,000 NOK (§1-1). 
 This regulation require public actors to demand universal design for the procurment of services and products that are used by the general public (§15-2).  
 The regulation also specifies demand universal design for quality assurance (§16-7).
+Finally, Norway ratified the Convention on the rights of persons with disabilities, in which Norway commited itself "to undertake or promote research and development of universally designed goods, services, queipment and facilities, […] to promote their availability and use, and to promote unviersal design in the development of standards and guidelines"
    
 ## Lover
 
@@ -220,3 +221,37 @@ The guidelines and Success Criteria are organized around the following four prin
 ## Konvensjoner
 
 ###
+
+Kilde: [no](https://lovdata.no/dokument/TRAKTAT/traktat/2006-12-13-34)|[en](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-4-general-obligations.html)
+
+```
+Artikkel 2
+Definisjoner
+I denne konvensjon gjelder følgende definisjoner:
+[…]
+-	Med «universell utforming» menes utforming av produkter, omgivelser, programmer og tjenester på en slik måte at de kan brukes av alle mennesker, i så stor utstrekning som mulig, uten behov for tilpassing og en spesiell utforming.
+«Universell utforming» skal ikke utelukke hjelpemidler for bestemte grupper av mennesker med nedsatt funksjonsevne når det er behov for det.
+[…]
+Artikkel 4
+Generelle forpliktelser
+1.	Partene forplikter seg til å sikre og å fremme full gjennomføring av alle menneskerettigheter og grunnleggende friheter for alle mennesker med nedsatt funksjonsevne, uten diskriminering av noe slag på grunn av nedsatt funksjonsevne. For dette formål forplikter partene seg til
+[…]
+f.	å iverksette eller fremme forskning på og utvikling av varer, tjenester, utstyr og anlegg som er universelt utformet i samsvar med definisjonen i artikkel 2 i denne konvensjon, og som bør kreve minst mulig tilpassing og lavest mulige kostnader, for å ivareta de spesielle behovene til en person med nedsatt funksjonsevne, å fremme deres tilgjengelighet og bruk, og å fremme universell utforming i utviklingen av standarder og retningslinjer,
+[…].
+```
+
+```
+Article 2 - Definitions
+For the purposes of the present Convention:
+[…]
+“Universal design” means the design of products, environments, programmes and services to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design. 
+“Universal design” shall not exclude assistive devices for particular groups of persons with disabilities where this is needed.
+[…]
+Article 4 - General obligations
+1. States Parties undertake to ensure and promote the full realization of all human rights and fundamental freedoms for all persons with disabilities without discrimination of any kind on the basis of disability. 
+To this end, States Parties undertake:
+[…]
+f) To undertake or promote research and development of universally designed goods, services, equipment and facilities, as defined in article 2 of the present Convention, which should require the minimum possible adaptation and the least cost to meet the specific needs of a person with disabilities, to promote their availability and use, and to promote universal design in the development of standards and guidelines;
+[…]
+.
+```
