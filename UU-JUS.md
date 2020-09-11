@@ -98,8 +98,29 @@ Forskriften er begrenset til å gjelde nettløsninger, herunder digitale læremi
 ### Web Content Accessibility Guidelines (WCAG)
 
 Kilde:
-* [Generelt](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden)
+* [Generelt](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden), [mer](https://wcag.difi.no/wcag-20.html), [more](https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html).
 * 2.0: [no](https://www.w3.org/Translations/WCAG20-no/)|[en](https://www.w3.org/TR/WCAG20/)
 * 2.1: [no](https://uu.difi.no/krav-og-regelverk/webdirektivet-og-wcag-21)|[en](https://www.w3.org/TR/WCAG21/)
 * 2.2: ~~[no()]~~|[en](https://www.w3.org/TR/WCAG22/)
 
+```
+WCAG 2.0 er bygd opp av fire overordnede prinsipper:
+
+Prinsipp 1: Mulig å oppfatte – informasjon og brukergrensesnittkomponenter må presenteres for brukere på måter som de kan oppfatte.
+Prinsipp 2: Mulig å betjene – Det må være mulig å betjene brukergrensesnittkomponenter og navigeringsfunksjoner.
+Prinsipp 3: Forståelig – Det må være mulig å forstå informasjon og betjening av brukergrensesnitt.
+Prinsipp 4: Robust – Innholdet må være robust nok til at det kan tolkes på en pålitelig måte av brukeragenter, inkludert kompenserende teknologi.
+```
+
+```
+The guidelines and Success Criteria are organized around the following four principles, which lay the foundation necessary for anyone to access and use Web content. Anyone who wants to use the Web must have content that is:
+
+1. Perceivable - Information and user interface components must be presentable to users in ways they can perceive.
+    * This means that users must be able to perceive the information being presented (it can't be invisible to all of their senses)
+2. Operable - User interface components and navigation must be operable.
+    * This means that users must be able to operate the interface (the interface cannot require interaction that a user cannot perform)
+3. Understandable - Information and the operation of user interface must be understandable.
+    * This means that users must be able to understand the information as well as the operation of the user interface (the content or operation cannot be beyond their understanding)
+4. Robust - Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.
+    * This means that users must be able to access the content as technologies advance (as technologies and user agents evolve, the content should remain accessible)
+```
