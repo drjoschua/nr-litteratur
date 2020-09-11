@@ -1,3 +1,6 @@
+.project
+*.md.html
+
 *.bib.bak
 *.bib.sav
 *.bib.sav.bak
