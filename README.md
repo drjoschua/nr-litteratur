@@ -1,6 +1,6 @@
 # README
 
-This document contains genereal information about literature research.
+This document contains general information about literature research.
 
 # How to read scientific papers
 

@@ -2,16 +2,16 @@
 
 Det fins noen juridiske tekster i norsk lov som behandler universell utforming (lover, froskrifter, konvesjoner):
 * Lover:
-   - [ ] [Likestillings- og diskrimineringsloven](https://lovdata.no/dokument/NL/lov/2017-06-16-51)
-   - [ ] [Anskaffelsesloven](https://lovdata.no/dokument/NL/lov/2016-06-17-73)
-   - [ ] [Universitets- og høyskoleloven](https://lovdata.no/dokument/NL/lov/2005-04-01-15)
-   - [ ] [Fagskoleloven](https://lovdata.no/dokument/NL/lov/2018-06-08-28)
-   - [ ] [Folkehøyskoleloven](https://lovdata.no/dokument/NL/lov/2002-12-06-72)
+    - [Likestillings- og diskrimineringsloven](https://lovdata.no/dokument/NL/lov/2017-06-16-51)
+    - [Anskaffelsesloven](https://lovdata.no/dokument/NL/lov/2016-06-17-73)
+    - [Universitets- og høyskoleloven](https://lovdata.no/dokument/NL/lov/2005-04-01-15)
+    - [Fagskoleloven](https://lovdata.no/dokument/NL/lov/2018-06-08-28)
+    - [Folkehøyskoleloven](https://lovdata.no/dokument/NL/lov/2002-12-06-72)
 * Forskrifter:
-   - [ ] [Forskrift om universell utforming av IKT-løsninger](https://lovdata.no/dokument/SF/forskrift/2013-06-21-732)
-   - [ ] [Forskrift om offentlige anskaffelser](https://lovdata.no/dokument/SF/forskrift/2016-08-12-974)
+    - [Forskrift om universell utforming av IKT-løsninger](https://lovdata.no/dokument/SF/forskrift/2013-06-21-732)
+    - [Forskrift om offentlige anskaffelser](https://lovdata.no/dokument/SF/forskrift/2016-08-12-974)
 * Konvensjoner:
-   - [ ] [Konvensjon om rettighetene til mennesker med nedsatt funksjonsevne](https://lovdata.no/dokument/TRAKTAT/traktat/2006-12-13-34)
+    - [Konvensjon om rettighetene til mennesker med nedsatt funksjonsevne](https://lovdata.no/dokument/TRAKTAT/traktat/2006-12-13-34)
 
 The Anti-Discrimination Act (likestillings- og diskrimineringsloven) handles universal design for public services in Norway, and states that "public and private actors cirected towards the public are obligated to use universal design in their general functions" (§17). 
 Other acts related to education, f.ex. the Unviersity and University College Act(universitets- og høyskoleloven), the Vocational School Act (fagskoleloven), Adult Education Center Act (folkehøskoleloven), oblige institutions to have a universally designed education environment (§4-3, §15, §5a). 
@@ -22,9 +22,9 @@ WCAG defines the four major principis of acessibility of the content to be (1) p
 These regulations only apply for online solutions and automats. 
 Thus, other areas like hardware, equipment are not included in this regulation, and are therefore not legally obliged to follow unviersal design standards.
 However, one could argue that other acts like the Public Procuremnt Act (anskaffelsesloven) and its regulation about public procurment (anskaffelsesforskriften) can be applicable for precuremnet hardware applications of a value above 100,000 NOK (§1-1). 
-This regulation require public actors to demand universal design for the procurment of services and products that are used by the general public (§15-2).  
+This regulation require public actors to demand universal design for the procurment of services and products that are used by the general public (§15-2). 
 The regulation also specifies demand universal design for quality assurance (§16-7).
-Finally, Norway ratified the Convention on the rights of persons with disabilities, in which Norway commited itself "to undertake or promote research and development of universally designed goods, services, queipment and facilities, […] to promote their availability and use, and to promote unviersal design in the development of standards and guidelines"
+Finally, Norway ratified the Convention on the rights of persons with disabilities, in which Norway commited itself "to undertake or promote research and development of universally designed goods, services, equipment and facilities, […] to promote their availability and use, and to promote unviersal design in the development of standards and guidelines"
    
 ## Lover
 
