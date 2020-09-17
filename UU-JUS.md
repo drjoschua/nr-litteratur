@@ -33,6 +33,7 @@ Finally, Norway ratified the Convention on the rights of persons with disabiliti
 
 ### Lov om likestilling og forbud mot diskriminering (likestillings- og diskrimineringsloven)
 
+[Home](#juridiske-tekster-om-universell-utforming-uu-jus) |
 [Kilde](https://lovdata.no/dokument/NL/lov/2017-06-16-51)
 
 ```
@@ -88,6 +89,7 @@ Departementet kan i forskrift fastsette nærmere regler om utmåling av tvangsmu
 
 ### Lov om universiteter og høyskoler (universitets- og høyskoleloven)
 
+[Home](#juridiske-tekster-om-universell-utforming-uu-jus) |
 [Kilde](https://lovdata.no/dokument/NL/lov/2005-04-01-15)
 
 ```
@@ -109,6 +111,7 @@ Departementet kan i forskrift gi utfyllende bestemmelser om krav til læringsmil
 
 ### Lov om høyere yrkesfaglig utdanning (fagskoleloven)
 
+[Home](#juridiske-tekster-om-universell-utforming-uu-jus) |
 [Kilde](https://lovdata.no/dokument/NL/lov/2018-06-08-28)
 
 ```
@@ -129,6 +132,7 @@ Departementet kan gi forskrift om kravene til læringsmiljøet.
 
 ### Lov om folkehøyskoler (folkehøyskoleloven)
 
+[Home](#juridiske-tekster-om-universell-utforming-uu-jus) |
 [Kilde](https://lovdata.no/dokument/NL/lov/2002-12-06-72)
 
 ```
@@ -150,6 +154,7 @@ Arbeidsmiljøloven kapittel 18 om tilsyn og tvangsmidler mv. gjelder tilsvarende
 
 ### Lov om offentlige anskaffelser (anskaffelsesloven)
 
+[Home](#juridiske-tekster-om-universell-utforming-uu-jus) |
 [Kilde](https://lovdata.no/dokument/NL/lov/2016-06-17-73)
 
 ```
@@ -162,6 +167,7 @@ Oppdragsgiveren skal stille krav til universell utforming i offentlige kontrakte
 
 ### Forskrift om universell utforming av informasjons- og kommunikasjonsteknologiske (IKT)-løsninger
 
+[Home](#juridiske-tekster-om-universell-utforming-uu-jus) |
 [Kilde](https://lovdata.no/dokument/SF/forskrift/2013-06-21-732)
 
 ```
@@ -174,6 +180,7 @@ Forskriften er begrenset til å gjelde nettløsninger, herunder digitale læremi
 
 ### Forskrift om offentlige anskaffelser (anskaffelsesforskriften)
 
+[Home](#juridiske-tekster-om-universell-utforming-uu-jus) |
 [Kilde](https://lovdata.no/dokument/SF/forskrift/2016-08-12-974)
 
 ```
@@ -193,6 +200,7 @@ Oppdragsgiveren skal godta tilsvarende attester utstedt av organer i andre EØS-
 
 ### Web Content Accessibility Guidelines (WCAG)
 
+[Home](#juridiske-tekster-om-universell-utforming-uu-jus) |
 Kilde:
 * [Generelt](https://uu.difi.no/krav-og-regelverk/wcag-20-standarden), [mer](https://wcag.difi.no/wcag-20.html), [more](https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html).
 * 2.0: [no](https://www.w3.org/Translations/WCAG20-no/)|[en](https://www.w3.org/TR/WCAG20/)
@@ -225,6 +233,7 @@ The guidelines and Success Criteria are organized around the following four prin
 
 ### Convention on the Rights of Persons with Disabilities (CRPD)
 
+[Home](#juridiske-tekster-om-universell-utforming-uu-jus) |
 Kilde: [no](https://lovdata.no/dokument/TRAKTAT/traktat/2006-12-13-34)|[en](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-4-general-obligations.html)
 
 ```
