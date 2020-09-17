@@ -2,7 +2,7 @@
 
 Det fins noen juridiske tekster i norsk lov som behandler universell utforming (lover, forskrifter, konvensjoner):
 * Lover:
-    - [Likestillings- og diskrimineringsloven](#lov-om-likestilling-og-forbud-mot-diskriminering-likestillings-ogdiskrimineringsloven)
+    - [Likestillings- og diskrimineringsloven](#lov-om-likestilling-og-forbud-mot-diskriminering-likestillings-og-diskrimineringsloven)
     - [Universitets- og høyskoleloven](Lov om universiteter og høyskoler (universitets- og høyskoleloven))
     - [Fagskoleloven](Lov om høyere yrkesfaglig utdanning (fagskoleloven))
     - [Folkehøyskoleloven](Lov om folkehøyskoler (folkehøyskoleloven))
