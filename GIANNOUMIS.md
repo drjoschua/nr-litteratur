@@ -9,4 +9,4 @@
 Universal design in the information society shal promote equal access and use of technology in three ways:
 1. By accounting for human diversity.
 2. By eliminating barriers to accessbiility and usability.
-3. by augmenting participation.
+3. By augmenting participation.
