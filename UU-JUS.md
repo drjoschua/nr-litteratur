@@ -3,17 +3,17 @@
 Det fins noen juridiske tekster i norsk lov som behandler universell utforming (lover, forskrifter, konvensjoner):
 * Lover:
     - [Likestillings- og diskrimineringsloven](#lov-om-likestilling-og-forbud-mot-diskriminering-likestillings-og-diskrimineringsloven)
-    - [Universitets- og høyskoleloven](Lov om universiteter og høyskoler (universitets- og høyskoleloven))
-    - [Fagskoleloven](Lov om høyere yrkesfaglig utdanning (fagskoleloven))
-    - [Folkehøyskoleloven](Lov om folkehøyskoler (folkehøyskoleloven))
-    - [Anskaffelsesloven](Lov om offentlige anskaffelser (anskaffelsesloven))
+    - [Universitets- og høyskoleloven](#lov-om-universiteter-og-høyskoler-universitets-og-høyskoleloven)
+    - [Fagskoleloven](#lov-om-høyere-yrkesfaglig-utdanning-fagskoleloven)
+    - [Folkehøyskoleloven](#lov-om-folkehøyskoler-folkehøyskoleloven)
+    - [Anskaffelsesloven](#lov-om-offentlige-anskaffelser-anskaffelsesloven)
 * Forskrifter:
-    - [Forskrift om universell utforming av IKT-løsninger](Forskrift om universell utforming av informasjons- og kommunikasjonsteknologiske (IKT)-løsninger)
-    - [Forskrift om offentlige anskaffelser](Forskrift om offentlige anskaffelser (anskaffelsesforskriften))
+    - [Forskrift om universell utforming av IKT-løsninger](#forskrift-om-universell-utforming-av-informasjons-og-kommunikasjonsteknologiske-IKT-løsninger)
+    - [Forskrift om offentlige anskaffelser](#forskrift-om-offentlige-anskaffelser-anskaffelsesforskriften)
 * standarder:
-   - [Web Content Accessibility Guidelines (WCAG)](Web Content Accessibility Guidelines (WCAG))
+    - [Web Content Accessibility Guidelines (WCAG)](#web-content-accessibility-guidelines-wcag)
 * Konvensjoner:
-    - [Konvensjon om rettighetene til mennesker med nedsatt funksjonsevne / Convention on the Rights of Persons with Disabilities (CRPD)](Convention on the Rights of Persons with Disabilities (CRPD))
+    - [Konvensjon om rettighetene til mennesker med nedsatt funksjonsevne / Convention on the Rights of Persons with Disabilities (CRPD)](#convention-on-the-rights-of-persons-with-disabilities-crpd)
 
 The Anti-Discrimination Act (likestillings- og diskrimineringsloven) handles universal design for public services in Norway. It obliges "public and private actors directed towards the public […] to use universal design in their general functions" (§17). 
 One caveat of the law, however, protects actors from universal design that represents a disproportionate burden to the processes.
