@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Juridiske tekster om universell utforming (UU-JUS)
 
 Det fins noen juridiske tekster i norsk lov som behandler universell utforming (lover, forskrifter, konvensjoner):
@@ -538,4 +537,3 @@ f) To undertake or promote research and development of universally designed good
 […]
 .
 ```
->>>>>>> origin-gitlab/master
