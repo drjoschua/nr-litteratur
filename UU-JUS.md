@@ -14,9 +14,10 @@ Det fins noen juridiske tekster i norsk lov som behandler universell utforming (
     - [Konvensjon om rettighetene til mennesker med nedsatt funksjonsevne](https://lovdata.no/dokument/TRAKTAT/traktat/2006-12-13-34)
 
 The Anti-Discrimination Act (likestillings- og diskrimineringsloven) handles universal design for public services in Norway. It obliges "public and private actors directed towards the public […] to use universal design in their general functions" (§17). 
-For ICT solutions, however, the law states that this obligation is invalid for sectors with their own specific law or regulation (§18).
-Other acts related to education, for example the University and University College Act (universitets- og høyskoleloven), the Vocational School Act (fagskoleloven), Adult Education Center Act (folkehøskoleloven), require these institutions to have a universally designed education environment (§4-3, §15, §5a). 
-There is a specific regulation for universal design of ICT solutions (forskrift om universell utforming av IKT-løsninger) specifying that UD only applies for online solutions (websites, apps) including teaching aids, and automated services machines (ATMs, ticket machines, etc.) (§2).
+One caveat of the law, however, protects actors from universal design that represents a disproportionate burden to the processes.
+Another caveat applies to ICT solutions, for which the law states that this obligation is invalid for sectors with their own specific law or regulation (§18).
+On the one hand, other acts related to education, for example the University and University College Act (universitets- og høyskoleloven), the Vocational School Act (fagskoleloven), Adult Education Center Act (folkehøskoleloven), require these institutions to have a universally designed education environment (§4-3, §15, §5a). 
+On the other hand, there is a specific regulation for universal design of ICT solutions (forskrift om universell utforming av IKT-løsninger) specifying that UD only applies for online solutions (websites, apps) including teaching aids, and automated services machines (ATMs, ticket machines, etc.) (§2).
 The regulation states that websites shall follow the Web Content Accessibility Guidelines 2.0 standard (WCAG 2.0) on Level A and AA (§4). 
 WCAG is a standard published by the World Wide Web Consortium (W3C) to improve accessibility of web content, and it defines four major principles of accessibility to make the content be (1) perceivable, (2) operable, (3) understandable, and (4) robust. 
 Like mentioned before, however, these regulations only apply for online solutions and automats. 
@@ -159,7 +160,7 @@ Oppdragsgiveren skal stille krav til universell utforming i offentlige kontrakte
 
 ### Forskrift om universell utforming av informasjons- og kommunikasjonsteknologiske (IKT)-løsninger
 
-[Kilde](Forskrift om universell utforming av IKT-løsninger)
+[Kilde](https://lovdata.no/dokument/SF/forskrift/2013-06-21-732)
 
 ```
 § 2.Virkeområde
@@ -220,7 +221,7 @@ The guidelines and Success Criteria are organized around the following four prin
 
 ## Konvensjoner
 
-###
+### Convention on the Rights of Persons with Disabilities (CRPD)
 
 Kilde: [no](https://lovdata.no/dokument/TRAKTAT/traktat/2006-12-13-34)|[en](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-4-general-obligations.html)
 
