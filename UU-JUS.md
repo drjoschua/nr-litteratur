@@ -1,6 +1,6 @@
 # Juridiske tekster om universell utforming (UU-JUS)
 
-Det fins noen juridiske tekster i norsk lov som behandler universell utforming (lover, froskrifter, konvesjoner):
+Det fins noen juridiske tekster i norsk lov som behandler universell utforming (lover, forskrifter, konvensjoner):
 * Lover:
     - [Likestillings- og diskrimineringsloven](https://lovdata.no/dokument/NL/lov/2017-06-16-51)
     - [Anskaffelsesloven](https://lovdata.no/dokument/NL/lov/2016-06-17-73)
@@ -15,16 +15,16 @@ Det fins noen juridiske tekster i norsk lov som behandler universell utforming (
 
 The Anti-Discrimination Act (likestillings- og diskrimineringsloven) handles universal design for public services in Norway. It obliges "public and private actors directed towards the public […] to use universal design in their general functions" (§17). 
 For ICT solutions, however, the law states that this obligation is invalid for sectors with their own specific law or regulation (§18).
-Other acts related to education, f.ex. the University and University College Act (universitets- og høyskoleloven), the Vocational School Act (fagskoleloven), Adult Education Center Act (folkehøskoleloven), require these institutions to have a universally designed education environment (§4-3, §15, §5a). 
-There is a specific regulation for universal desing of ICT solutions (forskrift om universell utforming av IKT-løsninger) specifying that UD only applies for online solutions (websites, apps) including teaching aids, and automated services machines (ATMs, ticket machines, etc.) (§2).
+Other acts related to education, for example the University and University College Act (universitets- og høyskoleloven), the Vocational School Act (fagskoleloven), Adult Education Center Act (folkehøskoleloven), require these institutions to have a universally designed education environment (§4-3, §15, §5a). 
+There is a specific regulation for universal design of ICT solutions (forskrift om universell utforming av IKT-løsninger) specifying that UD only applies for online solutions (websites, apps) including teaching aids, and automated services machines (ATMs, ticket machines, etc.) (§2).
 The regulation states that websites shall follow the Web Content Accessibility Guidelines 2.0 standard (WCAG 2.0) on Level A and AA (§4). 
-WCAG is a standard published by the World Wide Web Consortium (W3C) to improve accessbiility of web content, and it defines four major principles of acessibility to make the content be (1) perceivable, (2) operable, (3) understandable, and (4) robust. 
+WCAG is a standard published by the World Wide Web Consortium (W3C) to improve accessibility of web content, and it defines four major principles of accessibility to make the content be (1) perceivable, (2) operable, (3) understandable, and (4) robust. 
 Like mentioned before, however, these regulations only apply for online solutions and automats. 
-Thus, other areas like hardware, equipment, etc. are not included in this regulation, and are therefore not legally obliged to follow unviersal design standards.
-However, one could argue that other acts like the Public Procuremnt Act (anskaffelsesloven) and its regulation about public procurment (anskaffelsesforskriften) can be applicable for precurement hardware applications of a value above 100,000 NOK (§1-1). 
-This regulation require public actors to set universal design requirements for the procurment of services and products that are used by the general public (§15-2). 
+Thus, other areas like hardware, equipment, etc. are not included in this regulation, and are therefore not legally obliged to follow universal design standards.
+However, one could argue that other acts like the Public Procurement Act (anskaffelsesloven) and its regulation about public procurement (anskaffelsesforskriften) can be applicable for procurement hardware applications of a value above 100,000 NOK (§1-1). 
+This regulation require public actors to set universal design requirements for the procurement of services and products that are used by the general public (§15-2). 
 The regulation also specifies universal design demands for quality assurance (§16-7).
-Finally, Norway ratified the Convention on the rights of persons with disabilities, in which Norway commited itself "to undertake or promote research and development of universally designed goods, services, equipment and facilities, […] to promote their availability and use, and to promote unviersal design in the development of standards and guidelines".
+Finally, Norway ratified the Convention on the rights of persons with disabilities, in which Norway committed itself "to undertake or promote research and development of universally designed goods, services, equipment and facilities, […] to promote their availability and use, and to promote universal design in the development of standards and guidelines".
    
 ## Lover
 
