@@ -13,18 +13,18 @@ Det fins noen juridiske tekster i norsk lov som behandler universell utforming (
 * Konvensjoner:
     - [Konvensjon om rettighetene til mennesker med nedsatt funksjonsevne](https://lovdata.no/dokument/TRAKTAT/traktat/2006-12-13-34)
 
-The Anti-Discrimination Act (likestillings- og diskrimineringsloven) handles universal design for public services in Norway, and states that "public and private actors cirected towards the public are obligated to use universal design in their general functions" (§17). 
-Other acts related to education, f.ex. the Unviersity and University College Act(universitets- og høyskoleloven), the Vocational School Act (fagskoleloven), Adult Education Center Act (folkehøskoleloven), oblige institutions to have a universally designed education environment (§4-3, §15, §5a). 
+The Anti-Discrimination Act (likestillings- og diskrimineringsloven) handles universal design for public services in Norway. It obliges "public and private actors directed towards the public […] to use universal design in their general functions" (§17). 
 For ICT solutions, however, the law states that this obligation is invalid for sectors with their own specific law or regulation (§18).
-There is a specific regulation for universal desing of ICT solutions (forskrift om universell utforming av IKT-løsninger) specifying that UD only applies for online solutions (websites, apps) including teaching aids, and automats (???) (§2).
-The regulation states that websides should follow the Web Content Accessibility Guidelines 2.0 standard (WCAG 2.0) on Level A and AA(§4). 
-WCAG defines the four major principis of acessibility of the content to be (1) perceivable, (2) operable, (3) understandable, and (4) robust. 
-These regulations only apply for online solutions and automats. 
-Thus, other areas like hardware, equipment are not included in this regulation, and are therefore not legally obliged to follow unviersal design standards.
-However, one could argue that other acts like the Public Procuremnt Act (anskaffelsesloven) and its regulation about public procurment (anskaffelsesforskriften) can be applicable for precuremnet hardware applications of a value above 100,000 NOK (§1-1). 
-This regulation require public actors to demand universal design for the procurment of services and products that are used by the general public (§15-2). 
-The regulation also specifies demand universal design for quality assurance (§16-7).
-Finally, Norway ratified the Convention on the rights of persons with disabilities, in which Norway commited itself "to undertake or promote research and development of universally designed goods, services, equipment and facilities, […] to promote their availability and use, and to promote unviersal design in the development of standards and guidelines"
+Other acts related to education, f.ex. the University and University College Act (universitets- og høyskoleloven), the Vocational School Act (fagskoleloven), Adult Education Center Act (folkehøskoleloven), require these institutions to have a universally designed education environment (§4-3, §15, §5a). 
+There is a specific regulation for universal desing of ICT solutions (forskrift om universell utforming av IKT-løsninger) specifying that UD only applies for online solutions (websites, apps) including teaching aids, and automated services machines (ATMs, ticket machines, etc.) (§2).
+The regulation states that websites shall follow the Web Content Accessibility Guidelines 2.0 standard (WCAG 2.0) on Level A and AA (§4). 
+WCAG is a standard published by the World Wide Web Consortium (W3C) to improve accessbiility of web content, and it defines four major principles of acessibility to make the content be (1) perceivable, (2) operable, (3) understandable, and (4) robust. 
+Like mentioned before, however, these regulations only apply for online solutions and automats. 
+Thus, other areas like hardware, equipment, etc. are not included in this regulation, and are therefore not legally obliged to follow unviersal design standards.
+However, one could argue that other acts like the Public Procuremnt Act (anskaffelsesloven) and its regulation about public procurment (anskaffelsesforskriften) can be applicable for precurement hardware applications of a value above 100,000 NOK (§1-1). 
+This regulation require public actors to set universal design requirements for the procurment of services and products that are used by the general public (§15-2). 
+The regulation also specifies universal design demands for quality assurance (§16-7).
+Finally, Norway ratified the Convention on the rights of persons with disabilities, in which Norway commited itself "to undertake or promote research and development of universally designed goods, services, equipment and facilities, […] to promote their availability and use, and to promote unviersal design in the development of standards and guidelines".
    
 ## Lover
 
