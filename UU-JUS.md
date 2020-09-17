@@ -8,7 +8,7 @@ Det fins noen juridiske tekster i norsk lov som behandler universell utforming (
     - [Folkehøyskoleloven](#lov-om-folkehøyskoler-folkehøyskoleloven)
     - [Anskaffelsesloven](#lov-om-offentlige-anskaffelser-anskaffelsesloven)
 * Forskrifter:
-    - [Forskrift om universell utforming av IKT-løsninger](#forskrift-om-universell-utforming-av-informasjons-og-kommunikasjonsteknologiske-IKT-løsninger)
+    - [Forskrift om universell utforming av IKT-løsninger](#forskrift-om-universell-utforming-av-informasjons-og-kommunikasjonsteknologiske-ikt-løsninger)
     - [Forskrift om offentlige anskaffelser](#forskrift-om-offentlige-anskaffelser-anskaffelsesforskriften)
 * standarder:
     - [Web Content Accessibility Guidelines (WCAG)](#web-content-accessibility-guidelines-wcag)
