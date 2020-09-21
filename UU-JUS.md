@@ -10,7 +10,7 @@ Det fins noen juridiske tekster i norsk lov som behandler universell utforming (
 * Forskrifter:
     - [Forskrift om universell utforming av IKT-løsninger](#forskrift-om-universell-utforming-av-informasjons-og-kommunikasjonsteknologiske-ikt-løsninger)
     - [Forskrift om offentlige anskaffelser](#forskrift-om-offentlige-anskaffelser-anskaffelsesforskriften)
-* standarder:
+* Standarder:
     - [Web Content Accessibility Guidelines (WCAG)](#web-content-accessibility-guidelines-wcag)
 * Konvensjoner:
     - [Konvensjon om rettighetene til mennesker med nedsatt funksjonsevne / Convention on the Rights of Persons with Disabilities (CRPD)](#convention-on-the-rights-of-persons-with-disabilities-crpd)
@@ -25,7 +25,7 @@ WCAG is a standard published by the World Wide Web Consortium (W3C) to improve a
 Like mentioned before, however, these regulations only apply for online solutions and automats. 
 Thus, other areas like hardware, equipment, etc. are not included in this regulation, and are therefore not legally obliged to follow universal design standards.
 However, one could argue that other acts like the Public Procurement Act (anskaffelsesloven) and its regulation about public procurement (anskaffelsesforskriften) can be applicable for procurement hardware applications of a value above 100,000 NOK (§1-1). 
-This regulation require public actors to set universal design requirements for the procurement of services and products that are used by the general public (§15-2). 
+This regulation requires public actors to set universal design requirements for the procurement of services and products that are used by the general public (§15-2). 
 The regulation also specifies universal design demands for quality assurance (§16-7).
 Finally, Norway ratified the Convention on the rights of persons with disabilities, in which Norway committed itself "to undertake or promote research and development of universally designed goods, services, equipment and facilities, […] to promote their availability and use, and to promote universal design in the development of standards and guidelines".
    
