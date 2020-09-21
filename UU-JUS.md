@@ -7,6 +7,7 @@ Det fins noen juridiske tekster i norsk lov som behandler universell utforming (
     - [Fagskoleloven](#lov-om-høyere-yrkesfaglig-utdanning-fagskoleloven)
     - [Folkehøyskoleloven](#lov-om-folkehøyskoler-folkehøyskoleloven)
     - [Anskaffelsesloven](#lov-om-offentlige-anskaffelser-anskaffelsesloven)
+    - [Arbeidsmiljøloven](#lov-om-arbeidsmiljø-arbeidstid-og-stillingsvern-mv-arbeidsmiljøloven)
 * Forskrifter:
     - [Forskrift om universell utforming av IKT-løsninger](#forskrift-om-universell-utforming-av-informasjons-og-kommunikasjonsteknologiske-ikt-løsninger)
     - [Forskrift om offentlige anskaffelser](#forskrift-om-offentlige-anskaffelser-anskaffelsesforskriften)
@@ -161,6 +162,17 @@ Arbeidsmiljøloven kapittel 18 om tilsyn og tvangsmidler mv. gjelder tilsvarende
 § 5.Miljø, menneskerettigheter og andre samfunnshensyn
 […]
 Oppdragsgiveren skal stille krav til universell utforming i offentlige kontrakter i samsvar med regler som fastsettes i forskrift.
+```
+
+### Lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)
+
+[Home](#juridiske-tekster-om-universell-utforming-uu-jus) |
+[Kilde](https://lovdata.no/dokument/NL/lov/2005-06-17-62)
+
+```
+§ 4-1.Generelle krav til arbeidsmiljøet
+§ 4-2.Krav til tilrettelegging, medvirkning og utvikling
+§ 4-6.Særlig om tilrettelegging for arbeidstakere med redusert arbeidsevne
 ```
 
 ## Forskrifter
