@@ -120,7 +120,7 @@ For more details, please use [the documentation](https://www.w3.org/TR/WCAG20/).
 
 [Home](#web-content-accessibility-guidelines-wcag)
 
-WCAG 2.0 builds on [WCAG 2.0](#web-content-accessibility-guidelines-wcag-20) and includes some additional new Success criteria to
+WCAG 2.1 builds on [WCAG 2.0](#web-content-accessibility-guidelines-wcag-20) and includes some additional new Success criteria to
 1. Perceivable
    * 1.3 Adaptable (__1.3.4-6__)
    * 1.4 Distingushable (__1.4.10-14__)
@@ -129,15 +129,27 @@ WCAG 2.0 builds on [WCAG 2.0](#web-content-accessibility-guidelines-wcag-20) and
    * 2.2 Enough Time (__2.2.6__)
    * 2.3 Seizures and Pysical Reactions (__2.3.3__)
    * 2.5 __Input Modalities__ (Completely new!) (__2.5.1-6__)
-2. Robust
+3. Understandable [no changes]
+4. Robust
    * 4.1 Compatible (__4.1.3__)
 
 For more details, please use [the documentation](https://www.w3.org/TR/WCAG21/).
-
-
 
 ## Web Content Accessibility Guidelines (WCAG) 2.2
 
 [Home](#web-content-accessibility-guidelines-wcag)
 
 _This is only a working draft._
+
+WCAG 2.2 builds on [WCAG 2.1](#web-content-accessibility-guidelines-wcag-21) and includes some additional new Success criteria to  
+1. Perceivable [no changes]
+2. Operable
+   * 2.4 Navigable (__2.4.11-13__)
+   * 2.5 Input Modalities (__2.5.7-8__)
+3. Understandable
+   * 3.3 Input Assistance (__3.3.7-8__)
+   * 3.2 Predictable(__3.2.6-7__)
+4. Robust [no changes]
+
+In addition, the conformance level for _2.4.7_ has been changed from Level AA to A.
+For more details, please use [the documentation](https://www.w3.org/TR/WCAG22/).
