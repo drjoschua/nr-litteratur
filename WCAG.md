@@ -120,6 +120,22 @@ For more details, please use [the documentation](https://www.w3.org/TR/WCAG20/).
 
 [Home](#web-content-accessibility-guidelines-wcag)
 
+WCAG 2.0 builds on [WCAG 2.0](#web-content-accessibility-guidelines-wcag-20) and includes some additional new Success criteria to
+1. Perceivable
+   * 1.3 Adaptable (__1.3.4-6__)
+   * 1.4 Distingushable (__1.4.10-14__)
+2. Operable
+   * 2.1 Keyboard Accessible (__2.1.4__)
+   * 2.2 Enough Time (__2.2.6__)
+   * 2.3 Seizures and Pysical Reactions (__2.3.3__)
+   * 2.5 __Input Modalities__ (Completely new!) (__2.5.1-6__)
+2. Robust
+   * 4.1 Compatible (__4.1.3__)
+
+For more details, please use [the documentation](https://www.w3.org/TR/WCAG21/).
+
+
+
 ## Web Content Accessibility Guidelines (WCAG) 2.2
 
 [Home](#web-content-accessibility-guidelines-wcag)
