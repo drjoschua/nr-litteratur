@@ -45,7 +45,7 @@ If any of these are not true, users with disabilities will not be able to use th
 
 ### Conformance 
 
-[Home](#web-content-accessibility-guidelines-wcag) | Kilde: [2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html) | [2.1](https://www.w3.org/WAI/WCAG21/Understanding/conformance)
+[Home](#web-content-accessibility-guidelines-wcag) | Kilde: [2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html) | [2.1](https://www.w3.org/WAI/WCAG21/Understanding/conformance) | [2.2](https://www.w3.org/WAI/WCAG22/Understanding/conformance)
 
 There are three levels of conformance: 
 ```
@@ -120,7 +120,7 @@ For more details, please use [the documentation](https://www.w3.org/TR/WCAG20/).
 
 [Home](#web-content-accessibility-guidelines-wcag)
 
-WCAG 2.1 builds on [WCAG 2.0](#web-content-accessibility-guidelines-wcag-20) and includes some additional new Success criteria to
+WCAG 2.1 builds on [WCAG 2.0](#web-content-accessibility-guidelines-wcag-20) and includes some additional [new Success criteria](https://www.w3.org/TR/WCAG21/#comparison-with-wcag-2-0) to
 1. Perceivable
    * 1.3 Adaptable (__1.3.4-6__)
    * 1.4 Distingushable (__1.4.10-14__)
@@ -141,14 +141,14 @@ For more details, please use [the documentation](https://www.w3.org/TR/WCAG21/).
 
 _This is only a working draft._
 
-WCAG 2.2 builds on [WCAG 2.1](#web-content-accessibility-guidelines-wcag-21) and includes some additional new Success criteria to  
+WCAG 2.2 builds on [WCAG 2.1](#web-content-accessibility-guidelines-wcag-21) and includes some additional [new Success criteria](https://www.w3.org/TR/WCAG22/#comparison-with-wcag-2-1) to  
 1. Perceivable [no changes]
 2. Operable
    * 2.4 Navigable (__2.4.11-13__)
    * 2.5 Input Modalities (__2.5.7-8__)
 3. Understandable
+   * 3.2 Predictable (__3.2.6-7__)
    * 3.3 Input Assistance (__3.3.7-8__)
-   * 3.2 Predictable(__3.2.6-7__)
 4. Robust [no changes]
 
 In addition, the conformance level for _2.4.7_ has been changed from Level AA to A.
