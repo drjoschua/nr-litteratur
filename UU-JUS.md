@@ -23,6 +23,7 @@ On the one hand, other acts related to education, for example the University and
 On the other hand, there is a specific regulation for universal design of ICT solutions (forskrift om universell utforming av IKT-løsninger) specifying that UD only applies for online solutions (websites, apps) including teaching aids, and automated services machines (ATMs, ticket machines, etc.) (§2).
 The regulation states that websites shall follow the Web Content Accessibility Guidelines 2.0 standard (WCAG 2.0) on Level A and AA (§4). 
 WCAG is a standard published by the World Wide Web Consortium (W3C) to improve accessibility of web content, and it defines four major principles of accessibility to make the content be (1) perceivable, (2) operable, (3) understandable, and (4) robust. 
+One could argue that research should promote more standards that can be required by the lawmaker.
 Like mentioned before, however, these regulations only apply for online solutions and automats. 
 Thus, other areas like hardware, equipment, etc. are not included in this regulation, and are therefore not legally obliged to follow universal design standards.
 However, one could argue that other acts like the Public Procurement Act (anskaffelsesloven) and its regulation about public procurement (anskaffelsesforskriften) can be applicable for procurement hardware applications of a value above 100,000 NOK (§1-1). 
