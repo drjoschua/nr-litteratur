@@ -2,16 +2,18 @@
 
 Web Content Accessibility Guidelines (WCAG) consist of recommendations that aim to make Web content more accessible for people with disabilities including blindness and low vision, deafness and hearing loss, learning disabilities, cognitive limitations, limited movement, speech disabilities, photosensitivity and combinations of these.
 WCAG exists in the following versions:
+* [General](#general)
+   * [The Four Principles fo Accessibility](#the-four-principles-of-accessibility)
+   * [Conformance](#conformance)   
 * WCAG 1.0 [_Not covered in this document_]
-* [WCAG 2.0](#web-content-accessibility-guidelines-wcag-2-0)
-* [WCAG 2.1](#web-content-accessibility-guidelines-wcag-2-1)
-* [WCAG 2.2](#web-content-accessibility-guidelines-wcag-2-2-_working-draft_)
+* [WCAG 2.0](#web-content-accessibility-guidelines-wcag-20)
+* [WCAG 2.1](#web-content-accessibility-guidelines-wcag-21)
+* [WCAG 2.2](#web-content-accessibility-guidelines-wcag-22)
 
-## Web Content Accessibility Guidelines (WCAG) 2.0
+## General 
 
-[Home](#web-content-accessibility-guidelines-wcag)
-
-WCAG 2.0 aims to make Web content more accessible to with disabilities including visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities.
+These premises are true for all guidelines (2.+).
+WCAG 2.+ aims to make Web content more accessible to with disabilities including visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities.
 The standard provides the following layers of guidance:
 * [Principles](#the-four-principles-of-accessibility): 
 To be accessible, a Web page needs to be __perceivable, operable, understandable, and robust__.
@@ -20,7 +22,8 @@ The basic goals for each principle.
 * [Success Criteria](#conformance): 
 Testable success criteria for each guideline. 
 * Sufficient and Advisory Techniques:
-For each guideline and success criteria there are sufficient and advisory techniques and failures (if they exist) as listed in the [quick reference documentation](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0).
+For each guideline and success criteria there are sufficient and advisory techniques and failures (if they exist) as listed in the quick reference documentation: [2.0](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0) | [2.1](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.1).
+
 
 ### The Four Principles of Accessibility
 
@@ -40,11 +43,45 @@ Anyone who wants to use the Web must have content that is:
 If any of these are not true, users with disabilities will not be able to use the Web.
 ```
 
-### The Guidelines 2.0
+### Conformance 
+
+[Home](#web-content-accessibility-guidelines-wcag) | Kilde: [2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html) | [2.1](https://www.w3.org/WAI/WCAG21/Understanding/conformance)
+
+There are three levels of conformance: 
+```
+• Level 1 success criteria [A]:
+  1. Achieve a minimum level of accessibility.
+  2. Can reasonably be applied to all Web content.
+• Level 2 success criteria [AA]:
+  1. Achieve an enhanced level of accessibility.
+  2. Can reasonably be applied to all Web content.
+• Level 3 success criteria [AAA]:
+  1. Achieve additional accessibility enhancements.
+  2. Can not necessarily be applied to all Web content.
+``` 
+
+To be classified as conforming to WCAG 2.0, the web site has to meet five requirements.
+
+```
+1. Conformance Level: One of the following levels of conformance is met in full.
+   • Level A: For Level A conformance (the minimum level of conformance), the Web page satisfies all the Level A Success Criteria, or a conforming alternate version is provided.
+   • Level AA: For Level AA conformance, the Web page satisfies all the Level A and Level AA Success Criteria, or a Level AA conforming alternate version is provided.
+   • Level AAA: For Level AAA conformance, the Web page satisfies all the Level A, Level AA and Level AAA Success Criteria, or a Level AAA conforming alternate version is provided.
+2. Full pages: Conformance (and conformance level) is for full Web page(s) only, and cannot be achieved if part of a Web page is excluded.
+3. Complete processes: When a Web page is one of a series of Web pages presenting a process (i.e., a sequence of steps that need to be completed in order to accomplish an activity), all Web pages in the process conform at the specified level or better. (Conformance is not possible at a particular level if any page in the process does not conform at that level or better.)
+4. Only Accessibility-Supported Ways of Using Technologies: Only accessibility-supported ways of using technologies are relied upon to satisfy the success criteria. Any information or functionality that is provided in a way that is not accessibility supported is also available in a way that is accessibility supported. 
+5. Non-Interference: If technologies are used in a way that is not accessibility supported, or if they are used in a non-conforming way, then they do not block the ability of users to access the rest of the page. In addition, the Web page as a whole continues to meet the conformance requirements under each of the following conditions:
+   1. when any technology that is not relied upon is turned on in a user agent,
+   2. when any technology that is not relied upon is turned off in a user agent, and
+   3. when any technology that is not relied upon is not supported by a user agent
+``` 
+
+## Web Content Accessibility Guidelines (WCAG) 2.0
 
 [Home](#web-content-accessibility-guidelines-wcag)
 
-This document only names the guidlines.
+These guidelines for the base of all the following guidelines.
+This document only the names of the guidlines in WCAG 2.0.
 Each guideline might have multiple subcategories. 
 For more details, please use [the documentation](https://www.w3.org/TR/WCAG20/).
 
@@ -79,43 +116,12 @@ For more details, please use [the documentation](https://www.w3.org/TR/WCAG20/).
    4.1 __Compatible__:
    Maximize compatibility with current and future user agents, including assistive technologies.
 
-### Conformance 
-
-[Home](#web-content-accessibility-guidelines-wcag) | [Kilde](https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html)
-
-There are three levels of conformance: 
-```
-• Level 1 success criteria [A]:
-  1. Achieve a minimum level of accessibility.
-  2. Can reasonably be applied to all Web content.
-• Level 2 success criteria [AA]:
-  1. Achieve an enhanced level of accessibility.
-  2. Can reasonably be applied to all Web content.
-• Level 3 success criteria [AAA]:
-  1. Achieve additional accessibility enhancements.
-  2. Can not necessarily be applied to all Web content.
-``` 
-
-To be classified as conforming to WCAG 2.0, the web site has to meet five requirements.
-
-```
-1. Conformance Level: One of the following levels of conformance is met in full.
-   • Level A: For Level A conformance (the minimum level of conformance), the Web page satisfies all the Level A Success Criteria, or a conforming alternate version is provided.
-   • Level AA: For Level AA conformance, the Web page satisfies all the Level A and Level AA Success Criteria, or a Level AA conforming alternate version is provided.
-   • Level AAA: For Level AAA conformance, the Web page satisfies all the Level A, Level AA and Level AAA Success Criteria, or a Level AAA conforming alternate version is provided.
-2. Full pages: Conformance (and conformance level) is for full Web page(s) only, and cannot be achieved if part of a Web page is excluded.
-3. Complete processes: When a Web page is one of a series of Web pages presenting a process (i.e., a sequence of steps that need to be completed in order to accomplish an activity), all Web pages in the process conform at the specified level or better. (Conformance is not possible at a particular level if any page in the process does not conform at that level or better.)
-4. Only Accessibility-Supported Ways of Using Technologies: Only accessibility-supported ways of using technologies are relied upon to satisfy the success criteria. Any information or functionality that is provided in a way that is not accessibility supported is also available in a way that is accessibility supported. 
-5. Non-Interference: If technologies are used in a way that is not accessibility supported, or if they are used in a non-conforming way, then they do not block the ability of users to access the rest of the page. In addition, the Web page as a whole continues to meet the conformance requirements under each of the following conditions:
-   1. when any technology that is not relied upon is turned on in a user agent,
-   2. when any technology that is not relied upon is turned off in a user agent, and
-   3. when any technology that is not relied upon is not supported by a user agent
-``` 
-
 ## Web Content Accessibility Guidelines (WCAG) 2.1
 
 [Home](#web-content-accessibility-guidelines-wcag)
 
-## Web Content Accessibility Guidelines (WCAG) 2.2 [_Working draft_]
+## Web Content Accessibility Guidelines (WCAG) 2.2
 
 [Home](#web-content-accessibility-guidelines-wcag)
+
+_This is only a working draft._
