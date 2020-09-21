@@ -3,7 +3,7 @@
 Web Content Accessibility Guidelines (WCAG) consist of recommendations that aim to make Web content more accessible for people with disabilities including blindness and low vision, deafness and hearing loss, learning disabilities, cognitive limitations, limited movement, speech disabilities, photosensitivity and combinations of these.
 WCAG exists in the following versions:
 * [General](#general)
-   * [The Four Principles fo Accessibility](#the-four-principles-of-accessibility)
+   * [The Four Principles of Accessibility](#the-four-principles-of-accessibility)
    * [Conformance](#conformance)   
 * WCAG 1.0 [_Not covered in this document_]
 * [WCAG 2.0](#web-content-accessibility-guidelines-wcag-20)
@@ -81,7 +81,7 @@ To be classified as conforming to WCAG 2.0, the web site has to meet five requir
 [Home](#web-content-accessibility-guidelines-wcag)
 
 These guidelines for the base of all the following guidelines.
-This document only the names of the guidlines in WCAG 2.0.
+This document only the names of the guidelines in WCAG 2.0.
 Each guideline might have multiple subcategories. 
 For more details, please use [the documentation](https://www.w3.org/TR/WCAG20/).
 
@@ -90,7 +90,7 @@ For more details, please use [the documentation](https://www.w3.org/TR/WCAG20/).
    Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as large print, braille, speech, symbols or simpler language.  
    1.2 __Time-based Media__:
    Provide alternatives for time-based media.  
-   1.3 __Adabtable__: 
+   1.3 __Adaptable__: 
    Create content that can be presented in different ways (for example simpler layout) without losing information or structure.  
    1.4 __Distinguishable__: 
    Make it easier for users to see and hear content including separating foreground from background.
@@ -99,7 +99,7 @@ For more details, please use [the documentation](https://www.w3.org/TR/WCAG20/).
    Make all functionality available from a keyboard.  
    2.2 __Enough Time__:
    Provide users enough time to read and use content.  
-   2.3 __Seizures and Pysical Reactions__:
+   2.3 __Seizures and Physical Reactions__:
    Do not design content in a way that is known to cause seizures or physical reactions.  
    2.4 __Navigable__:
    Provide ways to help users navigate, find content, and determine where they are.  
@@ -123,11 +123,11 @@ For more details, please use [the documentation](https://www.w3.org/TR/WCAG20/).
 WCAG 2.1 builds on [WCAG 2.0](#web-content-accessibility-guidelines-wcag-20) and includes some additional [new Success criteria](https://www.w3.org/TR/WCAG21/#comparison-with-wcag-2-0) to
 1. Perceivable
    * 1.3 Adaptable (__1.3.4-6__)
-   * 1.4 Distingushable (__1.4.10-14__)
+   * 1.4 Distinguishable (__1.4.10-14__)
 2. Operable
    * 2.1 Keyboard Accessible (__2.1.4__)
    * 2.2 Enough Time (__2.2.6__)
-   * 2.3 Seizures and Pysical Reactions (__2.3.3__)
+   * 2.3 Seizures and Physical Reactions (__2.3.3__)
    * 2.5 __Input Modalities__ (Completely new!) (__2.5.1-6__)
 3. Understandable [no changes]
 4. Robust
