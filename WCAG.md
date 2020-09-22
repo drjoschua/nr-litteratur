@@ -1,5 +1,7 @@
 # Web Content Accessibility Guidelines (WCAG)
 
+[Home](./README.md)
+
 Web Content Accessibility Guidelines (WCAG) consist of recommendations that aim to make Web content more accessible for people with disabilities including blindness and low vision, deafness and hearing loss, learning disabilities, cognitive limitations, limited movement, speech disabilities, photosensitivity and combinations of these.
 WCAG exists in the following versions:
 * [General](#general)
