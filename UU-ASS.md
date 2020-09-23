@@ -5,6 +5,8 @@
 Det fins noen tekster som handler om evaluringsmetoder for universell utforming:
 * [Evaluation of Accessibility Testing Methods. Which Methods Uncover What Type of Problems?](#evaluation-of-accessibility-testing-methods-which-methods-uncover-what-type-of-problems)
 
+Research by Bai et al. (2016) support the hypothesis that a combination of multiple assessment methods covers a wide range of critical and confusing accessibility issues. They showed that no single method is superior to any other, but presented evidents that a combination of expert testing methods can give good results.
+
 
 ## Evaluation of Accessibility Testing Methods. Which Methods Uncover What Type of Problems?
 
