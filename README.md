@@ -3,13 +3,12 @@
 This document contains general information about literature research.
 You can find a short summary of relevant literature in the following documents:
 * Universal design
-   * [General benefits](./UU-BENF.md)
-   * [Cost-benefit analysis](./UU-NYKO.md)
-   * [Legal requirements](./UU-JUS.md)
+    * [Assessment methods](./UU-ASS.md)
+    * [General benefits](./UU-BENF.md)
+    * [Cost-benefit analysis](./UU-NYKO.md)
+    * [Legal requirements](./UU-JUS.md)
 * Standards:
-   * [Web Accessibility Guidelines (WCAG)](./WCAG.md)
-
-
+    * [Web Accessibility Guidelines (WCAG)](./WCAG.md)
 
 # How to read scientific papers
 

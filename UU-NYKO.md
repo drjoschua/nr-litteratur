@@ -1,4 +1,4 @@
-# Tekster om Nytte-kostnadsanalysen av universell utforming (UU-NYKO)
+# Tekster om nytte-kostnadsanalysen av universell utforming (UU-NYKO)
 
 [Home](./README.md)
 
