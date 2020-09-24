@@ -6,7 +6,9 @@ Det fins noen tekster som handler om evaluringsmetoder for universell utforming:
 * [Categorization and Comparison of Accessibility Testing Methods for Software Development (2018)](#categorization-and-comparison-of-accessibility-testing-methods-for-software-development-2018)
 * [Evaluation of Accessibility Testing Methods. Which Methods Uncover What Type of Problems? (2016)](#evaluation-of-accessibility-testing-methods-which-methods-uncover-what-type-of-problems-2016)
 
-Research by Bai et al. (2016) support the hypothesis that a combination of multiple assessment methods covers a wide range of critical and confusing accessibility issues. They showed that no single method is superior to any other, but presented evidents that a combination of expert testing methods can give good results.
+
+[__Bai et al. (2018)__](#categorization-and-comparison-of-accessibility-testing-methods-for-software-development-2018) expended W3C accessibility cognitive barriers from one to three resulting in seven barriers in total (Aud, A&M, HLL, L&N, Phy, Spe, Vis), and categorized accessibility tools in different categories (Auto, Check, Sim, AT, Exp) including an indication of their cost for developers. Moreover, they analyzed four assessment methods for each of the categories showing the acessibility barriers they cover. 
+Research by [__Bai et al. (2016)__](#evaluation-of-accessibility-testing-methods-which-methods-uncover-what-type-of-problems-2016) support the hypothesis that a combination of multiple assessment methods covers a wide range of critical and confusing accessibility issues. They showed that no single method is superior to any other, but presented evidents that a combination of expert testing methods can give good results.
 Bai
 
 ## Categorization and Comparison of Accessibility Testing Methods for Software Development (2018)
