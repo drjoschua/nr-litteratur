@@ -45,11 +45,25 @@ Finally, they list four typical accessibility testing tools for each of the asse
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
 
+Bai et al. (2016b) categorized accessbiility testing tools in five categories and indicated how much resources and knowledge each category requires.
+They investigated hom many general, critical and/or cognitive issues assessment methods of each type would discover, and performed a cost-benefit analysis (CBA) with respect to resources and knowledge requirements.
+
+|Abbr.|Group|Resource requirements|Knowledge requirements|
+|-|-|-|-|
+|Auto|Automated tools|Low|Low|
+|Check|Checklist and guidelines|Low|Low|
+|Sim|Simulation using wearables|Medium|Low|
+|Exp|Expert walkthrough|Low|High|
+|User|User testing|High|Meidum|
+
+In their empirical anaylysis, they found that a combination of Auto (?), Sim (1), Check (3,5,8), and Exp (6) methods covers a high percentage of issues with respect to its cost.
+They also discussed how and when to prioritize different methods in an agile devlopment process, representet in the so-called _agile accessibility spiral_ starting with Auto, Sim, Check, and finally Exp methods.
+
 ## Bai et al. (2016a) Evaluation of Accessibility Testing Methods. Which Methods Uncover What Type of Problems?
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
 
-Bai et al. categorized assessment methods into four main groups based on knowledge and resources required to use the methods:
+Bai et al. (2016a) categorized assessment methods into four main groups based on knowledge and resources required to use the methods:
 1. testing using automatic or semi-automatic tools and guidelines,
 2. simulation kit where a weareable is used,
 3. expert testing, and
