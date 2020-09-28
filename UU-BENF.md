@@ -3,23 +3,25 @@
 [Home](./README.md)
 
 Det fins noen tekster som utforsker generelle fordeler av universell utforming:
-* [Easy-to-read language in disability-friendly web sites: Effects on nondisabled users](#easy-to-read-language-in-disability-friendly-web-sites-effects-on-nondisabled-users)
-* [Effects of accessible website design on nondisabled users: age and device as moderating factors](#effects-of-accessible-website-design-on-nondisabled-users-age-and-device-as-moderating-factors)
-* [Implementing Recommendations From Web Accessibility Guidelines: Would They also provide Benefits to Nondisabled Users](#implementing-recommendations-from-web-accessibility-guidelines-would-they-also-provide-benefits-to-nondisabled-users)
+* [Schmutz et al. (2019) Easy-to-read language in disability-friendly web sites: Effects on nondisabled users](#schmutz-et-al-2019-easy-to-read-language-in-disability-friendly-web-sites-effects-on-nondisabled-users)
+* [Schmutz et al. (2018) Effects of accessible website design on nondisabled users: age and device as moderating factors](#schmutz-et-al-2018-effects-of-accessible-website-design-on-nondisabled-users-age-and-device-as-moderating-factors)
+* [Schmutz et al. (2016) Implementing Recommendations From Web Accessibility Guidelines: Would They also provide Benefits to Nondisabled Users](#schmutz-et-al-2016-implementing-recommendations-from-web-accessibility-guidelines-would-they-also-provide-benefits-to-nondisabled-users)
 
 ## General
 
-[Schmutz et al. (2016)](#implementing-recommendations-from-web-accessibility-guidelines-would-they-also-provide-benefits-to-nondisabled-users) show that following high accessibility standards will lead to better performance (faster task completion time and higher task completion rate) and improved user ratings (within perceived usability, aesthetics, workload, and trusworthiness) in non-disabled users.
+[__Schmutz et al. (2019)__](#schmutz-et-al-2019-easy-to-read-language-in-disability-friendly-web-sites-effects-on-nondisabled-users) did something.
+[__Schmutz et al. (2018)__](#schmutz-et-al-2018-effects-of-accessible-website-design-on-nondisabled-users-age-and-device-as-moderating-factors) dis something more.
+[__Schmutz et al. (2016)__](#schmutz-et-al-2016-implementing-recommendations-from-web-accessibility-guidelines-would-they-also-provide-benefits-to-nondisabled-users) show that following high accessibility standards will lead to better performance (faster task completion time and higher task completion rate) and improved user ratings (within perceived usability, aesthetics, workload, and trusworthiness) in non-disabled users.
 
-## Easy-to-read language in disability-friendly web sites: Effects on nondisabled users
-
-[Up](#tekster-om-fordeler-av-universell-utforming-uu-benf)
-
-## Effects of accessible website design on nondisabled users: age and device as moderating factors
+## Schmutz et al. (2019) Easy-to-read language in disability-friendly web sites: Effects on nondisabled users
 
 [Up](#tekster-om-fordeler-av-universell-utforming-uu-benf)
 
-## Implementing Recommendations From Web Accessibility Guidelines: Would They also provide Benefits to Nondisabled Users
+## Schmutz et al. (2018) Effects of accessible website design on nondisabled users: age and device as moderating factors
+
+[Up](#tekster-om-fordeler-av-universell-utforming-uu-benf)
+
+## Schmutz et al. (2016) Implementing Recommendations From Web Accessibility Guidelines: Would They also provide Benefits to Nondisabled Users
 
 [Up](#tekster-om-fordeler-av-universell-utforming-uu-benf)
 
