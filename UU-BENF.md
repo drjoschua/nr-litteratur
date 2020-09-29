@@ -10,7 +10,7 @@ Det fins noen tekster som utforsker generelle fordeler av universell utforming:
 
 ## General
 
-[__Schmutz et al. (2019)__](#schmutz-et-al-2019-easy-to-read-language-in-disability-friendly-web-sites-effects-on-nondisabled-users) did something.
+[__Schmutz et al. (2019)__](#schmutz-et-al-2019-easy-to-read-language-in-disability-friendly-web-sites-effects-on-nondisabled-users) analyzed the influence of easy-to-read language (ETRL) on non-disabled users. They showed positive effects of ETRL on performance but negative effects on satisfaction ratings.
 [__Schmutz et al. (2018)__](#schmutz-et-al-2018-effects-of-accessible-website-design-on-nondisabled-users-age-and-device-as-moderating-factors) show that accessible website design benefits (higher task completion rate, faster task completion time and higher satisfaction) nondisabled users in all age ranges (young vs old), and among multiple devices (tablet vs laptop).
 [__Schmutz et al. (2017)__](#schmutz-et-al-2017-implementing-recommendations-from-web-accessibility-guidelines-a-comparative-study-of-nondisabled-users-and-users-with-visual-impairments) showed something more.
 [__Schmutz et al. (2016)__](#schmutz-et-al-2016-implementing-recommendations-from-web-accessibility-guidelines-would-they-also-provide-benefits-to-nondisabled-users) show that following high accessibility standards will lead to better performance (faster task completion time and higher task completion rate) and improved user ratings (within perceived usability, aesthetics, workload, and trusworthiness) in non-disabled users.
@@ -18,6 +18,8 @@ Det fins noen tekster som utforsker generelle fordeler av universell utforming:
 ## Schmutz et al. (2019) Easy-to-read language in disability-friendly web sites: Effects on nondisabled users
 
 [Up](#tekster-om-fordeler-av-universell-utforming-uu-benf)
+
+Schmutz et al. (2019) analyzed effects of easy-to-read language [DE] (ETRL) on performance measures, subjective user reactions and long-term information retention of non-disabled people. They showed that ETRL can lead to some increased performance measures (content recognition, increased true/false statements) but increased reading time, at the same time as it can decrease satisfaction ratings (text linking, intention to revisit the website, call to action).
 
 ## Schmutz et al. (2018) Effects of accessible website design on nondisabled users: age and device as moderating factors
 
