@@ -2,6 +2,8 @@
 
 [Home](./README.md)
 
+Det fins noen tekster som handler om samfunnsmessige aspekter av universell utforming:
+
 * [Presentation on September 8th, 2020](#presentation-by-george-anthony-giannoumis-on-september-8th-2020)
 * [Giannoumis (2019b) Implementing Web Accessibility Policy. Case Studies of the United Kingdom, Norway, and the United States](#giannoumis-2019b-implementing-web-accessibility-policy-case-studies-of-the-united-kingdom-norway-and-the-united-states)
 * [Giannoumis & Stein (2019b) Conceptualizing Universal Design for the Information Society Through a Universal Human Rights Lens](#giannoumis-stein-2019b-conceptualizing-universal-design-for-the-information-society-through-a-universal-human-rights-lens)
