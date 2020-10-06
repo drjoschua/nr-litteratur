@@ -5,15 +5,15 @@
 Det fins noen tekster som handler om samfunnsmessige aspekter av universell utforming:
 
 * [Presentation on September 8th, 2020](#presentation-by-george-anthony-giannoumis-on-september-8th-2020)
-* [Giannoumis (2019b) Implementing Web Accessibility Policy. Case Studies of the United Kingdom, Norway, and the United States](#giannoumis-2019b-implementing-web-accessibility-policy-case-studies-of-the-united-kingdom-norway-and-the-united-states)
-* [Giannoumis & Stein (2019b) Conceptualizing Universal Design for the Information Society Through a Universal Human Rights Lens](#giannoumis-stein-2019b-conceptualizing-universal-design-for-the-information-society-through-a-universal-human-rights-lens)
+* [Giannoumis (2019) Implementing Web Accessibility Policy. Case Studies of the United Kingdom, Norway, and the United States](#giannoumis-2019-implementing-web-accessibility-policy-case-studies-of-the-united-kingdom-norway-and-the-united-states)
+* [Giannoumis & Stein (2019) Conceptualizing Universal Design for the Information Society Through a Universal Human Rights Lens](#giannoumis-stein-2019-conceptualizing-universal-design-for-the-information-society-through-a-universal-human-rights-lens)
 * [Giannoumis et al. (2017) Web accessibility and technology protection measures: Harmonizing the rights of persons with cognitive disabilities and copyright protections on the web](#giannoumis-et-al-2017-web-accessibility-and-technology-protection-measures-harmonizing-the-rights-of-persons-with-cognitive-disabilities-and-copyright-protections-on-the-web)
 * [Skjerve et al. (2016) An Intersectional Persepective on web Accessibility](skjerve-et-al-2016-an-intersectional-persepective-on-web-ccessibility)
 
 ## General
 
-[__Giannoumis et al. (2019b)__](#giannoumis-et-al-2017-web-accessibility-and-technology-protection-measures-harmonizing-the-rights-of-persons-with-cognitive-disabilities-and-copyright-protections-on-the-web) did something.
-[__Giannoumis et al. (2019a)__](#giannoumis-stein-2019b-conceptualizing-universal-design-for-the-information-society-through-a-universal-human-rights-lens) did something else.
+[__Giannoumis et al. (2019)__](#giannoumis-2019-implementing-web-accessibility-policy-case-studies-of-the-united-kingdom-norway-and-the-united-states) did something.
+[__Giannoumis et al. (2019)__](#giannoumis-stein-2019-conceptualizing-universal-design-for-the-information-society-through-a-universal-human-rights-lens) advocate equal access and use of ICT by (1) accounting to human diversity, (2) eliminating barriers to accessibility and usability, and (3) increasing participation in the design and development process.
 [__Giannoumis et al. (2017)__](#giannoumis-et-al-2017-web-accessibility-and-technology-protection-measures-harmonizing-the-rights-of-persons-with-cognitive-disabilities-and-copyright-protections-on-the-web) discuss the interaction between laws and policies to ensure web accessibility and technological protection measures (TPM) to protect copyrights and highlight the importance of the Marrakesh Treaty to bridge this gap.
 [__Skjerve et al. (2016)__](skjerve-et-al-2016-an-intersectional-persepective-on-web-ccessibility) analyze the social aspects of universal design on people experiencing multiple forms of discrimination. 
 They argue that developer should also consider experiences of hostility to support equal access to information and communication for everyone. 
@@ -35,13 +35,20 @@ Principles of UD for the information society:
     * environment
     * activity
 
-## Giannoumis (2019b) Implementing Web Accessibility Policy. Case Studies of the United Kingdom, Norway, and the United States
+## Giannoumis (2019) Implementing Web Accessibility Policy. Case Studies of the United Kingdom, Norway, and the United States
 
 [Up](#tekster-som-handler-om-samfunnsmessige-aspekter-av-universell-utforming-uu-ass)
 
-## Giannoumis & Stein (2019b) Conceptualizing Universal Design for the Information Society Through a Universal Human Rights Lens
+## Giannoumis & Stein (2019) Conceptualizing Universal Design for the Information Society Through a Universal Human Rights Lens
 
 [Up](#tekster-som-handler-om-samfunnsmessige-aspekter-av-universell-utforming-uu-ass)
+
+Giannoumis & Stein (2019b) introduce three new principles for promoting equal access and use of ICT that puts euqality and non-discrimination as the guiding principles of UD. 
+Universal design should:
+1. account for human diversity across all socially disadvatanged groups including people facing multiple forms of discrimination,
+2. eliminate barriers to both accessibility and usability,
+3. promote the participation of user in the design and development of ICT.
+They highlight the importance of regarding UD as as process rather than an outcome.
 
 ## Giannoumis et al. (2017) Web accessibility and technology protection measures: Harmonizing the rights of persons with cognitive disabilities and copyright protections on the web
 
