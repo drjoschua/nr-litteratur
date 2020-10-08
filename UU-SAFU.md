@@ -12,7 +12,8 @@ Det fins noen tekster som handler om samfunnsmessige aspekter av universell utfo
 
 ## General
 
-[__Giannoumis et al. (2019)__](#giannoumis-2019-implementing-web-accessibility-policy-case-studies-of-the-united-kingdom-norway-and-the-united-states) did something.
+[__Giannoumis (2019)__](#giannoumis-2019-implementing-web-accessibility-policy-case-studies-of-the-united-kingdom-norway-and-the-united-states) shows how social instituions affect web accessibility by structuring participationa and constraining decision making by limiting predefined options and promoting a default action. 
+He also shows how legal obligations are implemented in practice by using a system of audit and certification.
 [__Giannoumis et al. (2019)__](#giannoumis-stein-2019-conceptualizing-universal-design-for-the-information-society-through-a-universal-human-rights-lens) advocate equal access and use of ICT by (1) accounting to human diversity, (2) eliminating barriers to accessibility and usability, and (3) increasing participation in the design and development process.
 [__Giannoumis et al. (2017)__](#giannoumis-et-al-2017-web-accessibility-and-technology-protection-measures-harmonizing-the-rights-of-persons-with-cognitive-disabilities-and-copyright-protections-on-the-web) discuss the interaction between laws and policies to ensure web accessibility and technological protection measures (TPM) to protect copyrights and highlight the importance of the Marrakesh Treaty to bridge this gap.
 [__Skjerve et al. (2016)__](skjerve-et-al-2016-an-intersectional-persepective-on-web-ccessibility) analyze the social aspects of universal design on people experiencing multiple forms of discrimination. 
@@ -39,11 +40,17 @@ Principles of UD for the information society:
 
 [Up](#tekster-som-handler-om-samfunnsmessige-aspekter-av-universell-utforming-uu-ass)
 
+Giannoumis (2019) claims that social institutions affect web accessibility by structuring participation and constraining decision making.
+He states that social institutions have changed due to both legal and social reasons.
+He points out that social institutions of constraint web accessibility by limiting the options to predetermined sets or by promoting a default action.
+Finally, he emphasizes that policy actors have implemented legal obligations in practice by using a system of audit and certification.
+
+
 ## Giannoumis & Stein (2019) Conceptualizing Universal Design for the Information Society Through a Universal Human Rights Lens
 
 [Up](#tekster-som-handler-om-samfunnsmessige-aspekter-av-universell-utforming-uu-ass)
 
-Giannoumis & Stein (2019b) introduce three new principles for promoting equal access and use of ICT that puts euqality and non-discrimination as the guiding principles of UD. 
+Giannoumis & Stein (2019) introduce three new principles for promoting equal access and use of ICT that puts euqality and non-discrimination as the guiding principles of UD. 
 Universal design should:
 1. account for human diversity across all socially disadvatanged groups including people facing multiple forms of discrimination,
 2. eliminate barriers to both accessibility and usability,
