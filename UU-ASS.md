@@ -52,6 +52,7 @@ The researchers should minimum of accessibility, keep track of assisstive tools,
 
 Bai et al. categorized accessibility barriers from a testing point of view, rather than a medical, and focused on digital solutions rather than physical environments basing their categories on W3C accessibility barriers.
 They expand W3C cognitive barriers from one to three ending up with seven categories in total:
+
 |Abbr.|Name|Description|
 |-|-|-|
 |Aud|Auditory|Barriers of audible content.|
@@ -64,6 +65,7 @@ They expand W3C cognitive barriers from one to three ending up with seven catego
 
 They also categorized different assessment methods based on their cost, measured in completion time, and how different they are.
 They emphasize the importance of combining various methods to covers as many barriers as possible.
+
 |Abbr.|Name|Cost|Description|
 |-|-|-|-|
 |Auto|Automatic|Low|_Automatic_ assesment.|
