@@ -8,13 +8,23 @@ Det fins noen tekster som handler om evaluringsmetoder for universell utforming:
 * [Bai et al. (2018) Categorization and Comparison of Accessibility Testing Methods for Software Development](#bai-et-al-2018-categorization-and-comparison-of-accessibility-testing-methods-for-software-development)
 * [Bai et al. (2016b) A cost-benefit evaluation of accessibility testing in agile software development](#bai-et-al-2016b-a-cost-benefit-evaluation-of-accessibility-testing-in-agile-software-development)
 * [Bai et al. (2016a) Evaluation of Accessibility Testing Methods. Which Methods Uncover What Type of Problems?](#bai-et-al-2016a-evaluation-of-accessibility-testing-methods-which-methods-uncover-what-type-of-problems)
+* [Power et al. (2011) Remote Evaluation of WCAG 2.0 Techniques by Web Users with Visual Disabilities](#power-et-al-2011-remote-evaluation-of-wcag-2-0-techniques-by-web-users-with-visual-disabilities)
+* [Petrie et al. (2009) Remote usability evaluations with disabled people](#petrie-et-al-2009-remote-usability-evaluations-with-disabled-people)
+* [Bruun et al. (2009) Let your users do the testing: a comparison of three remote asynchronous usability testing methods](bruun-et-al-2009-let-your-users-do-the-testing-a-comparison-of-three-remote-asynchronous-usability-testing-methods)
+* [Brush et al. (2004) A comparison of synchronous remote and local usability studies for an expert interface](#brush-et-al-2004-a-comparison-of-synchronous-remote-and-local-usability-studies-for-an-expert-interface)
+
+
 
 [__Bai et al. (2019)__](#bai-et-al-2019-evaluating-accessibility-testing-in-automated-software-build-processes) presented an overview over available automatic assessment, and discusses means of assessment and analysis for the different tools. The argue that tools based on the aXe-core rulesets are superior to those based on HTML-CS to-date.
 [__Power & Petrie (2019)__](#power-petrie-2019-working-with-participants) emphasize four key aspects when working with people with disabilities: (1) treating participants with respect throughout the process () ethics, language, supportive facilities), (2) anticipating needs and preferences for alternative format materials, (3) ensuring minimum technical accessibility  standards prior, and (4) identifying the best support setup (locally or remote).
 [__Bai et al. (2018)__](#bai-et-al-2018-categorization-and-comparison-of-accessibility-testing-methods-for-software-development) expended W3C accessibility cognitive barriers from one to three resulting in seven barriers in total (Aud, A&M, HLL, L&N, Phy, Spe, Vis), and categorized accessibility tools in different categories (Auto, Check, Sim, AT, Exp) including an indication of their cost for developers. Moreover, they analyzed four assessment methods for each of the categories showing the acessibility barriers they cover. 
 [__Bai et al. (2016b)__](#bai-et-al-2016b-a-cost-benefit-evaluation-of-accessibility-testing-in-agile-software-development) analyzed accessibility methods with respect to resources and knowledge requirements in terms of a cost-benefit analysis. Moreover, they described the inclusion of testing methods into an agile process by using an agile accessiblity spiral.
 Research by [__Bai et al. (2016a)__](#bai-et-al-2016a-evaluation-of-accessibility-testing-methods-which-methods-uncover-what-type-of-problems) support the hypothesis that a combination of multiple assessment methods covers a wide range of critical and confusing accessibility issues. They showed that no single method is superior to any other, but presented evidents that a combination of expert testing methods can give good results.
-Bai
+[__Power et al. (2011)__](#power-et-al-2011-remote-evaluation-of-wcag-2-0-techniques-by-web-users-with-visual-disabilities) did something.
+[__Petrie et al. (2009)__](#petrie-et-al-2009-remote-usability-evaluations-with-disabled-people) said something.
+[__Bruun et al. (2009)__](bruun-et-al-2009-let-your-users-do-the-testing-a-comparison-of-three-remote-asynchronous-usability-testing-methods) had an opinion.
+[__Brush et al. (2004)__](#brush-et-al-2004-a-comparison-of-synchronous-remote-and-local-usability-studies-for-an-expert-interface) researched something.
+
 
 ## Bai et al. (2019) Evaluating accessibility testing in automated software build processes
 
@@ -91,3 +101,19 @@ In their empirical evaluation, they investigated methods from the first three ca
 Their results showd no superior method among the methods investigated.
 However, the experting testing methods were complementing each other for finding critical and confusing issues.
 Thus, the authors advocate for using multiple methods.
+
+## Power et al. (2011) Remote Evaluation of WCAG 2.0 Techniques by Web Users with Visual Disabilities
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+## Petrie et al. (2009) Remote usability evaluations with disabled people
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+## Bruun et al. (2009) Let your users do the testing: a comparison of three remote asynchronous usability testing methods
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+## Brush et al. (2004) A comparison of synchronous remote and local usability studies for an expert interface
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
