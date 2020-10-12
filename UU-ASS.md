@@ -13,7 +13,7 @@ Det fins noen tekster som handler om evaluringsmetoder for universell utforming:
 * [Bruun et al. (2009) Let your users do the testing: a comparison of three remote asynchronous usability testing methods](#bruun-et-al-2009-let-your-users-do-the-testing-a-comparison-of-three-remote-asynchronous-usability-testing-methods)
 * [Brush et al. (2004) A comparison of synchronous remote and local usability studies for an expert interface](#brush-et-al-2004-a-comparison-of-synchronous-remote-and-local-usability-studies-for-an-expert-interface)
 
-
+## General
 
 [__Bai et al. (2019)__](#bai-et-al-2019-evaluating-accessibility-testing-in-automated-software-build-processes) presented an overview over available automatic assessment, and discusses means of assessment and analysis for the different tools. The argue that tools based on the aXe-core rulesets are superior to those based on HTML-CS to-date.
 [__Power & Petrie (2019)__](#power-petrie-2019-working-with-participants) emphasize four key aspects when working with people with disabilities: (1) treating participants with respect throughout the process () ethics, language, supportive facilities), (2) anticipating needs and preferences for alternative format materials, (3) ensuring minimum technical accessibility  standards prior, and (4) identifying the best support setup (locally or remote).
@@ -37,6 +37,14 @@ Moreover, they point out the necessity of an updated website to demonstrate (non
 ## Power & Petrie (2019) Working With Participants
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+Power and Petrie (2019) present core barriers and common solutions for website evaluation with participant with disabilities.
+1. They give general advice concerning ethics (chyecklist, ethics committee), and recruitment and engagement (local/national organizations, interesting experience, briefing, debriefing). 
+2. They discuss physical environments (travel, access), alternatvie format or enhanced materials (bigger print, transcript), individual assistance (personal, interpreter), and language (ask about preferences).
+3. They present generative user research as methodologies for understanding users and their needs and preferences including questionnaires (should be technically accessible), and focus groups (how does the interaction work?, include people with different disabilities?, how many?)and interviews to contextulize the data from the qustionnaires .
+4. They show evaluative user research to refine design in an iterative cycle, collect information, or understand impact of different design choices.
+The researchers should minimum of accessibility, keep track of assisstive tools, consider in-situ or remote evaluation (asynchronous, synchronous, provide appropriate trianing material), provide protocol for formative evaluations, and consider recording of different performanc and preference variables.
+
 
 ## Bai et al. (2018) Categorization and Comparison of Accessibility Testing Methods for Software Development
 
