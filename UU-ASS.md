@@ -10,7 +10,7 @@ Det fins noen tekster som handler om evaluringsmetoder for universell utforming:
 * [Bai et al. (2016a) Evaluation of Accessibility Testing Methods. Which Methods Uncover What Type of Problems?](#bai-et-al-2016a-evaluation-of-accessibility-testing-methods-which-methods-uncover-what-type-of-problems)
 * [Power et al. (2011) Remote Evaluation of WCAG 2.0 Techniques by Web Users with Visual Disabilities](#power-et-al-2011-remote-evaluation-of-wcag-2-0-techniques-by-web-users-with-visual-disabilities)
 * [Petrie et al. (2009) Remote usability evaluations with disabled people](#petrie-et-al-2009-remote-usability-evaluations-with-disabled-people)
-* [Bruun et al. (2009) Let your users do the testing: a comparison of three remote asynchronous usability testing methods](bruun-et-al-2009-let-your-users-do-the-testing-a-comparison-of-three-remote-asynchronous-usability-testing-methods)
+* [Bruun et al. (2009) Let your users do the testing: a comparison of three remote asynchronous usability testing methods](#bruun-et-al-2009-let-your-users-do-the-testing-a-comparison-of-three-remote-asynchronous-usability-testing-methods)
 * [Brush et al. (2004) A comparison of synchronous remote and local usability studies for an expert interface](#brush-et-al-2004-a-comparison-of-synchronous-remote-and-local-usability-studies-for-an-expert-interface)
 
 
