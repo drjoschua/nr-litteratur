@@ -20,7 +20,7 @@ Det fins noen tekster som handler om evaluringsmetoder for universell utforming:
 [__Bai et al. (2018)__](#bai-et-al-2018-categorization-and-comparison-of-accessibility-testing-methods-for-software-development) expended W3C accessibility cognitive barriers from one to three resulting in seven barriers in total (Aud, A&M, HLL, L&N, Phy, Spe, Vis), and categorized accessibility tools in different categories (Auto, Check, Sim, AT, Exp) including an indication of their cost for developers. Moreover, they analyzed four assessment methods for each of the categories showing the acessibility barriers they cover. 
 [__Bai et al. (2016b)__](#bai-et-al-2016b-a-cost-benefit-evaluation-of-accessibility-testing-in-agile-software-development) analyzed accessibility methods with respect to resources and knowledge requirements in terms of a cost-benefit analysis. Moreover, they described the inclusion of testing methods into an agile process by using an agile accessiblity spiral.
 Research by [__Bai et al. (2016a)__](#bai-et-al-2016a-evaluation-of-accessibility-testing-methods-which-methods-uncover-what-type-of-problems) support the hypothesis that a combination of multiple assessment methods covers a wide range of critical and confusing accessibility issues. They showed that no single method is superior to any other, but presented evidents that a combination of expert testing methods can give good results.
-[__Power et al. (2011)__](#power-et-al-2011-remote-evaluation-of-wcag-20-techniques-by-web-users-with-visual-disabilities) did something.
+[__Power et al. (2011)__](#power-et-al-2011-remote-evaluation-of-wcag-20-techniques-by-web-users-with-visual-disabilities) propose a lightweight, flexible and remote methodology using a text website and questionnaires to assess implementation techniques for SCAG Success Criterion that they demonstrate on the Success Criterion 2.4.4. The result suggests that only an explanation in plain text within an anchor element fulfills the criterion almost 100% of the time, although other techniques can reach high compliance as well.
 [__Bruun et al. (2009)__](#bruun-et-al-2009-let-your-users-do-the-testing-a-comparison-of-three-remote-asynchronous-usability-testing-methods) compared three remote asynchronous usability testing methods (user-reported critical incidents, forum-based online reporting and discussion, diary-based longitudinal user reporting) with conventional laboratory-based thinking aloung testing as benchmark. 
 They found out that the the remote methods only found significantly less issues (with the diary performing at 50% for some of the issue types), at the same time as they require significantly less time.
 [__Petrie et al. (2006)__](#petrie-et-al-2006-remote-usability-evaluations-with-disabled-people) said something.
@@ -117,6 +117,16 @@ Thus, the authors advocate for using multiple methods.
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
 
+Power et al. (2011) present a lightweight and flexible methodoly to efficiently collect data supporting or rejecting different WCAG techniques from users with visual disabilities remotely. 
+In their technique they
+(1) setup a website where each webpage represents one specific task implemented in one specific technique,
+(2) recruit participants online through crowdsourcing,
+(3) instruct users to website and undertake small tasks,
+(4) answer through questionnaires (correct answer, confidence and difficulty rating), and
+(5) collect data about the operating system, user agent and assistive technologies.
+They impemented this approach for evaluating different implementation techniques for the WCAG 2.0 Success Criterion 2.4.4 (accessibility of links).
+The results suggest that only G91 (clear text embedded in anchor tag) succeeds in almost 100% of the time, although other techniques like G53 (click her), H30 (alt image text), H77 (enclosing list), etc. can reach high success and confidence and low difficulty as well.
+
 ## Bruun et al. (2009) Let your users do the testing: a comparison of three remote asynchronous usability testing methods
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
@@ -129,6 +139,7 @@ They identified several asynchronous testing methods:
 * unstructured problem reporting (participants make note of problems while they work on tasks),
 * forum (collecting qualitative data during auto-logging),
 * diary (collecting qualitative data during auto-logging).
+
 The authors investigated UCI, forum, and diary testing methods, and used user-based laboratory testing as a benchmark.
 The results show that the remote methods reveal significantly less usability issues that the lab method with the diary revealing the most issues at around 50%. At the same time the remote methods use significantly less time than the lab method in terms of man hours.
 The authors point out the low sample size (10) and bias of the observers, at the same time as they hypothesize that training plays an important role in the success rate (written instructions only vs video training and exercises, online training tool).
