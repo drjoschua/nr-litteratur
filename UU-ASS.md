@@ -27,7 +27,9 @@ They showed that no single method is superior to any other, but presented eviden
 The results suggest that only an explanation in plain text within an anchor element fulfills the criterion almost 100% of the time, although other techniques can reach high compliance as well.
 [__Bruun et al. (2009)__](#bruun-et-al-2009-let-your-users-do-the-testing-a-comparison-of-three-remote-asynchronous-usability-testing-methods) compared three remote asynchronous usability testing methods (user-reported critical incidents, forum-based online reporting and discussion, diary-based longitudinal user reporting) with conventional laboratory-based thinking aloud testing as benchmark. 
 They found out that the remote methods only found significantly less issues (with the diary performing at 50% for some of the issue types), at the same time as they require significantly less time.
-[__Petrie et al. (2006)__](#petrie-et-al-2006-remote-usability-evaluations-with-disabled-people) said something.
+[__Petrie et al. (2006)__](#petrie-et-al-2006-remote-usability-evaluations-with-disabled-people) conducted two case studies (one formative, one summative) for asynchronous remote assessment methods and compared the results to local evaluation.
+Their results show that the quantitative data is highly comparable, at the same time as the amount and richness of the qualitative data is much lesser for the remote evaluation.
+They conclude that remote evaluation is highly appropriate for summative studies, whereas local evaluation should be used for formative studies.
 [__Brush et al. (2004)__](#brush-et-al-2004-a-comparison-of-synchronous-remote-and-local-usability-studies-for-an-expert-interface) researched something.
 
 
@@ -151,6 +153,17 @@ The authors point out the low sample size (10) and bias of the observers, at the
 ## Petrie et al. (2006) Remote usability evaluations with disabled people
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+Petrie et al. (2006) present different methods for remote assessment and discuss the dimensions that play a role when choosing an appropriate method for given study (synchronous vs asynchronous, participant independence, intrusive vs unobtrusive, training requirement, formative or summative evaluation).
+They point out the advantages of remote (facilitate traveling, wider spectrum of assistive technology) and it disadvantages (shallower understanding for the evaluator).
+They present two studies for formative and formative evaluations, where they compare results for local and asynchronous remote assessment with disabled participants.
+In the first study the have a formative evaluation of a technical program for blind people, whereas in the second study they have a summative evaluation of websites by people with disabilities.
+In both studies participants had to accomplish tasks after being divided into two groups: The first group was asked to do the tasks in-situ while thinking aloud, whereas the other group was asked to complete the tasks on their own time at their own preferred place.
+There were also additional questionnaires and post evaluation interviews (face-to-face or phone).
+The quantitative data collected in both remote and local evaluation was comparable, at the same time as the amount and richness of the qualitative data was much lower for the remote evaluation. 
+Thus, the authors argue that remote evaluation might be appropriate for summative evaluations, while local assessment was best suited for formative evaluation.
+Moreover, they list recommendations for local evaluation (investigating assistive tools beforehand, access to location, configuration time, special needs) and remote evaluations (appropriate training material beforehand, wider variety of assistive tools, synchronous vs asynchronous, follow-up phone i
+
 
 ## Brush et al. (2004) A comparison of synchronous remote and local usability studies for an expert interface
 
