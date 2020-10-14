@@ -30,7 +30,9 @@ They found out that the remote methods only found significantly less issues (wit
 [__Petrie et al. (2006)__](#petrie-et-al-2006-remote-usability-evaluations-with-disabled-people) conducted two case studies (one formative, one summative) for asynchronous remote assessment methods and compared the results to local evaluation.
 Their results show that the quantitative data is highly comparable, at the same time as the amount and richness of the qualitative data is much lesser for the remote evaluation.
 They conclude that remote evaluation is highly appropriate for summative studies, whereas local evaluation should be used for formative studies.
-[__Brush et al. (2004)__](#brush-et-al-2004-a-comparison-of-synchronous-remote-and-local-usability-studies-for-an-expert-interface) researched something.
+[__Brush et al. (2004)__](#brush-et-al-2004-a-comparison-of-synchronous-remote-and-local-usability-studies-for-an-expert-interface) compared results from a local and a synchronous remote usability study.
+The results suggest that the number of usability issues found including type and severity is comparable, at the same time as the qualitative experience may differ.
+
 
 
 ## Bai et al. (2019) Evaluating accessibility testing in automated software build processes
@@ -168,3 +170,7 @@ Moreover, they list recommendations for local evaluation (investigating assistiv
 ## Brush et al. (2004) A comparison of synchronous remote and local usability studies for an expert interface
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+Brush et al. (2004) compared results from a local (think aloud) and a synchronous remote (think alone over phone) usability study, investigating usability issues found, participants expereince, and facilitator's experience.
+The results suggest that the number of usability issues found including type and severity is comparable, at the same time as the qualitative experience may differ.
+For the remoe study, they point out that peparation required more effort, recruitment was easier, the tone of voice was enough to sense frustration, and that most of their participants would either prefer both methods equally or the remote evaluation in the future.
