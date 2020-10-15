@@ -3,13 +3,15 @@
 [Home](./README.md)
 
 Det fins noen tekster som definerer, behandler, osv. funksjonsnedsettelser og barrierer som er hovedfokuset innen universell utforming:
-  - [European Telecommunications Standards Institute (ETSI) (2019) EN 301 549 v3.1.1. (2019-06): Accessibility requirements for ICT products and services](#european-telecommunications-standards-institute-etsi-2019-en-301-549-v311-2019-06-accessibility-requirements-for-ict-products-and-services)
+  - [European Telecommunications Standards Institute (ETSI) (2019) EN 301 549 v3.1.1 (2019-06): Accessibility requirements for ICT products and services](#european-telecommunications-standards-institute-etsi-2019-en-301-549-v311-2019-06-accessibility-requirements-for-ict-products-and-services)
+  - [W3C Web Accessibility Initiative (WAI) (2020) Diverse Abilities and Barriers](#w3c-web-accessibility-initiative-wai-2020-diverse-abilities-and-barriers)
   
-# General
+## General
 
 [__European Telecommunications Standards Institute (ETSI) (2019)__](#european-telecommunications-standards-institute-etsi-2019-en-301-549-v311-2019-06-accessibility-requirements-for-ict-products-and-services) defines requirements for functional accessibility in ICT products and services that should be upheld in public procurement, providing test procedures and evaluation methodology.
+[__W3C Web Accessibility Initiative (WAI) (2020)__](#w3c-web-accessibility-initiative-wai-2020-diverse-abilities-and-barriers) explore functional diversity (age, intersectionality, health, changing, temporary, situational) and present functional disabilities and barriers that are the concern of usability and accessibility including auditory, cognitive, learning, and neurological, physical, speech and visual disabilities and barriers.
 
-### European Telecommunications Standards Institute (ETSI) (2019) EN 301 549 v3.1.1. (2019-06): Accessibility requirements for ICT products and services
+## European Telecommunications Standards Institute (ETSI) (2019) EN 301 549 v3.1.1 (2019-06): Accessibility requirements for ICT products and services
 
 [Up](#tekster-om-funksjonsnedsettelser-og-barrierer) |
 [Kilde](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.02_60/en_301549v010102p.pdf)
@@ -28,3 +30,16 @@ This standard defines eleven functional performance statement that should be ful
 9. Minimize photosensitive seizure triggers
 10. Usage with limited cognition
 11. Privacy
+
+## W3C Web Accessibility Initiative (WAI) (2020) Diverse Abilities and Barriers
+
+[Up](#tekster-om-funksjonsnedsettelser-og-barrierer) |
+[Kilde](https://www.w3.org/WAI/people-use-web/abilities-barriers/)
+
+The W3C Web Accessibility Initiative (WAI) (2020) explores the nature of functional diversity including age-related impairments, multiple disabilities, health conditions, changing abilities, temprorary impairments, and situational limitations.
+Moreover, WAI names some of the functional disabilities and barriers that are a focus point of usability and accessibility including:
+* auditory (deafness, hard of hearing),
+* cognitive (attention, memory, social communication and interaction), learning, and neurological, 
+* physical (amputation, rheumatism, arthritis, tremor and spasms),
+* speech (stuttering, muteness),
+* visual (blindness, color vision deficiencies, low vision).
