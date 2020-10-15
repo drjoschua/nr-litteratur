@@ -1,4 +1,4 @@
-# Tekster om funskjoner og barrierer
+# Tekster om funskjonsnedsettelser og barrierer
 
 [Home](./README.md)
 
