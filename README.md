@@ -5,6 +5,7 @@ You can find a short summary of relevant literature in the following documents:
 * Universal design
     * [Assessment methods](./UU-ASS.md)
     * [Cost-benefit analysis](./UU-NYKO.md)
+    * [Functional impairments and barriers](./UU-FUBA.md)
     * [General benefits](./UU-BENF.md)
     * [Legal requirements](./UU-JUS.md)
     * [Societal impacts](./UU-SAFU.md)
