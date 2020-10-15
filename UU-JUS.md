@@ -14,7 +14,7 @@ Det fins noen juridiske tekster i norsk lov som behandler universell utforming (
     - [Forskrift om universell utforming av IKT-løsninger](#forskrift-om-universell-utforming-av-informasjons-og-kommunikasjonsteknologiske-ikt-løsninger)
     - [Forskrift om offentlige anskaffelser](#forskrift-om-offentlige-anskaffelser-anskaffelsesforskriften)
 * Standarder:
-    - [EN 301 549 v2.1.2 (2018-08): Accessibility requirements for ICT products and services](#en-301-549-v212-2018-08-accessibility-requirements-for-ict-products-and-services)
+    - [EN 301 549 v3.1.1. (2019-06): Accessibility requirements for ICT products and services](#en-301-549-v311-2019-06-accessibility-requirements-for-ict-products-and-services)
     - [Web Content Accessibility Guidelines (WCAG)](#web-content-accessibility-guidelines-wcag)
 * Konvensjoner:
     - [Konvensjon om rettighetene til mennesker med nedsatt funksjonsevne / Convention on the Rights of Persons with Disabilities (CRPD)](#convention-on-the-rights-of-persons-with-disabilities-crpd)
@@ -28,7 +28,7 @@ On the one hand, other acts related to education, for example the [__University 
 On the other hand, there is a specific [__regulation for universal design of ICT solutions (forskrift om universell utforming av IKT-løsninger)__](#forskrift-om-universell-utforming-av-informasjons-og-kommunikasjonsteknologiske-ikt-løsninger) specifying that UD only applies for online solutions (websites, apps) including teaching aids, and automated services machines (ATMs, ticket machines, etc.) (§2).
 The regulation states that websites shall follow the [__Web Content Accessibility Guidelines 2.0 standard (WCAG 2.0)__](#web-content-accessibility-guidelines-wcag) on Level A and AA (§4). 
 WCAG is a standard published by the World Wide Web Consortium (W3C) to improve accessibility of web content, and it defines four major principles of accessibility to make the content be (1) perceivable, (2) operable, (3) understandable, and (4) robust. 
-Another Standard by the European Telecommunications Standards Institute (ETSI) called [__EN 301 549 v2.1.2 (2018-08): Accessibility requirements for ICT products and services__](#en-301-549-v212-2018-08-accessibility-requirements-for-ict-products-and-services) defines requirements for functional accessibility in ICT products and services that should be upheld in public procurement, providing test procedures and evaluation methodology.
+Another Standard by the European Telecommunications Standards Institute (ETSI) called [__EN 301 549 v3.1.1. (2019-06): Accessibility requirements for ICT products and services__](#en-301-549-v311-2019-06-accessibility-requirements-for-ict-products-and-services) defines requirements for functional accessibility in ICT products and services that should be upheld in public procurement, providing test procedures and evaluation methodology.
 One could argue that research should promote more standards that can be required by the lawmaker.
 Like mentioned before, however, these regulations only apply for online solutions and automats. 
 Thus, other areas like hardware, equipment, etc. are not included in this regulation, and are therefore not legally obliged to follow universal design standards.
@@ -217,7 +217,7 @@ Oppdragsgiveren skal godta tilsvarende attester utstedt av organer i andre EØS-
 
 ## Standarder
 
-### EN 301 549 v2.1.2 (2018-08): Accessibility requirements for ICT products and services
+### EN 301 549 v3.1.1. (2019-06): Accessibility requirements for ICT products and services
 
 [Up](#juridiske-tekster-om-universell-utforming-uu-jus) |
 [Kilde](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.02_60/en_301549v010102p.pdf)
