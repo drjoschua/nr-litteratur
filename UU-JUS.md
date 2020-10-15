@@ -14,26 +14,29 @@ Det fins noen juridiske tekster i norsk lov som behandler universell utforming (
     - [Forskrift om universell utforming av IKT-løsninger](#forskrift-om-universell-utforming-av-informasjons-og-kommunikasjonsteknologiske-ikt-løsninger)
     - [Forskrift om offentlige anskaffelser](#forskrift-om-offentlige-anskaffelser-anskaffelsesforskriften)
 * Standarder:
+    - [EN 301 549 v2.1.2 (2018-08): Accessibility requirements for ICT products and services](#en-301-549-v212-2018-08-accessibility-requirements-for-ict-products-and-services)
     - [Web Content Accessibility Guidelines (WCAG)](#web-content-accessibility-guidelines-wcag)
 * Konvensjoner:
     - [Konvensjon om rettighetene til mennesker med nedsatt funksjonsevne / Convention on the Rights of Persons with Disabilities (CRPD)](#convention-on-the-rights-of-persons-with-disabilities-crpd)
 
 ## General
 
-The Anti-Discrimination Act (likestillings- og diskrimineringsloven) handles universal design for public services in Norway. It obliges "public and private actors directed towards the public […] to use universal design in their general functions" (§17). 
+The [__Anti-Discrimination Act (likestillings- og diskrimineringsloven)__](#lov-om-likestilling-og-forbud-mot-diskriminering-likestillings-og-diskrimineringsloven) handles universal design for public services in Norway. It obliges "public and private actors directed towards the public […] to use universal design in their general functions" (§17). 
 One caveat of the law, however, protects actors from universal design that represents a disproportionate burden to the processes.
 Another caveat applies to ICT solutions, for which the law states that this obligation is invalid for sectors with their own specific law or regulation (§18).
-On the one hand, other acts related to education, for example the University and University College Act (universitets- og høyskoleloven), the Vocational School Act (fagskoleloven), Adult Education Center Act (folkehøskoleloven), require these institutions to have a universally designed education environment (§4-3, §15, §5a). 
-On the other hand, there is a specific regulation for universal design of ICT solutions (forskrift om universell utforming av IKT-løsninger) specifying that UD only applies for online solutions (websites, apps) including teaching aids, and automated services machines (ATMs, ticket machines, etc.) (§2).
-The regulation states that websites shall follow the Web Content Accessibility Guidelines 2.0 standard (WCAG 2.0) on Level A and AA (§4). 
+On the one hand, other acts related to education, for example the [__University and University College Act (universitets- og høyskoleloven)__](#lov-om-universiteter-og-høyskoler-universitets-og-høyskoleloven), the [__Vocational School Act (fagskoleloven)__](#lov-om-høyere-yrkesfaglig-utdanning-fagskoleloven), [__Adult Education Center Act (folkehøskoleloven)__](#lov-om-folkehøyskoler-folkehøyskoleloven), require these institutions to have a universally designed education environment (§4-3, §15, §5a). 
+On the other hand, there is a specific [__regulation for universal design of ICT solutions (forskrift om universell utforming av IKT-løsninger)__](#forskrift-om-universell-utforming-av-informasjons-og-kommunikasjonsteknologiske-ikt-løsninger) specifying that UD only applies for online solutions (websites, apps) including teaching aids, and automated services machines (ATMs, ticket machines, etc.) (§2).
+The regulation states that websites shall follow the [__Web Content Accessibility Guidelines 2.0 standard (WCAG 2.0)__](#web-content-accessibility-guidelines-wcag) on Level A and AA (§4). 
 WCAG is a standard published by the World Wide Web Consortium (W3C) to improve accessibility of web content, and it defines four major principles of accessibility to make the content be (1) perceivable, (2) operable, (3) understandable, and (4) robust. 
+Another Standard by the European Telecommunications Standards Institute (ETSI) called [__
+EN 301 549 v2.1.2 (2018-08): Accessibility requirements for ICT products and services__](#en-301-549-v212-2018-08-accessibility-requirements-for-ict-products-and-services) defines requirements for functional accessibility in ICT products and services that should be upheld in public procurement, providing test procedures and evaluation methodology.
 One could argue that research should promote more standards that can be required by the lawmaker.
 Like mentioned before, however, these regulations only apply for online solutions and automats. 
 Thus, other areas like hardware, equipment, etc. are not included in this regulation, and are therefore not legally obliged to follow universal design standards.
-However, one could argue that other acts like the Public Procurement Act (anskaffelsesloven) and its regulation about public procurement (anskaffelsesforskriften) can be applicable for procurement hardware applications of a value above 100,000 NOK (§1-1). 
+However, one could argue that other acts like the [__Public Procurement Act (anskaffelsesloven)__](#lov-om-offentlige-anskaffelser-anskaffelsesloven) and its [__regulation about public procurement (anskaffelsesforskriften)__](#forskrift-om-offentlige-anskaffelser-anskaffelsesforskriften) can be applicable for procurement hardware applications of a value above 100,000 NOK (§1-1). 
 This regulation requires public actors to set universal design requirements for the procurement of services and products that are used by the general public (§15-2). 
 The regulation also specifies universal design demands for quality assurance (§16-7).
-Finally, Norway ratified the Convention on the rights of persons with disabilities, in which Norway committed itself "to undertake or promote research and development of universally designed goods, services, equipment and facilities, […] to promote their availability and use, and to promote universal design in the development of standards and guidelines".
+Finally, Norway ratified the [__Convention on the rights of persons with disabilities__](#convention-on-the-rights-of-persons-with-disabilities-crpd), in which Norway committed itself "to undertake or promote research and development of universally designed goods, services, equipment and facilities, […] to promote their availability and use, and to promote universal design in the development of standards and guidelines".
    
 ## Lover
 
@@ -214,6 +217,31 @@ Oppdragsgiveren skal godta tilsvarende attester utstedt av organer i andre EØS-
 ```
 
 ## Standarder
+
+### EN 301 549 v2.1.2 (2018-08): Accessibility requirements for ICT products and services
+
+[Up](#juridiske-tekster-om-universell-utforming-uu-jus) |
+[Kilde](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.02_60/en_301549v010102p.pdf)
+
+```
+The statements set out in clause 4.2 are intended to describe the functional performance of ICT enabling people to locate, identify, and operate ICT functions, and to access the information provided, regardless of physical, cognitive or sensory abilities. 
+Any ability impairments may be permanent, temporary or situational.
+```
+
+EN 301 549 defines requirements for functional accessibility in ICT products and services, providing test procedures and evaluation methodology.
+This standard defines eleven functional performance statement that should be fulfilled to enable people to locate, identify and operate ICT functions regardless of physical, cognitive or sensory abilities, may they be permanent, temporary or situational:
+1. Usage without vision
+2. Usage with limited vision
+3. Usage without perception of color
+4. Usage without hearing
+5. Usage with limited hearing
+6. Usage without vocal capability
+7. Usage with limited manipulation or strength
+8. Usage with limited reach
+9. Usage with limited reach
+9. Minimize photosensitive seizure triggers
+10. Usage with limited cognition
+11. Privacy
 
 ### Web Content Accessibility Guidelines (WCAG)
 
