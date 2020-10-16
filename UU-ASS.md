@@ -33,8 +33,6 @@ They conclude that remote evaluation is highly appropriate for summative studies
 [__Brush et al. (2004)__](#brush-et-al-2004-a-comparison-of-synchronous-remote-and-local-usability-studies-for-an-expert-interface) compared results from a local and a synchronous remote usability study.
 The results suggest that the number of usability issues found including type and severity is comparable, at the same time as the qualitative experience may differ.
 
-
-
 ## Bai et al. (2019) Evaluating accessibility testing in automated software build processes
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
