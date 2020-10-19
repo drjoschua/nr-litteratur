@@ -15,12 +15,9 @@ Det fins noen tekster som utforsker generelle fordeler av universell utforming:
 [__Schmutz et al. (2018)__](#schmutz-et-al-2018-effects-of-accessible-website-design-on-nondisabled-users-age-and-device-as-moderating-factors) show that accessible website design benefits (higher task completion rate, faster task completion time and higher satisfaction) nondisabled users in all age ranges (young vs old), and among multiple devices (tablet vs laptop).
 [__Schmutz et al. (2017)__](#schmutz-et-al-2017-implementing-recommendations-from-web-accessibility-guidelines-a-comparative-study-of-nondisabled-users-and-users-with-visual-impairments) analyzed the benefits of higher accessibility of websites for people with and without impairments. They showed that higher conformancer to Web accessibility guidelines resulted in increased performance and more positive user ratings for both user groups alike. They emphasize that there is no interaction between user group and accessibility level.
 [__Schmutz et al. (2016)__](#schmutz-et-al-2016-implementing-recommendations-from-web-accessibility-guidelines-would-they-also-provide-benefits-to-nondisabled-users) show that following high accessibility standards will lead to better performance (faster task completion time and higher task completion rate) and improved user ratings (within perceived usability, aesthetics, workload, and trusworthiness) in non-disabled users.
-[__Fuglerud et al. (2015)__](#fuglerud-et-al-2015-cost-benefit-analysis-of-universal-design) review literature that show the costs and benefits of UD, and name methods on how to quantify and assess these parameters.
-They state that the main motivations of UD is to reach a broader audience, and comply with legislation.
-They point out that management commitment towards UD is important. 
-They highlight user-centred design activities as good approach for development, and name guidleines, expert evaluation adn usability testing as most commong assessment methods.
-They list six main outcomes for UD including (1) product and services, (2) market and customers, (3) reputations and relations with partners and community, (4) internal processes and employees, (5) financial effects, (6) avoid legal action costs.
-
+[__Fuglerud et al. (2015)__](#fuglerud-et-al-2015-cost-benefit-analysis-of-universal-design)review literature that show the costs and benefits of UD, and name methods on how to quantify and assess these parameters (user-centered design, guidelines, expert evaluation, usability testing).
+They present examples and case studies of business strategy, organization structure and processes, UD methods and approaches, and outcomes and effects.
+Finlay the propose a methodology to implement a cost-benefit analysis of UD.
 
 ## Schmutz et al. (2019) Easy-to-read language in disability-friendly web sites: Effects on nondisabled users
 
