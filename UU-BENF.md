@@ -8,6 +8,10 @@ Det fins noen tekster som utforsker generelle fordeler av universell utforming:
 * [Schmutz et al. (2017) Implementing Recommendations From Web Accessibility Guidelines: A Comparative Study of Nondisabled Users and Users With Visual Impairments](#schmutz-et-al-2017-implementing-recommendations-from-web-accessibility-guidelines-a-comparative-study-of-nondisabled-users-and-users-with-visual-impairments)
 * [Schmutz et al. (2016) Implementing Recommendations From Web Accessibility Guidelines: Would They also provide Benefits to Nondisabled Users?](#schmutz-et-al-2016-implementing-recommendations-from-web-accessibility-guidelines-would-they-also-provide-benefits-to-nondisabled-users)
 * [Fuglerud et al. (2015) Cost-benefit analysis of universal design](#fuglerud-et-al-2015-cost-benefit-analysis-of-universal-design)
+* [Difi (2014) Digitalisering for alle? Ei undersøking om universell utforming av IKT i private og offentlege verksemder](#difi-2014-digitalisering-for-alle-ei-undersøking-om-universell-utforming-av-ikt-i-private-og-offentlege-verksemder)
+* [Difi (2009) Konsekvensvurdering av universell utforming på offentlige virksomheters nettsider](#difi-2009-konsekvensvurdering-av-universell-utforming-på-offentlige-virksomheters-nettsider)
+* [Huber and Vitouch (2008) Usability and Accessibility on the Internet: Effects of Accessible Web Design on Usability](#huber-and-vitouch-2008-usability-and-accessibility-on-the-internet-effects-of-accessible-web-design-on-usability)
+* [Marcus (2005) User Interface Design's Return on Investment: Examples and Statistics](#marcus-2005-user-interface-design-s-return-on-investment-examples-and-statistics)
 
 ## General
 
@@ -15,9 +19,14 @@ Det fins noen tekster som utforsker generelle fordeler av universell utforming:
 [__Schmutz et al. (2018)__](#schmutz-et-al-2018-effects-of-accessible-website-design-on-nondisabled-users-age-and-device-as-moderating-factors) show that accessible website design benefits (higher task completion rate, faster task completion time and higher satisfaction) nondisabled users in all age ranges (young vs old), and among multiple devices (tablet vs laptop).
 [__Schmutz et al. (2017)__](#schmutz-et-al-2017-implementing-recommendations-from-web-accessibility-guidelines-a-comparative-study-of-nondisabled-users-and-users-with-visual-impairments) analyzed the benefits of higher accessibility of websites for people with and without impairments. They showed that higher conformancer to Web accessibility guidelines resulted in increased performance and more positive user ratings for both user groups alike. They emphasize that there is no interaction between user group and accessibility level.
 [__Schmutz et al. (2016)__](#schmutz-et-al-2016-implementing-recommendations-from-web-accessibility-guidelines-would-they-also-provide-benefits-to-nondisabled-users) show that following high accessibility standards will lead to better performance (faster task completion time and higher task completion rate) and improved user ratings (within perceived usability, aesthetics, workload, and trusworthiness) in non-disabled users.
-[__Fuglerud et al. (2015)__](#fuglerud-et-al-2015-cost-benefit-analysis-of-universal-design)review literature that show the costs and benefits of UD, and name methods on how to quantify and assess these parameters (user-centered design, guidelines, expert evaluation, usability testing).
+[__Fuglerud et al. (2015)__](#fuglerud-et-al-2015-cost-benefit-analysis-of-universal-design) review literature that show the costs and benefits of UD, and name methods on how to quantify and assess these parameters (user-centered design, guidelines, expert evaluation, usability testing).
 They present examples and case studies of business strategy, organization structure and processes, UD methods and approaches, and outcomes and effects.
-Finlay the propose a methodology to implement a cost-benefit analysis of UD.
+Finally, they propose a methodology to implement a cost-benefit analysis of UD.  
+[__Difi (2014)__](#difi-2014-digitalisering-for-alle-ei-undersøking-om-universell-utforming-av-ikt-i-private-og-offentlege-verksemder) did something.  
+[__Difi (2009)__](#difi-2009-konsekvensvurdering-av-universell-utforming-på-offentlige-virksomheters-nettsider) did something.  
+[__Huber and Vitouch (2008)__](#huber-and-vitouch-2008-usability-and-accessibility-on-the-internet-effects-of-accessible-web-design-on-usability) did something.  
+[__Marcus (2005)__](#marcus-2005-user-interface-design-s-return-on-investment-examples-and-statistics) did something.  
+
 
 ## Schmutz et al. (2019) Easy-to-read language in disability-friendly web sites: Effects on nondisabled users
 
@@ -97,4 +106,20 @@ Finally, they propose a procedure for cost-benefit analysis of UD
 4. Select relevant benefit categories.
 5. Quantify and estimate benefits.
 6. Compare costs to benefits.
+
+## Difi (2014) Digitalisering for alle? Ei undersøking om universell utforming av IKT i private og offentlege verksemder
+
+[Up](#tekster-om-fordeler-av-universell-utforming-uu-benf)
+
+## Difi (2009) Konsekvensvurdering av universell utforming på offentlige virksomheters nettsider
+
+[Up](#tekster-om-fordeler-av-universell-utforming-uu-benf)
+
+## Huber and Vitouch (2008) Usability and Accessibility on the Internet: Effects of Accessible Web Design on Usability
+
+[Up](#tekster-om-fordeler-av-universell-utforming-uu-benf)
+
+## Marcus (2005) User Interface Design's Return on Investment: Examples and Statistics
+
+[Up](#tekster-om-fordeler-av-universell-utforming-uu-benf)
    
