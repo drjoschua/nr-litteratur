@@ -3,12 +3,12 @@
 Det fins noen tekster som inneholder generelle definisjoner om universell utforming, tilgjengelighet og brukervennlighet:
 * [Miljødepartementet (2007) Universell utforming - begrepsavklaring](#miljødepartementet-2007-universell-utforming-begrepsavklaring)
 
-# General
+## General
 
 [__Miljødepartementet (2007)__](#miljødepartementet-2007-universell-utforming-begrepsavklaring) presenterer definisjonen for universell utforming (uu) til The Center for Universal Design ved North Carolina State University, og forklarer hva de ulike begrepene betyr i praksis.
 De definerer likestilling og deltakelse ved å gjerne barrierer som hovedmål av uu, og framhever at uu underbygger andre samfunnsmål.
 
-# Miljødepartementet (2007) Universell utforming - begrepsavklaring
+## Miljødepartementet (2007) Universell utforming - begrepsavklaring
 
 [Up](#tekster-om-generelle-definisjoner-av-universell-utforming) |
 [Kilde](https://www.regjeringen.no/no/dokumenter/t-1468-universell-utforming/id493083/)
