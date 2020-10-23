@@ -2,7 +2,7 @@
 
 [Home](./README.md)
 
-Det fins noen tekster som handler om evaluringsmetoder for universell utforming:
+Det fins noen tekster som handler om evalueringsmetoder for universell utforming:
 * [Bai et al. (2019) Evaluating accessibility testing in automated software build processes](#bai-et-al-2019-evaluating-accessibility-testing-in-automated-software-build-processes)
 * [Power & Petrie (2019) Working With Participants](#power-petrie-2019-working-with-participants)
 * [Bai et al. (2018) Categorization and Comparison of Accessibility Testing Methods for Software Development](#bai-et-al-2018-categorization-and-comparison-of-accessibility-testing-methods-for-software-development)
@@ -23,7 +23,7 @@ Moreover, they analyzed four assessment methods for each of the categories showi
 [__Bai et al. (2016b)__](#bai-et-al-2016b-a-cost-benefit-evaluation-of-accessibility-testing-in-agile-software-development) analyzed accessibility methods with respect to resources and knowledge requirements in terms of a cost-benefit analysis. Moreover, they described the inclusion of testing methods into an agile process by using an agile accessibility spiral.
 Research by [__Bai et al. (2016a)__](#bai-et-al-2016a-evaluation-of-accessibility-testing-methods-which-methods-uncover-what-type-of-problems) support the hypothesis that a combination of multiple assessment methods covers a wide range of critical and confusing accessibility issues. 
 They showed that no single method is superior to any other, but presented evidence that a combination of expert testing methods can give good results.
-[__Power et al. (2011)__](#power-et-al-2011-remote-evaluation-of-wcag-20-techniques-by-web-users-with-visual-disabilities) propose a lightweight, flexible and remote methodology using a text website and questionnaires to assess implementation techniques for SCAG Success Criterion that they demonstrate on the Success Criterion 2.4.4. 
+[__Power et al. (2011)__](#power-et-al-2011-remote-evaluation-of-wcag-20-techniques-by-web-users-with-visual-disabilities) propose a lightweight, flexible and remote methodology using a text website and questionnaires to assess implementation techniques for WCAG Success Criterion that they demonstrate on the Success Criterion 2.4.4. 
 The results suggest that only an explanation in plain text within an anchor element fulfills the criterion almost 100% of the time, although other techniques can reach high compliance as well.
 [__Bruun et al. (2009)__](#bruun-et-al-2009-let-your-users-do-the-testing-a-comparison-of-three-remote-asynchronous-usability-testing-methods) compared three remote asynchronous usability testing methods (user-reported critical incidents, forum-based online reporting and discussion, diary-based longitudinal user reporting) with conventional laboratory-based thinking aloud testing as benchmark. 
 They found out that the remote methods only found significantly less issues (with the diary performing at 50% for some of the issue types), at the same time as they require significantly less time.
@@ -162,13 +162,13 @@ In both studies participants had to accomplish tasks after being divided into tw
 There were also additional questionnaires and post evaluation interviews (face-to-face or phone).
 The quantitative data collected in both remote and local evaluation was comparable, at the same time as the amount and richness of the qualitative data was much lower for the remote evaluation. 
 Thus, the authors argue that remote evaluation might be appropriate for summative evaluations, while local assessment was best suited for formative evaluation.
-Moreover, they list recommendations for local evaluation (investigating assistive tools beforehand, access to location, configuration time, special needs) and remote evaluations (appropriate training material beforehand, wider variety of assistive tools, synchronous vs asynchronous, follow-up phone i
+Moreover, they list recommendations for local evaluation (investigating assistive tools beforehand, access to location, configuration time, special needs) and remote evaluations (appropriate training material beforehand, wider variety of assistive tools, synchronous vs asynchronous, follow-up phone).
 
 
 ## Brush et al. (2004) A comparison of synchronous remote and local usability studies for an expert interface
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
 
-Brush et al. (2004) compared results from a local (think aloud) and a synchronous remote (think alone over phone) usability study, investigating usability issues found, participants expereince, and facilitator's experience.
+Brush et al. (2004) compared results from a local (think aloud) and a synchronous remote (think alone over phone) usability study, investigating usability issues found, participants experience, and facilitator's experience.
 The results suggest that the number of usability issues found including type and severity is comparable, at the same time as the qualitative experience may differ.
-For the remoe study, they point out that peparation required more effort, recruitment was easier, the tone of voice was enough to sense frustration, and that most of their participants would either prefer both methods equally or the remote evaluation in the future.
+For the remote study, they point out that preparation required more effort, recruitment was easier, the tone of voice was enough to sense frustration, and that most of their participants would either prefer both methods equally or the remote evaluation in the future.
