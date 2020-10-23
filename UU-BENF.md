@@ -38,7 +38,7 @@ Schmutz et al. (2019) analyzed effects of easy-to-read language [DE] (ETRL) on p
 
 [Up](#tekster-om-fordeler-av-universell-utforming-uu-benf)
 
-Schmutz et al. (2018) show the affect of accessible website design by analyzing completion time, completion rate and satisfaction rating in a '2x2x2' comparison that has web siste accessibility (high vs low accessibility), age (old vs young), and device type (laptop vs table) as independent variables. They showed that higher accessibility increased task completion rate, task completion time and satisfaction ratings of nondisabled users. At the same time, they showed that accessibility benefits did not depend on the age, but that the benefits were greater when participants used a tablet rather than using a laptop. Finally, they showed than younger participants preferred the presentation on the tablet, whereas older people preferred the laptop.
+Schmutz et al. (2018) show the effect of accessible website design by analyzing completion time, completion rate and satisfaction rating in a '2x2x2' comparison that has web site accessibility (high vs low accessibility), age (old vs young), and device type (laptop vs table) as independent variables. They showed that higher accessibility increased task completion rate, task completion time and satisfaction ratings of nondisabled users. At the same time, they showed that accessibility benefits did not depend on the age, but that the benefits were greater when participants used a tablet rather than using a laptop. Finally, they showed than younger participants preferred the presentation on the tablet, whereas older people preferred the laptop.
 
 ## Schmutz et al. (2017) Implementing Recommendations From Web Accessibility Guidelines: A Comparative Study of Nondisabled Users and Users With Visual Impairments
 
@@ -46,7 +46,7 @@ Schmutz et al. (2018) show the affect of accessible website design by analyzing 
 
 Schmutz et al. (2017) showed the effect of websites with very low, low and high accessibility on people with and without visual impairment by analyzing performance measures (task completion time and task completion rate) and multiple subjective measures (perceived usability, positive and negative affect, aesthetics, workload and user experience). 
 They showed that both user groups benefit from higher accessibility levels, emphasizing that non-disabled people would benefit from higher accessibility levels to the same extend as disabled people. 
-They argue that the underlying needs of disabled an non-disabled people are very similar, and that there is a considerade overlap between WCAG 2.0 guidelines and usability recommendations.
+They argue that the underlying needs of disabled a non-disabled people are very similar, and that there is a considerate overlap between WCAG 2.0 guidelines and usability recommendations.
 They argue that high accessibility can lead to economic benefit as it can help keeping users on a website at the same time as it might increase branding.
 
 ```
@@ -90,7 +90,7 @@ They review literature that investigate attitudes to assumptions and knowledge a
 They propose a framework to document and assess effects of UD containing the following steps:
 1. Business strategy (management commitments, collaboration, standardization supports, etc.).
 2. Organization structure & process (organizational units, positions, infrastructure, etc.).
-3. UD methods and approaches (user-centered design, accessibility standards and guidelines, access. and usa. assessment including technical testing, AT, expert evaluation, user testing)
+3. UD methods and approaches (user-centered design, accessibility standards and guidelines, accessibility and usability assessment including technical testing, AT, expert evaluation, user testing)
 4. Outcomes and effects.
    1. Improved products and services,
    2. Market and customer satisfaction (increased marketability, increase success rate, user satisfaction, ease of use, and ease of leaning and trust. etc.)
