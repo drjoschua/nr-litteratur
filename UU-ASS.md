@@ -13,6 +13,13 @@ Det fins noen tekster som handler om evalueringsmetoder for universell utforming
 * [Petrie et al. (2006) Remote usability evaluations with disabled people](#petrie-et-al-2006-remote-usability-evaluations-with-disabled-people)
 * [Brush et al. (2004) A comparison of synchronous remote and local usability studies for an expert interface](#brush-et-al-2004-a-comparison-of-synchronous-remote-and-local-usability-studies-for-an-expert-interface)
 
+
+* [Sauer et al. (2018) Extra-laboratorial usability tests: An empirical comparison of remote and classical field testing with lab testing](#sauer-et-al-2018-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing)
+* [Miao et al. (2016) Contrasting usability evaluation methods with blind users](#miao-et-al-2016-contrasting-usability-evaluation-methods-with-blind-users)
+* [Bruun & Stage (2012) The effect of task assignments and instruction types on remote asynchronous usability testing](#bruun-stage-2012-the-effect-of-task-assignments-and-instruction-types-on-remote-asynchronous-usability-testing)
+* [Power et al. (2009) A Framework for Remote User Evaluation of Accessibility and Usability of Websites](#power-et-al-2009-a-framework-for-remote-user-evaluation-of-accessibility-and-usability-of-websites)
+* [Boren and Ramey (2000) Thinking aloud: reconciling theory and practice](#boren-and-ramey-2000-thinking-aloud-reconciling-theory-and-practice)
+
 ## General
 
 [__Bai et al. (2019)__](#bai-et-al-2019-evaluating-accessibility-testing-in-automated-software-build-processes) presented an overview over available automatic assessment, and discusses means of assessment and analysis for the different tools. 
@@ -172,3 +179,9 @@ Moreover, they list recommendations for local evaluation (investigating assistiv
 Brush et al. (2004) compared results from a local (think aloud) and a synchronous remote (think alone over phone) usability study, investigating usability issues found, participants experience, and facilitator's experience.
 The results suggest that the number of usability issues found including type and severity is comparable, at the same time as the qualitative experience may differ.
 For the remote study, they point out that preparation required more effort, recruitment was easier, the tone of voice was enough to sense frustration, and that most of their participants would either prefer both methods equally or the remote evaluation in the future.
+
+## Sauer et al. (2018) Extra-laboratorial usability tests: An empirical comparison of remote and classical field testing with lab testing
+## Miao et al. (2016) Contrasting usability evaluation methods with blind users
+## Bruun & Stage (2012) The effect of task assignments and instruction types on remote asynchronous usability testing
+## Power et al. (2009) A Framework for Remote User Evaluation of Accessibility and Usability of Websites
+## Boren and Ramey (2000) Thinking aloud: reconciling theory and practice
