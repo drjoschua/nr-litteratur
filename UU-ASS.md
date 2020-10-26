@@ -182,7 +182,7 @@ The authors point out the low sample size (10) and bias of the observers, at the
 
 Petrie et al. (2006) present different methods for remote assessment and discuss the dimensions that play a role when choosing an appropriate method for given study (synchronous vs asynchronous, participant independence, intrusive vs unobtrusive, training requirement, formative or summative evaluation).
 They point out the advantages of remote (facilitate traveling, wider spectrum of assistive technology) and it disadvantages (shallower understanding for the evaluator).
-They present two studies for formative and formative evaluations, where they compare results for local and asynchronous remote assessment with disabled participants.
+They present two studies for formative and summative evaluations, where they compare results for local and asynchronous remote assessment with disabled participants.
 In the first study the have a formative evaluation of a technical program for blind people, whereas in the second study they have a summative evaluation of websites by people with disabilities.
 In both studies participants had to accomplish tasks after being divided into two groups: The first group was asked to do the tasks in-situ while thinking aloud, whereas the other group was asked to complete the tasks on their own time at their own preferred place.
 There were also additional questionnaires and post evaluation interviews (face-to-face or phone).
