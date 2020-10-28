@@ -25,7 +25,9 @@ They argue that tools based on the aXe-core rulesets are superior to those based
 [__Power & Petrie (2019)__](#power-petrie-2019-working-with-participants) emphasize four key aspects when working with people with disabilities: (1) treating participants with respect throughout the process () ethics, language, supportive facilities), (2) anticipating needs and preferences for alternative format materials, (3) ensuring minimum technical accessibility  standards prior, and (4) identifying the best support setup (locally or remote).
 [__Bai et al. (2018)__](#bai-et-al-2018-categorization-and-comparison-of-accessibility-testing-methods-for-software-development) expended W3C accessibility cognitive barriers from one to three resulting in seven barriers in total (Aud, A&M, HLL, L&N, Phy, Spe, Vis), and categorized accessibility tools in different categories (Auto, Check, Sim, AT, Exp) including an indication of their cost for developers.
 Moreover, they analyzed four assessment methods for each of the categories showing the accessibility barriers they cover. 
-[__Sauer et al. (2018)__](#sauer-et-al-2018-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing) did something.
+[__Sauer et al. (2018)__](#sauer-et-al-2018-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing) investigated the effects of testing environment in usability testing along the parameters of different types of artefacts (website, mobile phone simulation, mobile phone), methodological approaches (syncrhonous/asynchronous remote testing, field testing, local lab testing), and operational conditions (good/poor usability, dual tasks demands).
+They found that no significant difference between field and lab-based testing in situtations where circumstances were favorable, at the same time as some differences occured in cases were circumstances were not favorable.
+They advise to conduct usability testing as close as possible to the real life situation.
 [__Miao et al. (2016)__](#miao-et-al-2016-contrasting-usability-evaluation-methods-with-blind-users) did something.
 [__Bai et al. (2016b)__](#bai-et-al-2016b-a-cost-benefit-evaluation-of-accessibility-testing-in-agile-software-development) analyzed accessibility methods with respect to resources and knowledge requirements in terms of a cost-benefit analysis. Moreover, they described the inclusion of testing methods into an agile process by using an agile accessibility spiral.
 Research by [__Bai et al. (2016a)__](#bai-et-al-2016a-evaluation-of-accessibility-testing-methods-which-methods-uncover-what-type-of-problems) support the hypothesis that a combination of multiple assessment methods covers a wide range of critical and confusing accessibility issues. 
@@ -67,7 +69,7 @@ The researchers should minimum of accessibility, keep track of assistive tools, 
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
 
-Bai et al. categorized accessibility barriers from a testing point of view, rather than a medical, and focused on digital solutions rather than physical environments basing their categories on W3C accessibility barriers.
+Bai et al. (2018) categorized accessibility barriers from a testing point of view, rather than a medical, and focused on digital solutions rather than physical environments basing their categories on W3C accessibility barriers.
 They expand W3C cognitive barriers from one to three ending up with seven categories in total:
 
 |Abbr.|Name|Description|
@@ -96,6 +98,33 @@ Finally, they list four typical accessibility testing tools for each of the asse
 ## Sauer et al. (2018) Extra-laboratorial usability tests: An empirical comparison of remote and classical field testing with lab testing
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+Sauer et al. (2018) investigated the influnece of testing enviornments on usability testing including physical features (lab, field, home, etc.), social features (evaluator being presented or not), and difficulty of the task (duality, good/low usability, etc.).
+they conducted three experiments where they analyzed factors of type (field-based, synchronous/asynchronous remote), product quaity (usability, price), task demand (single v dual) in a summative study where they analyzed quantitative measurements (performance, perceived usability, etc.):
+1. Synchronous v asynchronous testing v lab-based testing.
+There was no effect of testing method. Neither remote testing methods or the lab-based method had a significant advantage or disadvantage.
+2. Aynchornous remote testing vs lab-based testing using different artefact (computer simulation of a smartphone) and different product quality (bad/good usability, price).
+They showed the importance of product properties and testing methods, and the influence of social expectations.
+There was no difference in performance between remote and local evaluation for a product with good usability, however performance was worse in the local than in the remote testing for a product with bad usability.
+they explaide that with a social inhibition effect that states that `performance on more difficult tasks is impaired during the presence of others`.
+Moreover usability rating were higher in local evaluation than in remote testing.
+This can be explained by social expectations, namely that users are more hesitant about negavite feedback if the evaluator is present.
+3. Field testing v lab-based testing using a singel/dual task approach.
+They did not find a significant difference due to testing method used.
+Performance were poorer foir the single task in the local than in the field evaluation.
+In the field, dual task had a poorer performance than the single task, whereas in the lab there was no significant difference.
+Field/dual had the poorest performance, lab/dual had the best performance.
+The authors explain that with the role of arousal. More precisely having the second task raising arousal in the lab to an optimal level.
+
+To sum up, Sauer et al. (2018) found out that the outcome of usability testing depends on a complkex interaction between multiple variables and factors including usability, demand, social expectations, etc.
+however, the output may be difficult to predict.
+Moreover, the presence of others (e.g. the evaluator) may interact with task difficulty.
+On the one hand, presence (virtual or physical) might increase physiological arousal.
+On the other hand, presence might increase the need to confirm hte other's social expectations.
+
+They conclude, that different testing methods did not show any obvious different main effects, at the same time as other contextual factors (usability, difficulty, evaluator presence etc.) moderate the influence on the outcome noteably.
+They advise, therefore to test a system as close as possible to the real case setting.
+
 
 ## Miao et al. (2016) Contrasting usability evaluation methods with blind users
 
