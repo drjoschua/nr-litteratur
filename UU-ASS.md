@@ -35,7 +35,7 @@ They showed that no single method is superior to any other, but presented eviden
 [__Bruun & Stage (2012)__](#bruun-stage-2012-the-effect-of-task-assignments-and-instruction-types-on-remote-asynchronous-usability-testing) did something.
 [__Power et al. (2011)__](#power-et-al-2011-remote-evaluation-of-wcag-20-techniques-by-web-users-with-visual-disabilities) propose a lightweight, flexible and remote methodology using a text website and questionnaires to assess implementation techniques for WCAG Success Criterion that they demonstrate on the Success Criterion 2.4.4. 
 The results suggest that only an explanation in plain text within an anchor element fulfills the criterion almost 100% of the time, although other techniques can reach high compliance as well.
-[__Power et al. (2009)__](#power-et-al-2009-a-framework-for-remote-user-evaluation-of-accessibility-and-usability-of-websites) did something.
+[__Power et al. (2009)__](#power-et-al-2009-a-framework-for-remote-user-evaluation-of-accessibility-and-usability-of-websites) defines requirements and architectur of an automated online tool to help with the design, deployment and analysis of evaluations with participants that have some sort of impairment.
 [__Bruun et al. (2009)__](#bruun-et-al-2009-let-your-users-do-the-testing-a-comparison-of-three-remote-asynchronous-usability-testing-methods) compared three remote asynchronous usability testing methods (user-reported critical incidents, forum-based online reporting and discussion, diary-based longitudinal user reporting) with conventional laboratory-based thinking aloud testing as benchmark. 
 They found out that the remote methods found significantly less issues (with the diary performing at 50% for some of the issue types), at the same time as they require significantly less time.
 [__Petrie et al. (2006)__](#petrie-et-al-2006-remote-usability-evaluations-with-disabled-people) conducted two case studies (one formative, one summative) for asynchronous remote assessment methods and compared the results to local evaluation.
@@ -187,6 +187,64 @@ The results suggest that only G91 (clear text embedded in anchor tag) succeeds i
 ## Power et al. (2009) A Framework for Remote User Evaluation of Accessibility and Usability of Websites
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+Power et al. (2009) present a framework for the architecture and implementation of an application that can assist with managing the design of remote evaluations of accessibiility and usability, it deployment to target groups, and the analysis of its data. 
+They discuss some of the challenges related to remote assessment of accessibility and usability with users that have some sort of impairment, and define some requirements for an application that aims to address these challenges.
+
+To begin with, they classify remote evaluations into:
+* portable evaluations,
+* lcoal evaluation at a remote site,
+* remoe questionnaires/surveys,
+* remote control evaluation,
+* video conferencing,
+* instrumented remote evaluation, and
+* semi-instrumented remote evaluation.
+
+they also mention other categorization dimensions like independence/dependence upon the evaluator, dimension of synchronicity (synchron/asynchron), training requirements, type of methodology, type of data, etc.
+
+Furthermore, they define the four stages of the evaluation process:
+1. The recruitment of a represnetative group (plus the recording of their demographic information).
+2. The design of experimentatls tasks representative of the final use of the application.
+3. The deployment of the evaluation method to the participants including some sort of instructions.
+4. The analysis of the data through a set of qualitative and quantitative methods.
+
+For the participants, the framework should require the following:
+* Recording of their demographic information (age, sex, functional disability, nationality [?], etc.);
+* Privacy options;
+* Technology configurations and experience (general OS, user agents, AT, etc.);
+* Allowing multiple context of uses;
+* Preference about type and number of trials;
+* Methodology preferences (good to record, CI, survey, etc.);
+* Log of their activity for reimbursement.
+
+For the evaluators, the framework requires:
+* Artifact specifications;
+* Specification for tasks, questions (before, during and after trial), answer options (alternate choice, multiple choice, Lickert scale, open answer, etc.), target groups, etc.;
+* Saving subpgroups;
+* Providing instructions and training documents;
+* Specify and external tool used for remote monitoring;
+* Retrieving collected data to perform analyses.
+ 
+Power et al. (2019) specify the architecture of an evaluation framework that they call `Klingsor: A Remote Evaluation Tool Suite` (cf. Fig. 1).
+The framework consists of:
+1. An evaluator interface:
+   * Evaluation setup:
+      * Briefing
+      * Debriefing
+      * Application information
+   * Evaluation trial (task):
+      * Target users:
+      * Target technology
+      * Trial monitoring     
+2. An participant interface:
+   * User profile information:
+      * User disability
+      * User disability
+      * User hardware
+      * Trial monitoring
+ 
+
+![The architecture of the framework](./media/bilder/power2009aframework-architecture.png)
 
 ## Bruun et al. (2009) Let your users do the testing: a comparison of three remote asynchronous usability testing methods
 
