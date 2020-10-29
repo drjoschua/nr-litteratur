@@ -25,8 +25,8 @@ They argue that tools based on the aXe-core rulesets are superior to those based
 [__Power & Petrie (2019)__](#power-petrie-2019-working-with-participants) emphasize four key aspects when working with people with disabilities: (1) treating participants with respect throughout the process () ethics, language, supportive facilities), (2) anticipating needs and preferences for alternative format materials, (3) ensuring minimum technical accessibility  standards prior, and (4) identifying the best support setup (locally or remote).
 [__Bai et al. (2018)__](#bai-et-al-2018-categorization-and-comparison-of-accessibility-testing-methods-for-software-development) expended W3C accessibility cognitive barriers from one to three resulting in seven barriers in total (Aud, A&M, HLL, L&N, Phy, Spe, Vis), and categorized accessibility tools in different categories (Auto, Check, Sim, AT, Exp) including an indication of their cost for developers.
 Moreover, they analyzed four assessment methods for each of the categories showing the accessibility barriers they cover. 
-[__Sauer et al. (2018)__](#sauer-et-al-2018-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing) investigated the effects of testing environment in usability testing along the parameters of different types of artefacts (website, mobile phone simulation, mobile phone), methodological approaches (syncrhonous/asynchronous remote testing, field testing, local lab testing), and operational conditions (good/poor usability, dual tasks demands).
-They found that no significant difference between field and lab-based testing in situtations where circumstances were favorable, at the same time as some differences occured in cases were circumstances were not favorable.
+[__Sauer et al. (2018)__](#sauer-et-al-2018-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing)investigated the effects of testing environment in usability testing along the parameters of different types of artefacts (website, mobile phone simulation, mobile phone), methodological approaches (synchronous/asynchronous remote testing, field testing, local lab testing), and operational conditions (good/poor usability, dual tasks demands).  
+They found that no significant difference between field and lab-based testing in situations where circumstances were favorable, at the same time as some differences occurred in cases were circumstances were not favorable. 
 They advise to conduct usability testing as close as possible to the real life situation.
 [__Miao et al. (2016)__](#miao-et-al-2016-contrasting-usability-evaluation-methods-with-blind-users) did something.
 [__Bai et al. (2016b)__](#bai-et-al-2016b-a-cost-benefit-evaluation-of-accessibility-testing-in-agile-software-development) analyzed accessibility methods with respect to resources and knowledge requirements in terms of a cost-benefit analysis. Moreover, they described the inclusion of testing methods into an agile process by using an agile accessibility spiral.
@@ -35,7 +35,7 @@ They showed that no single method is superior to any other, but presented eviden
 [__Bruun & Stage (2012)__](#bruun-stage-2012-the-effect-of-task-assignments-and-instruction-types-on-remote-asynchronous-usability-testing) did something.
 [__Power et al. (2011)__](#power-et-al-2011-remote-evaluation-of-wcag-20-techniques-by-web-users-with-visual-disabilities) propose a lightweight, flexible and remote methodology using a text website and questionnaires to assess implementation techniques for WCAG Success Criterion that they demonstrate on the Success Criterion 2.4.4. 
 The results suggest that only an explanation in plain text within an anchor element fulfills the criterion almost 100% of the time, although other techniques can reach high compliance as well.
-[__Power et al. (2009)__](#power-et-al-2009-a-framework-for-remote-user-evaluation-of-accessibility-and-usability-of-websites) defines requirements and architectur of an automated online tool to help with the design, deployment and analysis of evaluations with participants that have some sort of impairment.
+[__Power et al. (2009)__](#power-et-al-2009-a-framework-for-remote-user-evaluation-of-accessibility-and-usability-of-websites) define a framework containing requirements and architecture of an automated online tool to help with the design, deployment and analysis of evaluations with participants that have some sort of impairment.
 [__Bruun et al. (2009)__](#bruun-et-al-2009-let-your-users-do-the-testing-a-comparison-of-three-remote-asynchronous-usability-testing-methods) compared three remote asynchronous usability testing methods (user-reported critical incidents, forum-based online reporting and discussion, diary-based longitudinal user reporting) with conventional laboratory-based thinking aloud testing as benchmark. 
 They found out that the remote methods found significantly less issues (with the diary performing at 50% for some of the issue types), at the same time as they require significantly less time.
 [__Petrie et al. (2006)__](#petrie-et-al-2006-remote-usability-evaluations-with-disabled-people) conducted two case studies (one formative, one summative) for asynchronous remote assessment methods and compared the results to local evaluation.
@@ -231,20 +231,21 @@ The framework consists of:
    * Evaluation setup:
       * Briefing
       * Debriefing
-      * Application information
+      * Application information (instructoions, etc.)
    * Evaluation trial (task):
-      * Target users:
-      * Target technology
-      * Trial monitoring     
+      * Target users (functional disability, experience, other info)
+      * Target technology (technology needed like AT, etc.)
+      * Trial monitoring (monitoring software needed, etc.)
 2. An participant interface:
-   * User profile information:
+   * User profile information (one user can have multiple profiles):
       * User disability
       * User disability
       * User hardware
       * Trial monitoring
- 
-
+      
 ![The architecture of the framework](./media/bilder/power2009aframework-architecture.png)
+
+The framework will be implemented in JSP.
 
 ## Bruun et al. (2009) Let your users do the testing: a comparison of three remote asynchronous usability testing methods
 
