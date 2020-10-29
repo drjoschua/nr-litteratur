@@ -43,7 +43,8 @@ Their results show that the quantitative data is highly comparable, at the same 
 They conclude that remote evaluation is highly appropriate for summative studies, whereas local evaluation should be used for formative studies.
 [__Brush et al. (2004)__](#brush-et-al-2004-a-comparison-of-synchronous-remote-and-local-usability-studies-for-an-expert-interface) compared results from a local and a synchronous remote usability study.
 The results suggest that the number of usability issues found including type and severity is comparable, at the same time as the qualitative experience may differ.
-[__Boren and Ramey (2000)__](#boren-and-ramey-2000-thinking-aloud-reconciling-theory-and-practice) did something.
+[__Boren and Ramey (2000)__](#boren-and-ramey-2000-thinking-aloud-reconciling-theory-and-practice) introduce the concept of speech genre as theoretical basis for a thinking aloud protocol.
+They present a new framework for usability testing in which the evaluator: (1) sets the stage for a productive interaction, (2) elicits a verbal report that is undirected, undisturbed, and as constant as possible while still acounting for the social nature of speech, provides guidance on (3) interventions often required by problems and disturbancies arising in usability testing, and (4) proactive interventions to retrie more information from the participant. 
 
 ## Bai et al. (2019) Evaluating accessibility testing in automated software build processes
 
@@ -290,3 +291,59 @@ For the remote study, they point out that preparation required more effort, recr
 ## Boren and Ramey (2000) Thinking aloud: reconciling theory and practice
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+Boren and Ramey (2000) discuss and extend the thinking aloud approach by Ericsson and Simon (1984) by exploring the concept of speech genre as an alternative theoretical basis for usability testing, while providing a new framework based on this premise.
+
+They start first by introducing the thinking aloud approach introduced by Ericsson and Simon (1984).
+They introduce Ericsson and Simon's three level of verbalization:
+1. Level 1: Verbalizations that do _not_ need to be tranformed before verbalization during task performance (numbers, etc.).
+2. Level 2: Verbalizations that must be tranformed before verbalization during task performance (abstract concepts).
+3. Level 3 Verbalization that require additional cognitive processing beyong what is required for task performance or verbalization (filtering).
+
+They summarize Ericsson and Simon's traditional approach as following:
+* Colelct and analyze only "hard" verbal data.
+* Give detailed initial instructions for thinking aloud.
+* rEmind participants to think alound.
+* Otherwise:; do not intervent.
+
+They list the discrepancies between theory and practice of the traditional method.
+
+They introduce speech communication as new basis for the thinking aloud approach.
+In speech communication, there are always the roles of speaker and listener whenever `words are spoken knowingly for another's benefit`.
+Moreover, the listener __must__ always repond even in an asymmetrical dialog, and the speakers cannot ignore listeners even if they are siltent.
+In this theory, different speech genres exist that define the who, what, where, when and why of the communication. 
+Speech genres defines roles, rules and goals of a communication.
+In this definition, communication is impeded if parties `do not know or choose not to abide by the rules of the genre`.
+Following this premise for usability testing, we can define the goal of an evaluator to create a setting in which a productive speech genre is possible.
+He/she will define the who, what, where, when and why interaction is happening, which will influence the abailabe responses from the participant.
+Bad examples of speech genres are with the evaluator as expert and the the user as subject.
+
+They present a new framework using speech communication as premise and presenting productive speech genres for usability testing with the following guidelinges: 
+1. Set the stage for a productive interaction by
+   * putting the participant at ease, 
+   * defining the evaluator's/participant's roles (defining explicitly in the beginning between (1) the product being tested, (2) the participant as expert and primary speaker, and (3) the evaluator as the elarner and primary listener, than maintained implicitly), 
+   * pysical environment and timing of the interaction (making observational technology as unobtrusive as possible)
+2. Elicit a verbal report that is undirected, undisturbed, and as constant as possible while still acounting for the social nature of speech.
+Silence can be more absive, use acknowledge tokens instead like mm hmmm, uh huh (continuer) or yeah, oh, ok (assessment).
+The intonation is important (uh-huh v uh-huh?).
+For the optimal frquency, watch out for cues from the participants themselv.
+There is an argument agains these tokens as not to disturb the aprticiapnt, but silence is a response as well as these tokens have a minimal impact on task performance.
+Remind the participant to keep talk.
+If things stop up, use for example mm hm? or and now…?
+provides guidance on 
+3. Handle interventions often required by problems and disturbancies arising in usability testing like bugs, crashes, etc.
+A researcher could silently fix a problem or explicitly tell the participant that the experiment is shortly interrupted.
+Boren and Ramey suggest to manage these situations as transition between `a highly asymmetrical dialog (before the intervention), to a more equally interactive dialog (during the intervention), back to a highly asymmetrical dialog (after the intervention)`.
+They list examples for different scenarios:
+   * `The system crashes, a serious bug is encountered or the prototype is incomplete`:
+Reassure that it is the system's fault not the participant's fault. 
+Get them back on track.
+Indicate where the particiapnt should begin again.
+   * `The participant thinks the task is completed, but it is not.`
+   * `The particiapnt sidesteps the functionality of interest.`
+   * `The particiapnt is stuck.` 
+   * `The participant asks a question answered int eh task list.`   
+   * `The particiapnt asks a question about the task that is not answered in the task list.`   
+   * `The particiapnt asks something that suggests that he or she is approaching the task in an unexpected way.`   
+   * `The particiapnt is unusually "chatty".`   
+4. Present strategies to retrieve more information from the participant. 
