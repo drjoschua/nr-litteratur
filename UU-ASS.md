@@ -2,7 +2,7 @@
 
 [Home](./README.md)
 
-Det fins noen tekster som handler om evalueringsmetoder for universell utforming:
+These articles, papers and chapters discuss assessment methods for accessibility and usability that are needed for the evaluation in universal design:
 * [__Bai et al. (2019)__ Evaluating accessibility testing in automated software build processes](#bai-et-al-2019-evaluating-accessibility-testing-in-automated-software-build-processes)
 * [__Power & Petrie (2019)__ Working With Participants](#power-petrie-2019-working-with-participants)
 * [__Sauer et al. (2019)__ Extra-laboratorial usability tests: An empirical comparison of remote and classical field testing with lab testing](#sauer-et-al-2018-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing)
