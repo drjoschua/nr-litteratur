@@ -12,8 +12,8 @@ Det fins noen tekster som handler om evalueringsmetoder for universell utforming
 * [Bai et al. (2016a) Evaluation of Accessibility Testing Methods. Which Methods Uncover What Type of Problems?](#bai-et-al-2016a-evaluation-of-accessibility-testing-methods-which-methods-uncover-what-type-of-problems)
 * [Bruun & Stage (2012) The effect of task assignments and instruction types on remote asynchronous usability testing](#bruun-stage-2012-the-effect-of-task-assignments-and-instruction-types-on-remote-asynchronous-usability-testing)
 * [Power et al. (2011) Remote Evaluation of WCAG 2.0 Techniques by Web Users with Visual Disabilities](#power-et-al-2011-remote-evaluation-of-wcag-20-techniques-by-web-users-with-visual-disabilities)
-* [Power et al. (2009) A Framework for Remote User Evaluation of Accessibility and Usability of Websites](#power-et-al-2009-a-framework-for-remote-user-evaluation-of-accessibility-and-usability-of-websites)
 * [Bruun et al. (2009) Let your users do the testing: a comparison of three remote asynchronous usability testing methods](#bruun-et-al-2009-let-your-users-do-the-testing-a-comparison-of-three-remote-asynchronous-usability-testing-methods)
+* [Power et al. (2009) A Framework for Remote User Evaluation of Accessibility and Usability of Websites](#power-et-al-2009-a-framework-for-remote-user-evaluation-of-accessibility-and-usability-of-websites)
 * [Petrie et al. (2006) Remote usability evaluations with disabled people](#petrie-et-al-2006-remote-usability-evaluations-with-disabled-people)
 * [Brush et al. (2004) A comparison of synchronous remote and local usability studies for an expert interface](#brush-et-al-2004-a-comparison-of-synchronous-remote-and-local-usability-studies-for-an-expert-interface)
 * [Boren and Ramey (2000) Thinking aloud: reconciling theory and practice](#boren-and-ramey-2000-thinking-aloud-reconciling-theory-and-practice)
@@ -38,9 +38,9 @@ They showed that no single method is superior to any other, but presented eviden
 They show that predefined tasks lead to more detected usability issues than working on own issues, at the same time as instructions by means of examples lead to more detected issues that using a conceptual definition as introduction.
 [__Power et al. (2011)__](#power-et-al-2011-remote-evaluation-of-wcag-20-techniques-by-web-users-with-visual-disabilities) propose a lightweight, flexible and remote methodology using a text website and questionnaires to assess implementation techniques for WCAG Success Criterion that they demonstrate on the Success Criterion 2.4.4. 
 The results suggest that only an explanation in plain text within an anchor element fulfills the criterion almost 100% of the time, although other techniques can reach high compliance as well.
-[__Power et al. (2009)__](#power-et-al-2009-a-framework-for-remote-user-evaluation-of-accessibility-and-usability-of-websites) define a framework containing requirements and architecture of an automated online tool to help with the design, deployment and analysis of evaluations with participants that have some sort of impairment.
 [__Bruun et al. (2009)__](#bruun-et-al-2009-let-your-users-do-the-testing-a-comparison-of-three-remote-asynchronous-usability-testing-methods) compared three remote asynchronous usability testing methods (user-reported critical incidents, forum-based online reporting and discussion, diary-based longitudinal user reporting) with conventional laboratory-based thinking aloud testing as benchmark. 
 They found out that the remote methods found significantly less issues (with the diary performing at 50% for some of the issue types), at the same time as they require significantly less time.
+[__Power et al. (2009)__](#power-et-al-2009-a-framework-for-remote-user-evaluation-of-accessibility-and-usability-of-websites) define a framework containing requirements and architecture of an automated online tool to help with the design, deployment and analysis of evaluations with participants that have some sort of impairment.
 [__Petrie et al. (2006)__](#petrie-et-al-2006-remote-usability-evaluations-with-disabled-people) conducted two case studies (one formative, one summative) for asynchronous remote assessment methods and compared the results to local evaluation.
 Their results show that the quantitative data is highly comparable, at the same time as the amount and richness of the qualitative data is much lesser for the remote evaluation.
 They conclude that remote evaluation is highly appropriate for summative studies, whereas local evaluation should be used for formative studies.
@@ -271,6 +271,27 @@ In their technique they
 They implemented this approach for evaluating different implementation techniques for the WCAG 2.0 Success Criterion 2.4.4 (accessibility of links).
 The results suggest that only G91 (clear text embedded in anchor tag) succeeds in almost 100% of the time, although other techniques like G53 (click her), H30 (alt image text), H77 (enclosing list), etc. can reach high success and confidence and low difficulty as well.
 
+## Bruun et al. (2009) Let your users do the testing: a comparison of three remote asynchronous usability testing methods
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+__Participants__:  
+Sighted (?)
+
+Bruun et al. (2009) compare three remote usability testing methods with conventional lab testing.
+Remote synchronous testing is defined as test users and evaluator are separated in space, whereas asynchronous methods are defined as test users and evaluators are separated in space _and_ time.
+They identified several asynchronous testing methods:
+* auto-logging (collecting quantitative data that is being analyzed, often combined with interviews and/or questionnaires),
+* user-reported critical incident method (UCI) (users report problems themselves),
+* unstructured problem reporting (participants make note of problems while they work on tasks),
+* forum (collecting qualitative data during auto-logging),
+* diary (collecting qualitative data during auto-logging).
+
+The authors investigated UCI, forum, and diary testing methods, and used user-based laboratory testing as a benchmark.
+They record both number of issues and severity (critical, serious, cosmetic).
+The results show that the remote methods reveal significantly less usability issues that the lab method with the diary revealing the most issues at around 50%. At the same time the remote methods use significantly less time than the lab method in terms of man hours.
+The authors point out the low sample size (10) and bias of the observers, at the same time as they hypothesize that training plays an important role in the success rate (written instructions only vs video training and exercises, online training tool).
+
 ## Power et al. (2009) A Framework for Remote User Evaluation of Accessibility and Usability of Websites
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
@@ -337,27 +358,6 @@ The framework consists of:
 ![The architecture of the framework](./media/bilder/power2009aframework-architecture.png)
 
 The framework will be implemented in JSP.
-
-## Bruun et al. (2009) Let your users do the testing: a comparison of three remote asynchronous usability testing methods
-
-[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
-
-__Participants__:  
-Sighted (?)
-
-Bruun et al. (2009) compare three remote usability testing methods with conventional lab testing.
-Remote synchronous testing is defined as test users and evaluator are separated in space, whereas asynchronous methods are defined as test users and evaluators are separated in space _and_ time.
-They identified several asynchronous testing methods:
-* auto-logging (collecting quantitative data that is being analyzed, often combined with interviews and/or questionnaires),
-* user-reported critical incident method (UCI) (users report problems themselves),
-* unstructured problem reporting (participants make note of problems while they work on tasks),
-* forum (collecting qualitative data during auto-logging),
-* diary (collecting qualitative data during auto-logging).
-
-The authors investigated UCI, forum, and diary testing methods, and used user-based laboratory testing as a benchmark.
-They record both number of issues and severity (critical, serious, cosmetic).
-The results show that the remote methods reveal significantly less usability issues that the lab method with the diary revealing the most issues at around 50%. At the same time the remote methods use significantly less time than the lab method in terms of man hours.
-The authors point out the low sample size (10) and bias of the observers, at the same time as they hypothesize that training plays an important role in the success rate (written instructions only vs video training and exercises, online training tool).
 
 ## Petrie et al. (2006) Remote usability evaluations with disabled people
 
