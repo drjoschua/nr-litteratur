@@ -236,15 +236,15 @@ Instructions can be given either in person or online through the Internet.
 The authors define deductive (a general rule is given), inductive (specific observations or examples are given) and combined deductive and inductive instruction types.
 
 They conducted the study on university students in two groups: local and asynchronous remote evaluation.
-In the experiment, they give deductive instrutions by providin an general rule (conceptual definition lke "not useful", "difficutl to leanr",. "difficult to remember", "ineffective to use", "unsatisfying to use", etc.)
-They also gave inductive einstructions by providing examples of usability issues without definitions related to consistency and affordance).
+In the experiment, they give deductive instructions by providing a general rule (conceptual definition like "not useful", "difficult to learn", "difficult to remember", "ineffective to use", "unsatisfying to use", etc.)
+They also gave inductive instructions by providing examples of usability issues without definitions related to consistency and affordance).
 
 On the one hand, they show that 
 users receiving predefined tasks completed more tasks, identify more usability problems, and have higher level of problem agreement 
 than users working on their own tasks.
 On the other hand, users working on their own tasks identify a more variety of usability issues.
-Finally, users who recieved inductive instructions identified more usability issues thand users who were given deductive instructions, at the same time as the satisfaction rating were higher from users with inductive instrucitons as well.
-The authors could not ind any bias resulting from the examples in the inductive instructions, or that the combination of the inductions and deductive instructions was preferred before either individual.
+Finally, users who received inductive instructions identified more usability issues than users who were given deductive instructions, at the same time as the satisfaction rating were higher from users with inductive instructions as well.
+The authors could not in any bias resulting from the examples in the inductive instructions, or that the combination of the inductions and deductive instructions was preferred before either individual.
 
 ## Power et al. (2011) Remote Evaluation of WCAG 2.0 Techniques by Web Users with Visual Disabilities
 
