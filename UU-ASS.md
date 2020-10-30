@@ -5,8 +5,8 @@
 Det fins noen tekster som handler om evalueringsmetoder for universell utforming:
 * [Bai et al. (2019) Evaluating accessibility testing in automated software build processes](#bai-et-al-2019-evaluating-accessibility-testing-in-automated-software-build-processes)
 * [Power & Petrie (2019) Working With Participants](#power-petrie-2019-working-with-participants)
+* [Sauer et al. (2019) Extra-laboratorial usability tests: An empirical comparison of remote and classical field testing with lab testing](#sauer-et-al-2018-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing)
 * [Bai et al. (2018) Categorization and Comparison of Accessibility Testing Methods for Software Development](#bai-et-al-2018-categorization-and-comparison-of-accessibility-testing-methods-for-software-development)
-* [Sauer et al. (2018) Extra-laboratorial usability tests: An empirical comparison of remote and classical field testing with lab testing](#sauer-et-al-2018-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing)
 * [Miao et al. (2016) Contrasting usability evaluation methods with blind users](#miao-et-al-2016-contrasting-usability-evaluation-methods-with-blind-users)
 * [Bai et al. (2016b) A cost-benefit evaluation of accessibility testing in agile software development](#bai-et-al-2016b-a-cost-benefit-evaluation-of-accessibility-testing-in-agile-software-development)
 * [Bai et al. (2016a) Evaluation of Accessibility Testing Methods. Which Methods Uncover What Type of Problems?](#bai-et-al-2016a-evaluation-of-accessibility-testing-methods-which-methods-uncover-what-type-of-problems)
@@ -23,11 +23,11 @@ Det fins noen tekster som handler om evalueringsmetoder for universell utforming
 [__Bai et al. (2019)__](#bai-et-al-2019-evaluating-accessibility-testing-in-automated-software-build-processes) presented an overview over available automatic assessment, and discusses means of assessment and analysis for the different tools. 
 They argue that tools based on the aXe-core rulesets are superior to those based on HTML-CS to-date.
 [__Power & Petrie (2019)__](#power-petrie-2019-working-with-participants) emphasize four key aspects when working with people with disabilities: (1) treating participants with respect throughout the process () ethics, language, supportive facilities), (2) anticipating needs and preferences for alternative format materials, (3) ensuring minimum technical accessibility  standards prior, and (4) identifying the best support setup (locally or remote).
-[__Bai et al. (2018)__](#bai-et-al-2018-categorization-and-comparison-of-accessibility-testing-methods-for-software-development) expended W3C accessibility cognitive barriers from one to three resulting in seven barriers in total (Aud, A&M, HLL, L&N, Phy, Spe, Vis), and categorized accessibility tools in different categories (Auto, Check, Sim, AT, Exp) including an indication of their cost for developers.
-Moreover, they analyzed four assessment methods for each of the categories showing the accessibility barriers they cover. 
-[__Sauer et al. (2018)__](#sauer-et-al-2018-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing)investigated the effects of testing environment in usability testing along the parameters of different types of artefacts (website, mobile phone simulation, mobile phone), methodological approaches (synchronous/asynchronous remote testing, field testing, local lab testing), and operational conditions (good/poor usability, dual tasks demands).  
+[__Sauer et al. (2019)__](#sauer-et-al-2018-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing)investigated the effects of testing environment in usability testing along the parameters of different types of artefacts (website, mobile phone simulation, mobile phone), methodological approaches (synchronous/asynchronous remote testing, field testing, local lab testing), and operational conditions (good/poor usability, dual tasks demands).  
 They found that no significant difference between field and lab-based testing in situations where circumstances were favorable, at the same time as some differences occurred in cases were circumstances were not favorable. 
 They advise to conduct usability testing as close as possible to the real life situation.
+[__Bai et al. (2018)__](#bai-et-al-2018-categorization-and-comparison-of-accessibility-testing-methods-for-software-development) expended W3C accessibility cognitive barriers from one to three resulting in seven barriers in total (Aud, A&M, HLL, L&N, Phy, Spe, Vis), and categorized accessibility tools in different categories (Auto, Check, Sim, AT, Exp) including an indication of their cost for developers.
+Moreover, they analyzed four assessment methods for each of the categories showing the accessibility barriers they cover. 
 [__Miao et al. (2016)__](#miao-et-al-2016-contrasting-usability-evaluation-methods-with-blind-users) conduct usability tests with blind and visually impaired participants testing local vs synchronous testing and tactile paper prototyping v computer-based prototyping.
 They found that local synchronous remote testing gave comparable number of usability problems, reduced completion time for blind participants but not for the visually impaired and sighted, and that blind and visually impaired participants prefer the local test.
 They list problems related to the synchronous remote testing, and give recommendations on how to overcome them.
@@ -68,37 +68,6 @@ Power and Petrie (2019) present core barriers and common solutions for website e
 4. They show evaluative user research to refine design in an iterative cycle, collect information, or understand impact of different design choices.
 The researchers should minimum of accessibility, keep track of assistive tools, consider in-situ or remote evaluation (asynchronous, synchronous, provide appropriate training material), provide protocol for formative evaluations, and consider recording of different performance and preference variables.
 
-
-## Bai et al. (2018) Categorization and Comparison of Accessibility Testing Methods for Software Development
-
-[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
-
-Bai et al. (2018) categorized accessibility barriers from a testing point of view, rather than a medical, and focused on digital solutions rather than physical environments basing their categories on W3C accessibility barriers.
-They expand W3C cognitive barriers from one to three ending up with seven categories in total:
-
-|Abbr.|Name|Description|
-|-|-|-|
-|Aud|Auditory|Barriers of audible content.|
-|A&M|Attention and memory|Barriers of complex or long-time operation sequences or invasive sensory content.|
-|HLL|Higher level logic|Barriers of complex comprehension or problem solving tasks content.|
-|L&N|Language and numbers|Barriers of dens textual or numerical content, difficult terms, use of inaccessible representation.|
-|Phy|Physical|Barriers of one-mode-only operations.|
-|Spe|Speech|Barriers of speech-required content.|
-|Vis|Visual|Barriers of visual content|
-
-They also categorized different assessment methods based on their cost, measured in completion time, and how different they are.
-They emphasize the importance of combining various methods to covers as many barriers as possible.
-
-|Abbr.|Name|Cost|Description|
-|-|-|-|-|
-|Auto|Automatic|Low|_Automatic_ assesment.|
-|Check|Checklists|Medium|Using a _checklist_ or guideline.|
-|Sim|Simulation|Low|Using _simulation_ as wearable or tool to simulate a barrier.|
-|AT|Assisstive technology|Medium|Using _assisstive technology_ used by people to overcome a barrier.|
-|Exp|Expert|High|Walkthrough methods requiring an _expert_.|
-
-Finally, they list four typical accessibility testing tools for each of the assessment categories indicating the accessibility barriers they cover.
-
 ## Sauer et al. (2018) Extra-laboratorial usability tests: An empirical comparison of remote and classical field testing with lab testing
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
@@ -129,6 +98,35 @@ On the other hand, presence might increase the need to confirm hte other's socia
 They conclude, that different testing methods did not show any obvious different main effects, at the same time as other contextual factors (usability, difficulty, evaluator presence etc.) moderate the influence on the outcome noteably.
 They advise, therefore to test a system as close as possible to the real case setting.
 
+## Bai et al. (2018) Categorization and Comparison of Accessibility Testing Methods for Software Development
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+Bai et al. (2018) categorized accessibility barriers from a testing point of view, rather than a medical, and focused on digital solutions rather than physical environments basing their categories on W3C accessibility barriers.
+They expand W3C cognitive barriers from one to three ending up with seven categories in total:
+
+|Abbr.|Name|Description|
+|-|-|-|
+|Aud|Auditory|Barriers of audible content.|
+|A&M|Attention and memory|Barriers of complex or long-time operation sequences or invasive sensory content.|
+|HLL|Higher level logic|Barriers of complex comprehension or problem solving tasks content.|
+|L&N|Language and numbers|Barriers of dens textual or numerical content, difficult terms, use of inaccessible representation.|
+|Phy|Physical|Barriers of one-mode-only operations.|
+|Spe|Speech|Barriers of speech-required content.|
+|Vis|Visual|Barriers of visual content|
+
+They also categorized different assessment methods based on their cost, measured in completion time, and how different they are.
+They emphasize the importance of combining various methods to covers as many barriers as possible.
+
+|Abbr.|Name|Cost|Description|
+|-|-|-|-|
+|Auto|Automatic|Low|_Automatic_ assesment.|
+|Check|Checklists|Medium|Using a _checklist_ or guideline.|
+|Sim|Simulation|Low|Using _simulation_ as wearable or tool to simulate a barrier.|
+|AT|Assisstive technology|Medium|Using _assisstive technology_ used by people to overcome a barrier.|
+|Exp|Expert|High|Walkthrough methods requiring an _expert_.|
+
+Finally, they list four typical accessibility testing tools for each of the assessment categories indicating the accessibility barriers they cover.
 
 ## Miao et al. (2016) Contrasting usability evaluation methods with blind users
 
