@@ -34,7 +34,8 @@ They list problems related to the synchronous remote testing, and give recommend
 [__Bai et al. (2016b)__](#bai-et-al-2016b-a-cost-benefit-evaluation-of-accessibility-testing-in-agile-software-development) analyzed accessibility methods with respect to resources and knowledge requirements in terms of a cost-benefit analysis. Moreover, they described the inclusion of testing methods into an agile process by using an agile accessibility spiral.
 Research by [__Bai et al. (2016a)__](#bai-et-al-2016a-evaluation-of-accessibility-testing-methods-which-methods-uncover-what-type-of-problems) support the hypothesis that a combination of multiple assessment methods covers a wide range of critical and confusing accessibility issues. 
 They showed that no single method is superior to any other, but presented evidence that a combination of expert testing methods can give good results.
-[__Bruun & Stage (2012)__](#bruun-stage-2012-the-effect-of-task-assignments-and-instruction-types-on-remote-asynchronous-usability-testing) did something.
+[__Bruun & Stage (2012)__](#bruun-stage-2012-the-effect-of-task-assignments-and-instruction-types-on-remote-asynchronous-usability-testing) conducted a comparative study investigating the effect of task assignments and instruction types on remote asynchronous usability testing.
+They show that predefined tasks lead to more detected usability issues than working on own issues, at the same time as instructions by means of examples lead to more detected issues that using a conceptual definition as introduction.
 [__Power et al. (2011)__](#power-et-al-2011-remote-evaluation-of-wcag-20-techniques-by-web-users-with-visual-disabilities) propose a lightweight, flexible and remote methodology using a text website and questionnaires to assess implementation techniques for WCAG Success Criterion that they demonstrate on the Success Criterion 2.4.4. 
 The results suggest that only an explanation in plain text within an anchor element fulfills the criterion almost 100% of the time, although other techniques can reach high compliance as well.
 [__Power et al. (2009)__](#power-et-al-2009-a-framework-for-remote-user-evaluation-of-accessibility-and-usability-of-websites) define a framework containing requirements and architecture of an automated online tool to help with the design, deployment and analysis of evaluations with participants that have some sort of impairment.
@@ -225,6 +226,25 @@ Thus, the authors advocate for using multiple methods.
 ## Bruun & Stage (2012) The effect of task assignments and instruction types on remote asynchronous usability testing
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+__Participants:__
+Sighted (?)
+
+Bruun & Stage (2012) conducted a comparative study investigating the effect of task assignments and instruction types on remote asynchronous usability testing.
+Tasks require a considerable knowledge beforehand, and might create artificial scenarios, whereas free tasks are more authentic.
+Instructions can be given either in person or online through the Internet.
+The authors define deductive (a general rule is given), inductive (specific observations or examples are given) and combined deductive and inductive instruction types.
+
+They conducted the study on university students in two groups: local and asynchronous remote evaluation.
+In the experiment, they give deductive instrutions by providin an general rule (conceptual definition lke "not useful", "difficutl to leanr",. "difficult to remember", "ineffective to use", "unsatisfying to use", etc.)
+They also gave inductive einstructions by providing examples of usability issues without definitions related to consistency and affordance).
+
+On the one hand, they show that 
+users receiving predefined tasks completed more tasks, identify more usability problems, and have higher level of problem agreement 
+than users working on their own tasks.
+On the other hand, users working on their own tasks identify a more variety of usability issues.
+Finally, users who recieved inductive instructions identified more usability issues thand users who were given deductive instructions, at the same time as the satisfaction rating were higher from users with inductive instrucitons as well.
+The authors could not ind any bias resulting from the examples in the inductive instructions, or that the combination of the inductions and deductive instructions was preferred before either individual.
 
 ## Power et al. (2011) Remote Evaluation of WCAG 2.0 Techniques by Web Users with Visual Disabilities
 
