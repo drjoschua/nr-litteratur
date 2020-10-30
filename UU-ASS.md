@@ -29,7 +29,7 @@ Moreover, they analyzed four assessment methods for each of the categories showi
 They found that no significant difference between field and lab-based testing in situations where circumstances were favorable, at the same time as some differences occurred in cases were circumstances were not favorable. 
 They advise to conduct usability testing as close as possible to the real life situation.
 [__Miao et al. (2016)__](#miao-et-al-2016-contrasting-usability-evaluation-methods-with-blind-users) conduct usability tests with blind and visually impaired participants testing local vs synchronous testing and tactile paper prototyping v computer-based prototyping.
-They found that local synchronous remote testing gave comparable number of usability problems, reduced completion time for blind participants but not fopr the visually impaired and sighted, and that blind and visually imapired participants prefer the local test.
+They found that local synchronous remote testing gave comparable number of usability problems, reduced completion time for blind participants but not for the visually impaired and sighted, and that blind and visually impaired participants prefer the local test.
 They list problems related to the synchronous remote testing, and give recommendations on how to overcome them.
 [__Bai et al. (2016b)__](#bai-et-al-2016b-a-cost-benefit-evaluation-of-accessibility-testing-in-agile-software-development) analyzed accessibility methods with respect to resources and knowledge requirements in terms of a cost-benefit analysis. Moreover, they described the inclusion of testing methods into an agile process by using an agile accessibility spiral.
 Research by [__Bai et al. (2016a)__](#bai-et-al-2016a-evaluation-of-accessibility-testing-methods-which-methods-uncover-what-type-of-problems) support the hypothesis that a combination of multiple assessment methods covers a wide range of critical and confusing accessibility issues. 
@@ -138,7 +138,7 @@ __Participants :__
 * Visually impaired
 * Sighted
 
-Miao et al. (2016) compare local testing with synchronous remote testing, and tactile paper prototyping with computer based prototyping (not relevant right now - 10/2020).
+Miao et al. (2016) compare local testing with synchronous remote testing, and tactile paper prototyping with computer-based prototyping (not relevant right now - 10/2020).
 
 They analyze three different types of data:
 1. Effectiveness of the evaluation:
@@ -147,37 +147,37 @@ They analyze three different types of data:
 2. Perceptions and experiences of participants:
    * Quantitative data: difficulty, time for preparation, setup and dismantling (uninstalling, etc.), number of positive and negative comments
    * Qualitative data: positive and negative comments, non-verbal reactions
-3. Perceptions and experiences of faciliator:
+3. Perceptions and experiences of evaluator:
    * Qualitative data: subjective opinions
    
-They define usability issuses where:
+They define usability issues where:
 1. The participant verbally indicates something that is unclear or confusing.
-2. The participant's utterances indicates a misconception or cunfusion.
+2. The participant's utterances indicates a misconception or confusion.
 3. The participant's actions indicate a wrong path.
 
 We skip the first study for now.
 
-In the seond study they compare synchronous remote and local test with blind, visually impaired and sighted people.
-in the remote seting they used WebEx where the output of the screen reader had to be made audible via loudspeaker and transmitted via microphone. 
+In the second study they compare synchronous remote and local test with blind, visually impaired and sighted people.
+in the remote setting they used WebEx where the output of the screen reader had to be made audible via loudspeaker and transmitted via microphone. 
 The results show that the completion time is significantly different for blind participants (due to unfamiliarity), but not for visually impaired or sighted people.
 The Number of usability problems is comparable for all participants. 
-The prepartaion, setup and dismantling time was significanlty higher for the remote testing for all participants.
+The preparation, setup and dismantling time was significantly higher for the remote testing for all participants.
 
-The most common negative comments by the partiicpants on remote evaluation were related to too much effort, high complexity, loudness of screen readers, security and privacy concerns (insecutiry, being observed, remote control).
+The most common negative comments by the participants on remote evaluation were related to too much effort, high complexity, loudness of screen readers, security and privacy concerns (insecurity, being observed, remote control).
 The most positive comments by the participants on local evaluation were no setup required, face-to-face communication, positive exam feeling.
-Advantages accorting to the evaluators include realistic environments, ease of recruitement.
-Problems according to the evaluators, include insufficient observfations (no observation f braille output, no facial expressions, delay of sound and picture, configuration problems), hight technical requiremnts for paritcipants, high computer skills required by the partiicpants, high requiremnts of evaluator, security and rpivacy concerns, high effort level, external interruptions.
+Advantages according to the evaluators include realistic environments, ease of recruitment.
+Problems according to the evaluators, include insufficient observations (no observation f braille output, no facial expressions, delay of sound and picture, configuration problems), Hight technical requirements for participants, high computer skills required by the participants, high requirements of evaluator, security and privacy concerns, high effort level, external interruptions.
 
 They give advices for technical improvements:
 * Executable on various operating systems.
-*  Redue effort required to install.
-* Usable and accessibile for blind and visaully impaired people.
-* Technical rquirements:
+* Reduce effort required to install.
+* Usable and accessible for blind and visually impaired people.
+* Technical requirements:
    * Internet speed test.
    * Remote control.
    * Screen recording and transmission.
    * Voice and screen reader output transmission and recording.
-   * Braille output transmissiona and recording.
+   * Braille output transmission and recording.
 * Real-time transmission of data.
 
 And recommendations for organizational improvements:
@@ -185,7 +185,6 @@ And recommendations for organizational improvements:
 * Minimizing security concerns and gaining trust.
 * Pilot tests with blind and visually impaired people.
 * Minimizing interference with privacy.
-* 
 
 ## Bai et al. (2016b) A cost-benefit evaluation of accessibility testing in agile software development
 
