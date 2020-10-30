@@ -61,6 +61,9 @@ Moreover, they point out the necessity of an updated website to demonstrate (non
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
 
+__Participants__:  
+_None_
+
 Power and Petrie (2019) present core barriers and common solutions for website evaluation with participant with disabilities.
 1. They give general advice concerning ethics (checklists, ethics committee), and recruitment and engagement (local/national organizations, interesting experience, briefing, debriefing). 
 2. They discuss physical environments (travel, access), alternative formats or enhanced materials (bigger print, transcript), individual assistance (personal, interpreter), and language (ask about preferences).
@@ -68,9 +71,12 @@ Power and Petrie (2019) present core barriers and common solutions for website e
 4. They show evaluative user research to refine design in an iterative cycle, collect information, or understand impact of different design choices.
 The researchers should minimum of accessibility, keep track of assistive tools, consider in-situ or remote evaluation (asynchronous, synchronous, provide appropriate training material), provide protocol for formative evaluations, and consider recording of different performance and preference variables.
 
-## Sauer et al. (2018) Extra-laboratorial usability tests: An empirical comparison of remote and classical field testing with lab testing
+## Sauer et al. (2019) Extra-laboratorial usability tests: An empirical comparison of remote and classical field testing with lab testing
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+__Participants__:  
+Sighted (?)
 
 Sauer et al. (2018) investigated the influnece of testing enviornments on usability testing including physical features (lab, field, home, etc.), social features (evaluator being presented or not), and difficulty of the task (duality, good/low usability, etc.).
 they conducted three experiments where they analyzed factors of type (field-based, synchronous/asynchronous remote), product quaity (usability, price), task demand (single v dual) in a summative study where they analyzed quantitative measurements (performance, perceived usability, etc.):
@@ -132,7 +138,7 @@ Finally, they list four typical accessibility testing tools for each of the asse
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
 
-__Participants :__  
+__Participants__:  
 * Blind
 * Visually impaired
 * Sighted
@@ -207,6 +213,9 @@ They also discussed how and when to prioritize different methods in an agile dev
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
 
+__Participants__:  
+Sighted
+
 Bai et al. (2016a) categorized assessment methods into four main groups based on knowledge and resources required to use the methods:
 1. testing using automatic or semi-automatic tools and guidelines,
 2. simulation kit where a wearable is used,
@@ -248,6 +257,10 @@ The authors could not in any bias resulting from the examples in the inductive i
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
 
+__Participants__:  
+* Blind (w/ screen raders)
+* Visually impaired
+
 Power et al. (2011) present a lightweight and flexible methodology to efficiently collect data supporting or rejecting different WCAG techniques from users with visual disabilities remotely. 
 In their technique they
 (1) setup a website where each webpage represents one specific task implemented in one specific technique,
@@ -261,6 +274,10 @@ The results suggest that only G91 (clear text embedded in anchor tag) succeeds i
 ## Power et al. (2009) A Framework for Remote User Evaluation of Accessibility and Usability of Websites
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+__Participants__:
+* Visually impaired
+* Blind
 
 Power et al. (2009) present a framework for the architecture and implementation of an application that can assist with managing the design of remote evaluations of accessibiility and usability, it deployment to target groups, and the analysis of its data. 
 They discuss some of the challenges related to remote assessment of accessibility and usability with users that have some sort of impairment, and define some requirements for an application that aims to address these challenges.
@@ -325,6 +342,9 @@ The framework will be implemented in JSP.
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
 
+__Participants__:  
+Sighted (?)
+
 Bruun et al. (2009) compare three remote usability testing methods with conventional lab testing.
 Remote synchronous testing is defined as test users and evaluator are separated in space, whereas asynchronous methods are defined as test users and evaluators are separated in space _and_ time.
 They identified several asynchronous testing methods:
@@ -335,12 +355,23 @@ They identified several asynchronous testing methods:
 * diary (collecting qualitative data during auto-logging).
 
 The authors investigated UCI, forum, and diary testing methods, and used user-based laboratory testing as a benchmark.
+They record both number of issues and severity (critical, serious, cosmetic).
 The results show that the remote methods reveal significantly less usability issues that the lab method with the diary revealing the most issues at around 50%. At the same time the remote methods use significantly less time than the lab method in terms of man hours.
 The authors point out the low sample size (10) and bias of the observers, at the same time as they hypothesize that training plays an important role in the success rate (written instructions only vs video training and exercises, online training tool).
 
 ## Petrie et al. (2006) Remote usability evaluations with disabled people
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+__Participants__:  
+1. study:
+   * Blind (w/ screen reader)
+2. study:
+   * Blind (w/ screen reader)
+   * Visually impaired (w/ screen magnification)
+   * Physically impaired
+   * Deaf or hard of hearing, British Sign Language (BSL)
+   * Dyslexia
 
 Petrie et al. (2006) present different methods for remote assessment and discuss the dimensions that play a role when choosing an appropriate method for given study (synchronous vs asynchronous, participant independence, intrusive vs unobtrusive, training requirement, formative or summative evaluation).
 They point out the advantages of remote (facilitate traveling, wider spectrum of assistive technology) and it disadvantages (shallower understanding for the evaluator).
@@ -357,6 +388,9 @@ Moreover, they list recommendations for local evaluation (investigating assistiv
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
 
+__Participants__:  
+Sighted
+
 Brush et al. (2004) compared results from a local (think aloud) and a synchronous remote (think alone over phone) usability study, investigating usability issues found, participants experience, and facilitator's experience.
 The results suggest that the number of usability issues found including type and severity is comparable, at the same time as the qualitative experience may differ.
 For the remote study, they point out that preparation required more effort, recruitment was easier, the tone of voice was enough to sense frustration, and that most of their participants would either prefer both methods equally or the remote evaluation in the future.
@@ -364,6 +398,9 @@ For the remote study, they point out that preparation required more effort, recr
 ## Boren and Ramey (2000) Thinking aloud: reconciling theory and practice
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+__Participants__:  
+_None_
 
 Boren and Ramey (2000) discuss and extend the thinking aloud approach by Ericsson and Simon (1984) by exploring the concept of speech genre as an alternative theoretical basis for usability testing, while providing a new framework based on this premise.
 
