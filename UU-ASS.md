@@ -28,7 +28,9 @@ Moreover, they analyzed four assessment methods for each of the categories showi
 [__Sauer et al. (2018)__](#sauer-et-al-2018-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing)investigated the effects of testing environment in usability testing along the parameters of different types of artefacts (website, mobile phone simulation, mobile phone), methodological approaches (synchronous/asynchronous remote testing, field testing, local lab testing), and operational conditions (good/poor usability, dual tasks demands).  
 They found that no significant difference between field and lab-based testing in situations where circumstances were favorable, at the same time as some differences occurred in cases were circumstances were not favorable. 
 They advise to conduct usability testing as close as possible to the real life situation.
-[__Miao et al. (2016)__](#miao-et-al-2016-contrasting-usability-evaluation-methods-with-blind-users) did something.
+[__Miao et al. (2016)__](#miao-et-al-2016-contrasting-usability-evaluation-methods-with-blind-users) conduct usability tests with blind and visually impaired participants testing local vs synchronous testing and tactile paper prototyping v computer-based prototyping.
+They found that local synchronous remote testing gave comparable number of usability problems, reduced completion time for blind participants but not fopr the visually impaired and sighted, and that blind and visually imapired participants prefer the local test.
+They list problems related to the synchronous remote testing, and give recommendations on how to overcome them.
 [__Bai et al. (2016b)__](#bai-et-al-2016b-a-cost-benefit-evaluation-of-accessibility-testing-in-agile-software-development) analyzed accessibility methods with respect to resources and knowledge requirements in terms of a cost-benefit analysis. Moreover, they described the inclusion of testing methods into an agile process by using an agile accessibility spiral.
 Research by [__Bai et al. (2016a)__](#bai-et-al-2016a-evaluation-of-accessibility-testing-methods-which-methods-uncover-what-type-of-problems) support the hypothesis that a combination of multiple assessment methods covers a wide range of critical and confusing accessibility issues. 
 They showed that no single method is superior to any other, but presented evidence that a combination of expert testing methods can give good results.
@@ -130,6 +132,60 @@ They advise, therefore to test a system as close as possible to the real case se
 ## Miao et al. (2016) Contrasting usability evaluation methods with blind users
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+__Participants :__  
+* Blind
+* Visually impaired
+* Sighted
+
+Miao et al. (2016) compare local testing with synchronous remote testing, and tactile paper prototyping with computer based prototyping (not relevant right now - 10/2020).
+
+They analyze three different types of data:
+1. Effectiveness of the evaluation:
+   * Quantitative data: task completion time, number of usability issues
+   * Qualitative data: severity (minor, major, catastrophic), categories
+2. Perceptions and experiences of participants:
+   * Quantitative data: difficulty, time for preparation, setup and dismantling (uninstalling, etc.), number of positive and negative comments
+   * Qualitative data: positive and negative comments, non-verbal reactions
+3. Perceptions and experiences of faciliator:
+   * Qualitative data: subjective opinions
+   
+They define usability issuses where:
+1. The participant verbally indicates something that is unclear or confusing.
+2. The participant's utterances indicates a misconception or cunfusion.
+3. The participant's actions indicate a wrong path.
+
+We skip the first study for now.
+
+In the seond study they compare synchronous remote and local test with blind, visually impaired and sighted people.
+in the remote seting they used WebEx where the output of the screen reader had to be made audible via loudspeaker and transmitted via microphone. 
+The results show that the completion time is significantly different for blind participants (due to unfamiliarity), but not for visually impaired or sighted people.
+The Number of usability problems is comparable for all participants. 
+The prepartaion, setup and dismantling time was significanlty higher for the remote testing for all participants.
+
+The most common negative comments by the partiicpants on remote evaluation were related to too much effort, high complexity, loudness of screen readers, security and privacy concerns (insecutiry, being observed, remote control).
+The most positive comments by the participants on local evaluation were no setup required, face-to-face communication, positive exam feeling.
+Advantages accorting to the evaluators include realistic environments, ease of recruitement.
+Problems according to the evaluators, include insufficient observfations (no observation f braille output, no facial expressions, delay of sound and picture, configuration problems), hight technical requiremnts for paritcipants, high computer skills required by the partiicpants, high requiremnts of evaluator, security and rpivacy concerns, high effort level, external interruptions.
+
+They give advices for technical improvements:
+* Executable on various operating systems.
+*  Redue effort required to install.
+* Usable and accessibile for blind and visaully impaired people.
+* Technical rquirements:
+   * Internet speed test.
+   * Remote control.
+   * Screen recording and transmission.
+   * Voice and screen reader output transmission and recording.
+   * Braille output transmissiona and recording.
+* Real-time transmission of data.
+
+And recommendations for organizational improvements:
+* Understanding of participants (AT, etc.).
+* Minimizing security concerns and gaining trust.
+* Pilot tests with blind and visually impaired people.
+* Minimizing interference with privacy.
+* 
 
 ## Bai et al. (2016b) A cost-benefit evaluation of accessibility testing in agile software development
 
