@@ -53,6 +53,9 @@ They present a new framework for usability testing in which the evaluator: (1) s
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
 
+__Participants__:
+_None_
+
 Bai et al. (2019) presented an overview of automated tools at build time, discussed criteria to choose a tool (ruleset, active development, environment, etc.) and analyze the underlying most common rulesets (aXe-core and HTML-CS) which they identify as the most significant factor of difference.
 They point out that both rulesets cover only a fraction of the available WCAG 2.1 rules at the same time as they are highly trustworthy with the issues they actually report (with aXe-core being superior to HTML-CS).
 Moreover, they point out the necessity of an updated website to demonstrate (none-)compliancy with WCAG rules.
@@ -107,6 +110,9 @@ They advise, therefore to test a system as close as possible to the real case se
 ## Bai et al. (2018) Categorization and Comparison of Accessibility Testing Methods for Software Development
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+__Participants__:
+_None_
 
 Bai et al. (2018) categorized accessibility barriers from a testing point of view, rather than a medical, and focused on digital solutions rather than physical environments basing their categories on W3C accessibility barriers.
 They expand W3C cognitive barriers from one to three ending up with seven categories in total:
@@ -194,6 +200,9 @@ And recommendations for organizational improvements:
 ## Bai et al. (2016b) A cost-benefit evaluation of accessibility testing in agile software development
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+__Participants__:
+Sighted
 
 Bai et al. (2016b) categorized accessibility testing tools in five categories and indicated how much resources and knowledge each category requires.
 They investigated how many general, critical and/or cognitive issues assessment methods of each type would discover, and performed a cost-benefit analysis (CBA) with respect to resources and knowledge requirements.
