@@ -1,4 +1,4 @@
-# Tekster som handler om evalueringsmetoder for tilgjengelighet (UU-ASS)
+# Tekster som handler om evalueringsmetoder for tilgjengelighet (ACC-ASS)
 
 [Home](./UU-ASS.md)
 
