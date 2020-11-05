@@ -3,6 +3,13 @@
 [Home](./UU-ASS.md)
 
 These articles, papers and chapters discuss assessment methods for usability that are needed for the evaluation in universal design:
+
+* [__Arrue Recondo et al. (2019)__ Inclusive Web Empirical Studies in Remote and In-Situ Settings: A User Evaluation of the RemoTest Platform](#arrue-recondo-et-al-2019-inclusive-web-empirical-studies-in-remote-and-in-situ-settings-a-user-evaluation-of-the-remotest-platform): Conclusion only!
+* [__Schnepp & Shiver (2011)__ Improving deaf accessibility in remote usability testing](#schnepp-shiver-2011-improving-deaf-accessibility-in-remote-usability-testing)
+* [__Castillo et al. (1998)__ Remote usability evaluation: can users report their own critical incidents?](#castillo-et-al-1998-remote-usability-evaluation-can-users-report-their-own-critical-incidents)
+* [__Mankoff et al. (2005)__ Is your web page accessible?: a comparative study of methods for assessing web page accessibility for the blind](#mankoff-et-al-2005-is-your-web-page-accessible-a-comparative-study-of-methods-for-assessing-web-page-accessibility-for-the-blind)
+
+ 
 * [__Power & Petrie (2019)__ Working With Participants](#power-petrie-2019-working-with-participants)
 * [__Sauer et al. (2019)__ Extra-laboratorial usability tests: An empirical comparison of remote and classical field testing with lab testing](#sauer-et-al-2018-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing)
 * [__Miao et al. (2016)__ Contrasting usability evaluation methods with blind users](#miao-et-al-2016-contrasting-usability-evaluation-methods-with-blind-users)
@@ -15,6 +22,11 @@ These articles, papers and chapters discuss assessment methods for usability tha
 * [__Boren and Ramey (2000)__ Thinking aloud: reconciling theory and practice](#boren-and-ramey-2000-thinking-aloud-reconciling-theory-and-practice)
 
 ## General
+
+[__Arrue Recondo et al. (2019)__](#arrue-recondo-et-al-2019-inclusive-web-empirical-studies-in-remote-and-in-situ-settings-a-user-evaluation-of-the-remotest-platform) did something.  
+[__Schnepp & Shiver (2011)__](#schnepp-shiver-2011-improving-deaf-accessibility-in-remote-usability-testing) did something.  
+[__Castillo et al. (1998)__](#castillo-et-al-1998-remote-usability-evaluation-can-users-report-their-own-critical-incidents) did something.  
+[__Mankoff et al. (2005)__](#mankoff-et-al-2005-is-your-web-page-accessible-a-comparative-study-of-methods-for-assessing-web-page-accessibility-for-the-blind) did something.  
 
 [__Power & Petrie (2019)__](#power-petrie-2019-working-with-participants) emphasize four key aspects when working with people with disabilities: (1) treating participants with respect throughout the process () ethics, language, supportive facilities), (2) anticipating needs and preferences for alternative format materials, (3) ensuring minimum technical accessibility  standards prior, and (4) identifying the best support setup (locally or remote).
 [__Sauer et al. (2019)__](#sauer-et-al-2018-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing)investigated the effects of testing environment in usability testing along the parameters of different types of artefacts (website, mobile phone simulation, mobile phone), methodological approaches (synchronous/asynchronous remote testing, field testing, local lab testing), and operational conditions (good/poor usability, dual tasks demands).  
@@ -37,6 +49,17 @@ They conclude that remote evaluation is highly appropriate for summative studies
 The results suggest that the number of usability issues found including type and severity is comparable, at the same time as the qualitative experience may differ.
 [__Boren and Ramey (2000)__](#boren-and-ramey-2000-thinking-aloud-reconciling-theory-and-practice) introduce the concept of speech genre as theoretical basis for a thinking aloud protocol.
 They present a new framework for usability testing in which the evaluator: (1) sets the stage for a productive interaction, (2) elicits a verbal report that is undirected, undisturbed, and as constant as possible while still accounting for the social nature of speech, provides guidance on (3) interventions often required by problems and disturbances arising in usability testing, and (4) proactive interventions to retrieve more information from the participant.
+
+
+## Arrue Recondo et al. (2019) Inclusive Web Empirical Studies in Remote and In-Situ Settings: A User Evaluation of the RemoTest Platform: 
+
+## Schnepp & Shiver (2011) Improving deaf accessibility in remote usability testing
+
+## Castillo et al. (1998) Remote usability evaluation: can users report their own critical incidents?
+
+## Mankoff et al. (2005) Is your web page accessible?: a comparative study of methods for assessing web page accessibility for the blind
+
+
 
 ## Power & Petrie (2019) Working With Participants
 
