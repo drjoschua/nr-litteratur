@@ -25,7 +25,7 @@ These articles, papers and chapters discuss assessment methods for usability tha
 
 [__Arrue Recondo et al. (2019)__](#arrue-recondo-et-al-2019-inclusive-web-empirical-studies-in-remote-and-in-situ-settings-a-user-evaluation-of-the-remotest-platform) discuss existing browser tools that can be used for remote usability testing, and present a study with their own platform RemoTest (which is not publicly accessible).
 They conclude with recommendations for future remote usability tools.  
-[__Schnepp & Shiver (2011)__](#schnepp-shiver-2011-improving-deaf-accessibility-in-remote-usability-testing) did something.  
+[__Schnepp & Shiver (2011)__](#schnepp-shiver-2011-improving-deaf-accessibility-in-remote-usability-testing) show a platform that is more accessible for deaf people by presenting and recording all information in ASL without the need of written English.  
 [__Castillo et al. (1998)__](#castillo-et-al-1998-remote-usability-evaluation-can-users-report-their-own-critical-incidents) did something.  
 [__Mankoff et al. (2005)__](#mankoff-et-al-2005-is-your-web-page-accessible-a-comparative-study-of-methods-for-assessing-web-page-accessibility-for-the-blind) did something.  
 
@@ -66,6 +66,15 @@ They conclude with recommendations for future remote usability tools:
 * Personalization features (contrast, color, font size, shortcuts, allowing images, etc.)
 
 ## Schnepp & Shiver (2011) Improving deaf accessibility in remote usability testing
+
+Schnepp & Shiver (2011) show a platform that is more accessible for deaf people by presenting and recording all information in ASL without the need of written English. Most Deaf adults have an average reading fluency comparable to that of a fourth-grader. 
+Thus, they propose to propose all information in American Sign Language (ASL):
+* An interpreter translates all relevant text to ASL.
+* Informed consent, instructions, tasks, questions and options are presented in sign language.
+   * Answers and options are referred to by indexing (corresponding to a Likert scale).
+   * Open-ended questions are captured with a web-camera and stored.
+* An interpreter voices the participants' answers.
+* All video recordings are destroyed and only the voiced answers are retained.
 
 ## Castillo et al. (1998) Remote usability evaluation: can users report their own critical incidents?
 
