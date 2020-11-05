@@ -23,7 +23,8 @@ These articles, papers and chapters discuss assessment methods for usability tha
 
 ## General
 
-[__Arrue Recondo et al. (2019)__](#arrue-recondo-et-al-2019-inclusive-web-empirical-studies-in-remote-and-in-situ-settings-a-user-evaluation-of-the-remotest-platform) did something.  
+[__Arrue Recondo et al. (2019)__](#arrue-recondo-et-al-2019-inclusive-web-empirical-studies-in-remote-and-in-situ-settings-a-user-evaluation-of-the-remotest-platform) discuss existing browser tools that can be used for remote usability testing, and present a study with their own platform RemoTest (which is not publicly accessible).
+They conclude with recommendations for future remote usability tools.  
 [__Schnepp & Shiver (2011)__](#schnepp-shiver-2011-improving-deaf-accessibility-in-remote-usability-testing) did something.  
 [__Castillo et al. (1998)__](#castillo-et-al-1998-remote-usability-evaluation-can-users-report-their-own-critical-incidents) did something.  
 [__Mankoff et al. (2005)__](#mankoff-et-al-2005-is-your-web-page-accessible-a-comparative-study-of-methods-for-assessing-web-page-accessibility-for-the-blind) did something.  
@@ -51,7 +52,18 @@ The results suggest that the number of usability issues found including type and
 They present a new framework for usability testing in which the evaluator: (1) sets the stage for a productive interaction, (2) elicits a verbal report that is undirected, undisturbed, and as constant as possible while still accounting for the social nature of speech, provides guidance on (3) interventions often required by problems and disturbances arising in usability testing, and (4) proactive interventions to retrieve more information from the participant.
 
 
-## Arrue Recondo et al. (2019) Inclusive Web Empirical Studies in Remote and In-Situ Settings: A User Evaluation of the RemoTest Platform: 
+## Arrue Recondo et al. (2019) Inclusive Web Empirical Studies in Remote and In-Situ Settings: A User Evaluation of the RemoTest Platform
+
+Arrue Recondo et al. (2019) discuss existing browser tools that can be used for remote usability testing including:
+* LOOP11
+
+They present a study evaluating their own platform RemoTest (which is not publicly accessible).
+They conclude with recommendations for future remote usability tools:
+* Providing clear instructions for installation and configuration incl. explanatory images.
+* Accessibility and compatibility with assistive tools.
+* Clear and short language without too many technical terms.
+* Dividing sessions into shorter sessions.
+* Personalization features (contrast, color, font size, shortcuts, allowing images, etc.)
 
 ## Schnepp & Shiver (2011) Improving deaf accessibility in remote usability testing
 
