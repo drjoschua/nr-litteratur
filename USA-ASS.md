@@ -26,7 +26,7 @@ These articles, papers and chapters discuss assessment methods for usability tha
 [__Arrue Recondo et al. (2019)__](#arrue-recondo-et-al-2019-inclusive-web-empirical-studies-in-remote-and-in-situ-settings-a-user-evaluation-of-the-remotest-platform) discuss existing browser tools that can be used for remote usability testing, and present a study with their own platform RemoTest (which is not publicly accessible).
 They conclude with recommendations for future remote usability tools.  
 [__Schnepp & Shiver (2011)__](#schnepp-shiver-2011-improving-deaf-accessibility-in-remote-usability-testing) show a platform that is more accessible for deaf people by presenting and recording all information in ASL without the need of written English.  
-[__Castillo et al. (1998)__](#castillo-et-al-1998-remote-usability-evaluation-can-users-report-their-own-critical-incidents) did something.  
+[__Castillo et al. (1998)__](#castillo-et-al-1998-remote-usability-evaluation-can-users-report-their-own-critical-incidents) introduce the user-reported critical incident method, an asynchronous usability evaluation for day-to-day task situations, in which user and evaluator are separated by space and time.  
 [__Mankoff et al. (2005)__](#mankoff-et-al-2005-is-your-web-page-accessible-a-comparative-study-of-methods-for-assessing-web-page-accessibility-for-the-blind) did something.  
 
 [__Power & Petrie (2019)__](#power-petrie-2019-working-with-participants) emphasize four key aspects when working with people with disabilities: (1) treating participants with respect throughout the process () ethics, language, supportive facilities), (2) anticipating needs and preferences for alternative format materials, (3) ensuring minimum technical accessibility  standards prior, and (4) identifying the best support setup (locally or remote).
@@ -77,6 +77,28 @@ Thus, they propose to propose all information in American Sign Language (ASL):
 * All video recordings are destroyed and only the voiced answers are retained.
 
 ## Castillo et al. (1998) Remote usability evaluation: can users report their own critical incidents?
+
+Castillo et al. (1998) introduce the user-reported critical incident method, an asynchronous usability evaluation for day-to-day task situations, in which user and evaluator are separated by space and time. 
+
+Traditional usability evaluation is often time-consuming, costly, not applicable to real-life tasks, and require direct interaction between user and evaluator.
+They present a method, in which a _Report Incident? button is present on all screens independently from the webpage.
+Clicking this button activates an outside application that allows the user to enter a textual critical incident report containing some basic information about the incident:
+* URL
+* description of task
+* user's expectation
+* detailed description of incident
+* was it possible to recover?
+* is it possible to reproduce?
+* severity rating
+* comments, suggestions, solutions, etc.
+
+In addition, they take a screen recording of the activity prior to the button activation. 
+the reports are sent to an evaluator who translates them into usability problem descriptions.
+
+In a study, they found a huge overlap between problems identified by evaluator and user.
+However, they also observed a delay in reporting.
+Most users did not have a problem with privacy and some users did not find the reporting interfering with their performing of the task.
+
 
 ## Mankoff et al. (2005) Is your web page accessible?: a comparative study of methods for assessing web page accessibility for the blind
 
