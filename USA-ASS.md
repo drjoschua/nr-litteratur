@@ -8,7 +8,7 @@ These articles, papers and chapters discuss assessment methods for usability tha
 * [__Schnepp & Shiver (2011)__ Improving deaf accessibility in remote usability testing](#schnepp-shiver-2011-improving-deaf-accessibility-in-remote-usability-testing)
 * [__Castillo et al. (1998)__ Remote usability evaluation: can users report their own critical incidents?](#castillo-et-al-1998-remote-usability-evaluation-can-users-report-their-own-critical-incidents)
 * [__Mankoff et al. (2005)__ Is your web page accessible?: a comparative study of methods for assessing web page accessibility for the blind](#mankoff-et-al-2005-is-your-web-page-accessible-a-comparative-study-of-methods-for-assessing-web-page-accessibility-for-the-blind)
-* [McFadden et al. (2002) Remote Usability Evaluation: Overview and Case Studies](#mcfadden-et-al-2002-remote-usability-evaluation-overview-and-case-studies)
+* [__McFadden et al. (2002)__ Remote Usability Evaluation: Overview and Case Studies](#mcfadden-et-al-2002-remote-usability-evaluation-overview-and-case-studies)
 
  
 * [__Power & Petrie (2019)__ Working With Participants](#power-petrie-2019-working-with-participants)
@@ -28,8 +28,10 @@ These articles, papers and chapters discuss assessment methods for usability tha
 They conclude with recommendations for future remote usability tools.  
 [__Schnepp & Shiver (2011)__](#schnepp-shiver-2011-improving-deaf-accessibility-in-remote-usability-testing) show a platform that is more accessible for deaf people by presenting and recording all information in ASL without the need of written English.  
 [__Castillo et al. (1998)__](#castillo-et-al-1998-remote-usability-evaluation-can-users-report-their-own-critical-incidents) introduce the user-reported critical incident method, an asynchronous usability evaluation for day-to-day task situations, in which user and evaluator are separated by space and time.  
-[__Mankoff et al. (2005)__](#mankoff-et-al-2005-is-your-web-page-accessible-a-comparative-study-of-methods-for-assessing-web-page-accessibility-for-the-blind) did something.  
-[McFadden et al. (2002)](#mcfadden-et-al-2002-remote-usability-evaluation-overview-and-case-studies)
+[__Mankoff et al. (2005)__](#mankoff-et-al-2005-is-your-web-page-accessible-a-comparative-study-of-methods-for-assessing-web-page-accessibility-for-the-blind) compare different accessibility methods for blind people including lab testing, guidelines, screen readers, automatic evaluation, and asynchronous remote user testing.
+They found strength and weaknesses for all methods. 
+They showed that screen reader techniques could find 50 \% of issues, at the same time as asynchronous user testing was least effective.    
+[__McFadden et al. (2002)__](#mcfadden-et-al-2002-remote-usability-evaluation-overview-and-case-studies) did stomething.  
 
 [__Power & Petrie (2019)__](#power-petrie-2019-working-with-participants) emphasize four key aspects when working with people with disabilities: (1) treating participants with respect throughout the process () ethics, language, supportive facilities), (2) anticipating needs and preferences for alternative format materials, (3) ensuring minimum technical accessibility  standards prior, and (4) identifying the best support setup (locally or remote).
 [__Sauer et al. (2019)__](#sauer-et-al-2018-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing)investigated the effects of testing environment in usability testing along the parameters of different types of artefacts (website, mobile phone simulation, mobile phone), methodological approaches (synchronous/asynchronous remote testing, field testing, local lab testing), and operational conditions (good/poor usability, dual tasks demands).  
@@ -104,6 +106,29 @@ Most users did not have a problem with privacy and some users did not find the r
 
 ## Mankoff et al. (2005) Is your web page accessible?: a comparative study of methods for assessing web page accessibility for the blind
 
+__Participants__:
+* Blind (w/ screen readers)
+* Sighted (w/, w/o screen readers)
+
+Mankoff et al. (2005) compare different accessibility evaluation methods for blind and sighted experts including:
+* _user testing_ in the lab with blind people using screen readers, 
+* _expert testing_ with WCAG 1.0 guidelines, 
+* expert testing with _screen readers_ and a monitor, 
+* _automated testing_ using Bobby 4.0 , and 
+* asynchronous _remote testing_ by blind experts. 
+
+They used the user testing as a baseline and categorized found issues into WCAG accessibility and empirical accessibillity problems. 
+They showed that screen reader techniques could find 50 % of issues, at the same time as asynchronous user testing was least effective.
+They found strengths and weaknesses for all methods:
+* Screen reader testing performed best on effectivness (validity and thoroughness).
+* Remote and screen reader evaluation were equality better than other techniques on validity.
+* Screen reader was very good in finding a variety of of types of problems.
+* Tje re,pe group reported far fewer details and left out a lot of minor problems.
+
+They condlude that a multiple evaluators using screen reader were most effective at finding accessibility problems, at the same time as the screen reader would reduce the number of false positives.
+They show that multiple evaluaotros working independentaly were more efficient than individuals:
+Groups of 5+ could find 50\% of know problems.
+They conclude that using guidelines alone are inadequate for developers without accessibility training.
 
 ## McFadden et al. (2002) Remote Usability Evaluation: Overview and Case Studies
 
