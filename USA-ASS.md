@@ -2,38 +2,28 @@
 
 [Home](./UU-ASS.md)
 
-These articles, papers and chapters discuss assessment methods for usability that are needed for the evaluation in universal design:
-
-* [__Arrue Recondo et al. (2019)__ Inclusive Web Empirical Studies in Remote and In-Situ Settings: A User Evaluation of the RemoTest Platform](#arrue-recondo-et-al-2019-inclusive-web-empirical-studies-in-remote-and-in-situ-settings-a-user-evaluation-of-the-remotest-platform): Conclusion only!
-* [__Schnepp & Shiver (2011)__ Improving deaf accessibility in remote usability testing](#schnepp-shiver-2011-improving-deaf-accessibility-in-remote-usability-testing)
-* [__Castillo et al. (1998)__ Remote usability evaluation: can users report their own critical incidents?](#castillo-et-al-1998-remote-usability-evaluation-can-users-report-their-own-critical-incidents)
-* [__Mankoff et al. (2005)__ Is your web page accessible?: a comparative study of methods for assessing web page accessibility for the blind](#mankoff-et-al-2005-is-your-web-page-accessible-a-comparative-study-of-methods-for-assessing-web-page-accessibility-for-the-blind)
-* [__McFadden et al. (2002)__ Remote Usability Evaluation: Overview and Case Studies](#mcfadden-et-al-2002-remote-usability-evaluation-overview-and-case-studies)
-
- 
+These articles, papers and chapters discuss assessment methods for usability that are needed for the evaluation in universal design: 
+* [__Arrue Recondo et al. (2019)__ Inclusive Web Empirical Studies in Remote and In-Situ Settings: A User Evaluation of the RemoTest Platform](#arrue-recondo-et-al-2019-inclusive-web-empirical-studies-in-remote-and-in-situ-settings-a-user-evaluation-of-the-remotest-platform)
 * [__Power & Petrie (2019)__ Working With Participants](#power-petrie-2019-working-with-participants)
 * [__Sauer et al. (2019)__ Extra-laboratorial usability tests: An empirical comparison of remote and classical field testing with lab testing](#sauer-et-al-2018-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing)
 * [__Miao et al. (2016)__ Contrasting usability evaluation methods with blind users](#miao-et-al-2016-contrasting-usability-evaluation-methods-with-blind-users)
 * [__Bruun & Stage (2012)__ The effect of task assignments and instruction types on remote asynchronous usability testing](#bruun-stage-2012-the-effect-of-task-assignments-and-instruction-types-on-remote-asynchronous-usability-testing)
 * [__Power et al. (2011)__ Remote Evaluation of WCAG 2.0 Techniques by Web Users with Visual Disabilities](#power-et-al-2011-remote-evaluation-of-wcag-20-techniques-by-web-users-with-visual-disabilities)
+* [__Schnepp & Shiver (2011)__ Improving deaf accessibility in remote usability testing](#schnepp-shiver-2011-improving-deaf-accessibility-in-remote-usability-testing)
 * [__Bruun et al. (2009)__ Let your users do the testing: a comparison of three remote asynchronous usability testing methods](#bruun-et-al-2009-let-your-users-do-the-testing-a-comparison-of-three-remote-asynchronous-usability-testing-methods)
 * [__Power et al. (2009)__ A Framework for Remote User Evaluation of Accessibility and Usability of Websites](#power-et-al-2009-a-framework-for-remote-user-evaluation-of-accessibility-and-usability-of-websites)
 * [__Petrie et al. (2006)__ Remote usability evaluations with disabled people](#petrie-et-al-2006-remote-usability-evaluations-with-disabled-people)
+* [__Mankoff et al. (2005)__ Is your web page accessible?: a comparative study of methods for assessing web page accessibility for the blind](#mankoff-et-al-2005-is-your-web-page-accessible-a-comparative-study-of-methods-for-assessing-web-page-accessibility-for-the-blind)
 * [__Brush et al. (2004)__ A comparison of synchronous remote and local usability studies for an expert interface](#brush-et-al-2004-a-comparison-of-synchronous-remote-and-local-usability-studies-for-an-expert-interface)
+* [__McFadden et al. (2002)__ Remote Usability Evaluation: Overview and Case Studies](#mcfadden-et-al-2002-remote-usability-evaluation-overview-and-case-studies)
 * [__Boren and Ramey (2000)__ Thinking aloud: reconciling theory and practice](#boren-and-ramey-2000-thinking-aloud-reconciling-theory-and-practice)
+* [__Castillo et al. (1998)__ Remote usability evaluation: can users report their own critical incidents?](#castillo-et-al-1998-remote-usability-evaluation-can-users-report-their-own-critical-incidents)
 
 ## General
 
 [__Arrue Recondo et al. (2019)__](#arrue-recondo-et-al-2019-inclusive-web-empirical-studies-in-remote-and-in-situ-settings-a-user-evaluation-of-the-remotest-platform) discuss existing browser tools that can be used for remote usability testing, and present a study with their own platform RemoTest (which is not publicly accessible).
-They conclude with recommendations for future remote usability tools.  
-[__Schnepp & Shiver (2011)__](#schnepp-shiver-2011-improving-deaf-accessibility-in-remote-usability-testing) show a platform that is more accessible for deaf people by presenting and recording all information in ASL without the need of written English.  
-[__Castillo et al. (1998)__](#castillo-et-al-1998-remote-usability-evaluation-can-users-report-their-own-critical-incidents) introduce the user-reported critical incident method, an asynchronous usability evaluation for day-to-day task situations, in which user and evaluator are separated by space and time.  
-[__Mankoff et al. (2005)__](#mankoff-et-al-2005-is-your-web-page-accessible-a-comparative-study-of-methods-for-assessing-web-page-accessibility-for-the-blind) compare different accessibility methods for blind people including lab testing, guidelines, screen readers, automatic evaluation, and asynchronous remote user testing.
-They found strength and weaknesses for all methods. 
-They showed that screen reader techniques could find 50 \% of issues, at the same time as asynchronous user testing was least effective.    
-[__McFadden et al. (2002)__](#mcfadden-et-al-2002-remote-usability-evaluation-overview-and-case-studies) describe opportunities of, list some (outdated) collaborative software for, define hardware necessities of, and discuss usability activities for remote evaluation.
-They conduct three studies where they compare local with remote evaluation and show that remote evaluation can be effective and produce comparable results to traditional approaches.
-[__Power & Petrie (2019)__](#power-petrie-2019-working-with-participants) emphasize four key aspects when working with people with disabilities: (1) treating participants with respect throughout the process () ethics, language, supportive facilities), (2) anticipating needs and preferences for alternative format materials, (3) ensuring minimum technical accessibility  standards prior, and (4) identifying the best support setup (locally or remote).
+They conclude with recommendations for future remote usability tools. 
+ [__Power & Petrie (2019)__](#power-petrie-2019-working-with-participants) emphasize four key aspects when working with people with disabilities: (1) treating participants with respect throughout the process () ethics, language, supportive facilities), (2) anticipating needs and preferences for alternative format materials, (3) ensuring minimum technical accessibility  standards prior, and (4) identifying the best support setup (locally or remote).
 [__Sauer et al. (2019)__](#sauer-et-al-2018-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing)investigated the effects of testing environment in usability testing along the parameters of different types of artefacts (website, mobile phone simulation, mobile phone), methodological approaches (synchronous/asynchronous remote testing, field testing, local lab testing), and operational conditions (good/poor usability, dual tasks demands).  
 They found that no significant difference between field and lab-based testing in situations where circumstances were favorable, at the same time as some differences occurred in cases were circumstances were not favorable. 
 They advise to conduct usability testing as close as possible to the real life situation.
@@ -44,17 +34,23 @@ They list problems related to the synchronous remote testing, and give recommend
 They show that predefined tasks lead to more detected usability issues than working on own issues, at the same time as instructions by means of examples lead to more detected issues that using a conceptual definition as introduction.
 [__Power et al. (2011)__](#power-et-al-2011-remote-evaluation-of-wcag-20-techniques-by-web-users-with-visual-disabilities) propose a lightweight, flexible and remote methodology using a text website and questionnaires to assess implementation techniques for WCAG Success Criterion that they demonstrate on the Success Criterion 2.4.4. 
 The results suggest that only an explanation in plain text within an anchor element fulfills the criterion almost 100% of the time, although other techniques can reach high compliance as well.
+[__Schnepp & Shiver (2011)__](#schnepp-shiver-2011-improving-deaf-accessibility-in-remote-usability-testing) show a platform that is more accessible for deaf people by presenting and recording all information in ASL without the need of written English. 
 [__Bruun et al. (2009)__](#bruun-et-al-2009-let-your-users-do-the-testing-a-comparison-of-three-remote-asynchronous-usability-testing-methods) compared three remote asynchronous usability testing methods (user-reported critical incidents, forum-based online reporting and discussion, diary-based longitudinal user reporting) with conventional laboratory-based thinking aloud testing as benchmark. 
 They found out that the remote methods found significantly less issues (with the diary performing at 50% for some of the issue types), at the same time as they require significantly less time.
 [__Power et al. (2009)__](#power-et-al-2009-a-framework-for-remote-user-evaluation-of-accessibility-and-usability-of-websites) define a framework containing requirements and architecture of an automated online tool to help with the design, deployment and analysis of evaluations with participants that have some sort of impairment.
 [__Petrie et al. (2006)__](#petrie-et-al-2006-remote-usability-evaluations-with-disabled-people) conducted two case studies (one formative, one summative) for asynchronous remote assessment methods and compared the results to local evaluation.
 Their results show that the quantitative data is highly comparable, at the same time as the amount and richness of the qualitative data is much lesser for the remote evaluation.
 They conclude that remote evaluation is highly appropriate for summative studies, whereas local evaluation should be used for formative studies.
+[__Mankoff et al. (2005)__](#mankoff-et-al-2005-is-your-web-page-accessible-a-comparative-study-of-methods-for-assessing-web-page-accessibility-for-the-blind) compare different accessibility methods for blind people including lab testing, guidelines, screen readers, automatic evaluation, and asynchronous remote user testing.
+They found strength and weaknesses for all methods. 
+They showed that screen reader techniques could find 50 \% of issues, at the same time as asynchronous user testing was least effective. 
 [__Brush et al. (2004)__](#brush-et-al-2004-a-comparison-of-synchronous-remote-and-local-usability-studies-for-an-expert-interface) compared results from a local and a synchronous remote usability study.
 The results suggest that the number of usability issues found including type and severity is comparable, at the same time as the qualitative experience may differ.
+[__McFadden et al. (2002)__](#mcfadden-et-al-2002-remote-usability-evaluation-overview-and-case-studies) describe opportunities of, list some (outdated) collaborative software for, define hardware necessities of, and discuss usability activities for remote evaluation.
+They conduct three studies where they compare local with remote evaluation and show that remote evaluation can be effective and produce comparable results to traditional approaches.
 [__Boren and Ramey (2000)__](#boren-and-ramey-2000-thinking-aloud-reconciling-theory-and-practice) introduce the concept of speech genre as theoretical basis for a thinking aloud protocol.
 They present a new framework for usability testing in which the evaluator: (1) sets the stage for a productive interaction, (2) elicits a verbal report that is undirected, undisturbed, and as constant as possible while still accounting for the social nature of speech, provides guidance on (3) interventions often required by problems and disturbances arising in usability testing, and (4) proactive interventions to retrieve more information from the participant.
-
+[__Castillo et al. (1998)__](#castillo-et-al-1998-remote-usability-evaluation-can-users-report-their-own-critical-incidents) introduce the user-reported critical incident method, an asynchronous usability evaluation for day-to-day task situations, in which user and evaluator are separated by space and time.  
 
 ## Arrue Recondo et al. (2019) Inclusive Web Empirical Studies in Remote and In-Situ Settings: A User Evaluation of the RemoTest Platform
 
@@ -69,112 +65,7 @@ They conclude with recommendations for future remote usability tools:
 * Accessibility and compatibility with assistive tools.
 * Clear and short language without too many technical terms.
 * Dividing sessions into shorter sessions.
-* Personalization features (contrast, color, font size, shortcuts, allowing images, etc.)
-
-## Schnepp & Shiver (2011) Improving deaf accessibility in remote usability testing
-
-[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
-
-Schnepp & Shiver (2011) show a platform that is more accessible for deaf people by presenting and recording all information in ASL without the need of written English. Most Deaf adults have an average reading fluency comparable to that of a fourth-grader. 
-Thus, they propose to propose all information in American Sign Language (ASL):
-* An interpreter translates all relevant text to ASL.
-* Informed consent, instructions, tasks, questions and options are presented in sign language.
-   * Answers and options are referred to by indexing (corresponding to a Likert scale).
-   * Open-ended questions are captured with a web-camera and stored.
-* An interpreter voices the participants' answers.
-* All video recordings are destroyed and only the voiced answers are retained.
-
-## Castillo et al. (1998) Remote usability evaluation: can users report their own critical incidents?
-
-[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
-
-Castillo et al. (1998) introduce the user-reported critical incident method, an asynchronous usability evaluation for day-to-day task situations, in which user and evaluator are separated by space and time. 
-
-Traditional usability evaluation is often time-consuming, costly, not applicable to real-life tasks, and require direct interaction between user and evaluator.
-They present a method, in which a _Report Incident? button is present on all screens independently from the webpage.
-Clicking this button activates an outside application that allows the user to enter a textual critical incident report containing some basic information about the incident:
-* URL
-* description of task
-* user's expectation
-* detailed description of incident
-* was it possible to recover?
-* is it possible to reproduce?
-* severity rating
-* comments, suggestions, solutions, etc.
-
-In addition, they take a screen recording of the activity prior to the button activation. 
-the reports are sent to an evaluator who translates them into usability problem descriptions.
-
-In a study, they found a huge overlap between problems identified by evaluator and user.
-However, they also observed a delay in reporting.
-Most users did not have a problem with privacy and some users did not find the reporting interfering with their performing of the task.
-
-
-## Mankoff et al. (2005) Is your web page accessible?: a comparative study of methods for assessing web page accessibility for the blind
-
-[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
-
-__Participants__:
-* Blind (w/ screen readers)
-* Sighted (w/, w/o screen readers)
-
-Mankoff et al. (2005) compare different accessibility evaluation methods for blind and sighted experts including:
-* _user testing_ in the lab with blind people using screen readers, 
-* _expert testing_ with WCAG 1.0 guidelines, 
-* expert testing with _screen readers_ and a monitor, 
-* _automated testing_ using Bobby 4.0 , and 
-* asynchronous _remote testing_ by blind experts. 
-
-They used the user testing as a baseline and categorized found issues into WCAG accessibility and empirical accessibillity problems. 
-They showed that screen reader techniques could find 50 % of issues, at the same time as asynchronous user testing was least effective.
-They found strengths and weaknesses for all methods:
-* Screen reader testing performed best on effectivness (validity and thoroughness).
-* Remote and screen reader evaluation were equality better than other techniques on validity.
-* Screen reader was very good in finding a variety of of types of problems.
-* Tje re,pe group reported far fewer details and left out a lot of minor problems.
-
-They condlude that a multiple evaluators using screen reader were most effective at finding accessibility problems, at the same time as the screen reader would reduce the number of false positives.
-They show that multiple evaluaotros working independentaly were more efficient than individuals:
-Groups of 5+ could find 50\% of know problems.
-They conclude that using guidelines alone are inadequate for developers without accessibility training.
-
-## McFadden et al. (2002) Remote Usability Evaluation: Overview and Case Studies
-
-[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
-
-__Participants__:  
-_Sighted_  (?)
-
-McFadden et al. (2002) describe opportunities of remote evaluation related to:
-* travel costs,
-* productivity costs, and
-* opportunity costs. 
-
-Second, they list some (outdated) collaborative software for remote evaluation including _Microsoft NetMeeting_, _Lotus SameTime_, and _PlaceWare Web Conferencing_ including their advantages and disadvantages related to hardware necessities:
-* voice communication,
-* videotaping the session, and
-* logging the test. 
-
-Third, they discuss usability activities for remote evaluation including:
-* participative design,
-* walkthroughs,
-* usability testing.
-
-Finally, they conduct three studies:
-* local vs. remote participants, number of critical errors, number of noncritical errors, time of task:
-Remote participants were more likely to have noncritical error
-* local vs. mobile usability test, number of critical errors, number of noncritical errors, time of task:
-Remote participants took longer to complete the tasks.
-* walkthroughs and usability test.
-
-They also list some recommendations including:
-* participants might have to prepare some things themselves,
-* a stable network is essential,
-* firewall might make an evaluation impossible,
-* screen resolution might differ.
-
-They where they compare local with remote evaluation and show that remote evaluation can be effective and produce comparable results to traditional approaches.
-They conclude that both methods were not mutually exclusive but can complete each other.
+* Personalization features (contrast, color, font size, shortcuts, allowing images, etc.).
 
 ## Power & Petrie (2019) Working With Participants
 
@@ -321,6 +212,19 @@ In their technique they
 They implemented this approach for evaluating different implementation techniques for the WCAG 2.0 Success Criterion 2.4.4 (accessibility of links).
 The results suggest that only G91 (clear text embedded in anchor tag) succeeds in almost 100% of the time, although other techniques like G53 (click her), H30 (alt image text), H77 (enclosing list), etc. can reach high success and confidence and low difficulty as well.
 
+## Schnepp & Shiver (2011) Improving deaf accessibility in remote usability testing
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+Schnepp & Shiver (2011) show a platform that is more accessible for deaf people by presenting and recording all information in ASL without the need of written English. Most Deaf adults have an average reading fluency comparable to that of a fourth-grader. 
+Thus, they propose to propose all information in American Sign Language (ASL):
+* An interpreter translates all relevant text to ASL.
+* Informed consent, instructions, tasks, questions and options are presented in sign language.
+   * Answers and options are referred to by indexing (corresponding to a Likert scale).
+   * Open-ended questions are captured with a web-camera and stored.
+* An interpreter voices the participants' answers.
+* All video recordings are destroyed and only the voiced answers are retained.
+
 ## Bruun et al. (2009) Let your users do the testing: a comparison of three remote asynchronous usability testing methods
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
@@ -433,6 +337,33 @@ The quantitative data collected in both remote and local evaluation was comparab
 Thus, the authors argue that remote evaluation might be appropriate for summative evaluations, while local assessment was best suited for formative evaluation.
 Moreover, they list recommendations for local evaluation (investigating assistive tools beforehand, access to location, configuration time, special needs) and remote evaluations (appropriate training material beforehand, wider variety of assistive tools, synchronous vs asynchronous, follow-up phone).
 
+## Mankoff et al. (2005) Is your web page accessible?: a comparative study of methods for assessing web page accessibility for the blind
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+__Participants__:
+* Blind (w/ screen readers)
+* Sighted (w/, w/o screen readers)
+
+Mankoff et al. (2005) compare different accessibility evaluation methods for blind and sighted experts including:
+* _user testing_ in the lab with blind people using screen readers, 
+* _expert testing_ with WCAG 1.0 guidelines, 
+* expert testing with _screen readers_ and a monitor, 
+* _automated testing_ using Bobby 4.0 , and 
+* asynchronous _remote testing_ by blind experts. 
+
+They used the user testing as a baseline and categorized found issues into WCAG accessibility and empirical accessibillity problems. 
+They showed that screen reader techniques could find 50 % of issues, at the same time as asynchronous user testing was least effective.
+They found strengths and weaknesses for all methods:
+* Screen reader testing performed best on effectivness (validity and thoroughness).
+* Remote and screen reader evaluation were equality better than other techniques on validity.
+* Screen reader was very good in finding a variety of of types of problems.
+* Tje re,pe group reported far fewer details and left out a lot of minor problems.
+
+They condlude that a multiple evaluators using screen reader were most effective at finding accessibility problems, at the same time as the screen reader would reduce the number of false positives.
+They show that multiple evaluaotros working independentaly were more efficient than individuals:
+Groups of 5+ could find 50\% of know problems.
+They conclude that using guidelines alone are inadequate for developers without accessibility training.
 
 ## Brush et al. (2004) A comparison of synchronous remote and local usability studies for an expert interface
 
@@ -444,6 +375,44 @@ Sighted
 Brush et al. (2004) compared results from a local (think aloud) and a synchronous remote (think alone over phone) usability study, investigating usability issues found, participants experience, and facilitator's experience.
 The results suggest that the number of usability issues found including type and severity is comparable, at the same time as the qualitative experience may differ.
 For the remote study, they point out that preparation required more effort, recruitment was easier, the tone of voice was enough to sense frustration, and that most of their participants would either prefer both methods equally or the remote evaluation in the future.
+
+## McFadden et al. (2002) Remote Usability Evaluation: Overview and Case Studies
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+__Participants__:  
+_Sighted_  (?)
+
+McFadden et al. (2002) describe opportunities of remote evaluation related to:
+* travel costs,
+* productivity costs, and
+* opportunity costs. 
+
+Second, they list some (outdated) collaborative software for remote evaluation including _Microsoft NetMeeting_, _Lotus SameTime_, and _PlaceWare Web Conferencing_ including their advantages and disadvantages related to hardware necessities:
+* voice communication,
+* videotaping the session, and
+* logging the test. 
+
+Third, they discuss usability activities for remote evaluation including:
+* participative design,
+* walkthroughs,
+* usability testing.
+
+Finally, they conduct three studies:
+* local vs. remote participants, number of critical errors, number of noncritical errors, time of task:
+Remote participants were more likely to have noncritical error
+* local vs. mobile usability test, number of critical errors, number of noncritical errors, time of task:
+Remote participants took longer to complete the tasks.
+* walkthroughs and usability test.
+
+They also list some recommendations including:
+* participants might have to prepare some things themselves,
+* a stable network is essential,
+* firewall might make an evaluation impossible,
+* screen resolution might differ.
+
+They where they compare local with remote evaluation and show that remote evaluation can be effective and produce comparable results to traditional approaches.
+They conclude that both methods were not mutually exclusive but can complete each other.
 
 ## Boren and Ramey (2000) Thinking aloud: reconciling theory and practice
 
@@ -509,3 +478,28 @@ Indicate where the participant should begin again.
 4. Present strategies to retrieve more information from the participant. 
 This is mostly related to clarifying an unclear comment and probing for more information.
 Be aware of how you use adjectives and adverbs to avoid bias.
+
+## Castillo et al. (1998) Remote usability evaluation: can users report their own critical incidents?
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+Castillo et al. (1998) introduce the user-reported critical incident method, an asynchronous usability evaluation for day-to-day task situations, in which user and evaluator are separated by space and time. 
+
+Traditional usability evaluation is often time-consuming, costly, not applicable to real-life tasks, and require direct interaction between user and evaluator.
+They present a method, in which a _Report Incident? button is present on all screens independently from the webpage.
+Clicking this button activates an outside application that allows the user to enter a textual critical incident report containing some basic information about the incident:
+* URL
+* description of task
+* user's expectation
+* detailed description of incident
+* was it possible to recover?
+* is it possible to reproduce?
+* severity rating
+* comments, suggestions, solutions, etc.
+
+In addition, they take a screen recording of the activity prior to the button activation. 
+the reports are sent to an evaluator who translates them into usability problem descriptions.
+
+In a study, they found a huge overlap between problems identified by evaluator and user.
+However, they also observed a delay in reporting.
+Most users did not have a problem with privacy and some users did not find the reporting interfering with their performing of the task.
