@@ -58,6 +58,8 @@ They present a new framework for usability testing in which the evaluator: (1) s
 
 ## Arrue Recondo et al. (2019) Inclusive Web Empirical Studies in Remote and In-Situ Settings: A User Evaluation of the RemoTest Platform
 
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
 Arrue Recondo et al. (2019) discuss existing browser tools that can be used for remote usability testing including:
 * LOOP11
 
@@ -71,6 +73,8 @@ They conclude with recommendations for future remote usability tools:
 
 ## Schnepp & Shiver (2011) Improving deaf accessibility in remote usability testing
 
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
 Schnepp & Shiver (2011) show a platform that is more accessible for deaf people by presenting and recording all information in ASL without the need of written English. Most Deaf adults have an average reading fluency comparable to that of a fourth-grader. 
 Thus, they propose to propose all information in American Sign Language (ASL):
 * An interpreter translates all relevant text to ASL.
@@ -81,6 +85,8 @@ Thus, they propose to propose all information in American Sign Language (ASL):
 * All video recordings are destroyed and only the voiced answers are retained.
 
 ## Castillo et al. (1998) Remote usability evaluation: can users report their own critical incidents?
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
 
 Castillo et al. (1998) introduce the user-reported critical incident method, an asynchronous usability evaluation for day-to-day task situations, in which user and evaluator are separated by space and time. 
 
@@ -105,6 +111,8 @@ Most users did not have a problem with privacy and some users did not find the r
 
 
 ## Mankoff et al. (2005) Is your web page accessible?: a comparative study of methods for assessing web page accessibility for the blind
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
 
 __Participants__:
 * Blind (w/ screen readers)
@@ -131,6 +139,8 @@ Groups of 5+ could find 50\% of know problems.
 They conclude that using guidelines alone are inadequate for developers without accessibility training.
 
 ## McFadden et al. (2002) Remote Usability Evaluation: Overview and Case Studies
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
 
 __Participants__:  
 _Sighted_  (?)
