@@ -31,8 +31,8 @@ They conclude with recommendations for future remote usability tools.
 [__Mankoff et al. (2005)__](#mankoff-et-al-2005-is-your-web-page-accessible-a-comparative-study-of-methods-for-assessing-web-page-accessibility-for-the-blind) compare different accessibility methods for blind people including lab testing, guidelines, screen readers, automatic evaluation, and asynchronous remote user testing.
 They found strength and weaknesses for all methods. 
 They showed that screen reader techniques could find 50 \% of issues, at the same time as asynchronous user testing was least effective.    
-[__McFadden et al. (2002)__](#mcfadden-et-al-2002-remote-usability-evaluation-overview-and-case-studies) did stomething.  
-
+[__McFadden et al. (2002)__](#mcfadden-et-al-2002-remote-usability-evaluation-overview-and-case-studies) describe opportunities of, list some (outdated) collaborative software for, define hardware necessities of, and discuss usability activities for remote evaluation.
+They conduct three studies where they compare local with remote evaluation and show that remote evaluation can be effective and produce comparable results to traditional approaches.
 [__Power & Petrie (2019)__](#power-petrie-2019-working-with-participants) emphasize four key aspects when working with people with disabilities: (1) treating participants with respect throughout the process () ethics, language, supportive facilities), (2) anticipating needs and preferences for alternative format materials, (3) ensuring minimum technical accessibility  standards prior, and (4) identifying the best support setup (locally or remote).
 [__Sauer et al. (2019)__](#sauer-et-al-2018-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing)investigated the effects of testing environment in usability testing along the parameters of different types of artefacts (website, mobile phone simulation, mobile phone), methodological approaches (synchronous/asynchronous remote testing, field testing, local lab testing), and operational conditions (good/poor usability, dual tasks demands).  
 They found that no significant difference between field and lab-based testing in situations where circumstances were favorable, at the same time as some differences occurred in cases were circumstances were not favorable. 
@@ -132,6 +132,33 @@ They conclude that using guidelines alone are inadequate for developers without 
 
 ## McFadden et al. (2002) Remote Usability Evaluation: Overview and Case Studies
 
+__Participants__:  
+_Sighted_  (?)
+
+McFadden et al. (2002) describe opportunities of remote evaluation related to:
+* travel costs,
+* productivity costs, and
+* opportunity costs. 
+
+Second, they list some (outdated) collaborative software for remote evaluation including _Microsoft NetMeeting_, _Lotus SameTime_, and _PlaceWare Web Conferencing_ including their advatages and disadvatages related to hardware necessities:
+* voice communication,
+* videotaping the session, and
+* loggign the test. 
+
+Third, they discuss usability activities for remote evaluation including:
+* participative design,
+* walktroughs,
+* usability testing.
+
+Finally, they conduct three studies:
+* local vs. remote participants, number of critical errors, number of noncritical errors, time of task:
+Remote participants were more likely to have noncritical error
+* local vs. mobile usability test, number of critical errors, number of noncritical errors, time of task:
+Remote participants took longer to complete the tasks.
+* walkthroughs and usability test.
+
+They where they compare local with remote evaluation and show that remote evaluation can be effective and produce comparable results to traditional approaches.
+They conclude that both methods were not mutually exclusing but can complete each other.
 
 ## Power & Petrie (2019) Working With Participants
 
