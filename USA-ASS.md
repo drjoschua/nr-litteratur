@@ -140,14 +140,14 @@ McFadden et al. (2002) describe opportunities of remote evaluation related to:
 * productivity costs, and
 * opportunity costs. 
 
-Second, they list some (outdated) collaborative software for remote evaluation including _Microsoft NetMeeting_, _Lotus SameTime_, and _PlaceWare Web Conferencing_ including their advatages and disadvatages related to hardware necessities:
+Second, they list some (outdated) collaborative software for remote evaluation including _Microsoft NetMeeting_, _Lotus SameTime_, and _PlaceWare Web Conferencing_ including their advantages and disadvantages related to hardware necessities:
 * voice communication,
 * videotaping the session, and
-* loggign the test. 
+* logging the test. 
 
 Third, they discuss usability activities for remote evaluation including:
 * participative design,
-* walktroughs,
+* walkthroughs,
 * usability testing.
 
 Finally, they conduct three studies:
@@ -157,8 +157,14 @@ Remote participants were more likely to have noncritical error
 Remote participants took longer to complete the tasks.
 * walkthroughs and usability test.
 
+They also list some recommendations including:
+* participants might have to prepare some things themselves,
+* a stable network is essential,
+* firewall might make an evaluation impossible,
+* screen resolution might differ.
+
 They where they compare local with remote evaluation and show that remote evaluation can be effective and produce comparable results to traditional approaches.
-They conclude that both methods were not mutually exclusing but can complete each other.
+They conclude that both methods were not mutually exclusive but can complete each other.
 
 ## Power & Petrie (2019) Working With Participants
 
