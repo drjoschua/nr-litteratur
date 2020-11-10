@@ -4,6 +4,7 @@
 
 These articles, papers and chapters discuss assessment methods for accessibility that are needed for the evaluation in universal design:
 * [__Bai et al. (2019)__ Evaluating accessibility testing in automated software build processes](#bai-et-al-2019-evaluating-accessibility-testing-in-automated-software-build-processes)
+* [__Halbach and Tjøstheim (2019)__ Towards Reliable Accessibility Assessments of Science Center Exhibits](#halbach-and-tjøstheim-2019-towards-reliable-accessibility-assessments-of-science-center-exhibits)
 * [__Bai et al. (2018)__ Categorization and Comparison of Accessibility Testing Methods for Software Development](#bai-et-al-2018-categorization-and-comparison-of-accessibility-testing-methods-for-software-development)
 * [__Bai et al. (2016b)__ A cost-benefit evaluation of accessibility testing in agile software development](#bai-et-al-2016b-a-cost-benefit-evaluation-of-accessibility-testing-in-agile-software-development)
 * [__Bai et al. (2016a)__ Evaluation of Accessibility Testing Methods. Which Methods Uncover What Type of Problems?](#bai-et-al-2016a-evaluation-of-accessibility-testing-methods-which-methods-uncover-what-type-of-problems)
@@ -12,6 +13,7 @@ These articles, papers and chapters discuss assessment methods for accessibility
 
 [__Bai et al. (2019)__](#bai-et-al-2019-evaluating-accessibility-testing-in-automated-software-build-processes) presented an overview over available automatic assessment, and discusses means of assessment and analysis for the different tools. 
 They argue that tools based on the aXe-core rulesets are superior to those based on HTML-CS to-date.
+[__Halbach and Tjøstheim (2019)__](#halbach-and-tjøstheim-2019-towards-reliable-accessibility-assessments-of-science-center-exhibits) propose a methodology for assessing the degree of accessibility of museum and science center exhibits based on six areas of impairments (V, H, M, MT, VC, C), four areas of assessment (getting to/from, perceive, control, understand), and four degrees of (in-)accessibility.
 [__Bai et al. (2018)__](#bai-et-al-2018-categorization-and-comparison-of-accessibility-testing-methods-for-software-development) expended W3C accessibility cognitive barriers from one to three resulting in seven barriers in total (Aud, A&M, HLL, L&N, Phy, Spe, Vis), and categorized accessibility tools in different categories (Auto, Check, Sim, AT, Exp) including an indication of their cost for developers.
 Moreover, they analyzed four assessment methods for each of the categories showing the accessibility barriers they cover. 
 [__Bai et al. (2016b)__](#bai-et-al-2016b-a-cost-benefit-evaluation-of-accessibility-testing-in-agile-software-development) analyzed accessibility methods with respect to resources and knowledge requirements in terms of a cost-benefit analysis. Moreover, they described the inclusion of testing methods into an agile process by using an agile accessibility spiral.
@@ -28,6 +30,44 @@ _None_
 Bai et al. (2019) presented an overview of automated tools at build time, discussed criteria to choose a tool (ruleset, active development, environment, etc.) and analyze the underlying most common rulesets (aXe-core and HTML-CS) which they identify as the most significant factor of difference.
 They point out that both rulesets cover only a fraction of the available WCAG 2.1 rules at the same time as they are highly trustworthy with the issues they actually report (with aXe-core being superior to HTML-CS).
 Moreover, they point out the necessity of an updated website to demonstrate (none-)compliancy with WCAG rules.
+
+## Halbach and Tjøstheim (2019) Towards Reliable Accessibility Assessments of Science Center Exhibits 
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)  
+
+__Participants__:  
+Children with:
+* low vision
+* hearing disabilities (hearing aids, cochlear implants, etc.)
+* cerebral parese
+
+Halbach and Tjøstheim (2019) propose a methodology for assessing the degree of accessibility of museum and science center exhibits based on six areas of impairments (V, H, M, MT, VC, C), four areas of assessment (getting to/from, perceive, control, understand), and four degrees of (in-)accessibility.
+
+Six areas of impairments:
+* sensor:
+   * vision (V),
+   * hearing (H),
+* mobility (M) everything related to the legs,
+* motor (MT) everything related to use of hands and arms to interact with something,
+* voice (VC), and 
+* cognition (C) including orientation, language, reasoning, memory, concentration, coordination, learning and engagement.
+
+Four areas of assessment:
+* getting to/from related to mobility, 
+* perceive related to vision and hearing, 
+* control related to motor and voice, 
+* understand related to understand.
+
+Four degrees of (in-)accessibility:
+* 1 point: Absolute barrier(s).
+* 2 point: Significant barrier(s).
+* 3 point: Minor barrier(s).
+* 4 point: No barrier.
+
+They tested the framework at the Oslo Science Center with children with disabilities. 
+
+They claim that their framework is well suited to measure and quantify the degree of accessibility and reveal strengths and weaknesses of an exhibit.
+They show indices that barriers and hinders can be counterbalanced by both engagement and social aspects of the users.
 
 ## Bai et al. (2018) Categorization and Comparison of Accessibility Testing Methods for Software Development
 

@@ -10,7 +10,7 @@ Det fins noen tekster som definerer, behandler, osv. funksjonsnedsettelser og ba
 ## General
 
 [__European Telecommunications Standards Institute (ETSI) (2019)__](#european-telecommunications-standards-institute-etsi-2019-en-301-549-v311-2019-06-accessibility-requirements-for-ict-products-and-services) defines requirements for functional accessibility in ICT products and services that should be upheld in public procurement, providing test procedures and evaluation methodology.
-[__Halbach and Tjøstheim (2019)__]propose a methodology for assessing the degree of accessibility of museum and science center exhibits based on six areas of impairments (V, H, M, MT, VC, C), four areas of assessment (getting to/from, perceive, control, understand), and four degrees of (in-)accessibility.
+[__Halbach and Tjøstheim (2019)__](#halbach-and-tjøstheim-2019-towards-reliable-accessibility-assessments-of-science-center-exhibits) propose a methodology for assessing the degree of accessibility of museum and science center exhibits based on six areas of impairments (V, H, M, MT, VC, C), four areas of assessment (getting to/from, perceive, control, understand), and four degrees of (in-)accessibility.
 [__W3C Web Accessibility Initiative (WAI) (2020)__](#w3c-web-accessibility-initiative-wai-2020-diverse-abilities-and-barriers) explore functional diversity (age, intersectionality, health, changing, temporary, situational) and present functional disabilities and barriers that are the concern of usability and accessibility including auditory, cognitive, learning, and neurological, physical, speech and visual disabilities and barriers.
 
 ## W3C Web Accessibility Initiative (WAI) (2020) Diverse Abilities and Barriers
