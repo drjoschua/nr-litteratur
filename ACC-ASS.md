@@ -8,6 +8,7 @@ These articles, papers and chapters discuss assessment methods for accessibility
 * [__Bai et al. (2018)__ Categorization and Comparison of Accessibility Testing Methods for Software Development](#bai-et-al-2018-categorization-and-comparison-of-accessibility-testing-methods-for-software-development)
 * [__Bai et al. (2016b)__ A cost-benefit evaluation of accessibility testing in agile software development](#bai-et-al-2016b-a-cost-benefit-evaluation-of-accessibility-testing-in-agile-software-development)
 * [__Bai et al. (2016a)__ Evaluation of Accessibility Testing Methods. Which Methods Uncover What Type of Problems?](#bai-et-al-2016a-evaluation-of-accessibility-testing-methods-which-methods-uncover-what-type-of-problems)
+* [__Mankoff et al. (2005)__ Is your web page accessible?: a comparative study of methods for assessing web page accessibility for the blind](#mankoff-et-al-2005-is-your-web-page-accessible-a-comparative-study-of-methods-for-assessing-web-page-accessibility-for-the-blind)
 
 ## General
 
@@ -19,6 +20,9 @@ Moreover, they analyzed four assessment methods for each of the categories showi
 [__Bai et al. (2016b)__](#bai-et-al-2016b-a-cost-benefit-evaluation-of-accessibility-testing-in-agile-software-development) analyzed accessibility methods with respect to resources and knowledge requirements in terms of a cost-benefit analysis. Moreover, they described the inclusion of testing methods into an agile process by using an agile accessibility spiral.
 Research by [__Bai et al. (2016a)__](#bai-et-al-2016a-evaluation-of-accessibility-testing-methods-which-methods-uncover-what-type-of-problems) support the hypothesis that a combination of multiple assessment methods covers a wide range of critical and confusing accessibility issues. 
 They showed that no single method is superior to any other, but presented evidence that a combination of expert testing methods can give good results.
+[__Mankoff et al. (2005)__](#mankoff-et-al-2005-is-your-web-page-accessible-a-comparative-study-of-methods-for-assessing-web-page-accessibility-for-the-blind) compare different accessibility methods for blind people including lab testing, guidelines, screen readers, automatic evaluation, and asynchronous remote user testing.
+They found strength and weaknesses for all methods. 
+They showed that screen reader techniques could find 50 \% of issues, at the same time as asynchronous user testing was least effective. 
 
 ## Bai et al. (2019) Evaluating accessibility testing in automated software build processes
 
@@ -143,3 +147,31 @@ In their empirical evaluation, they investigated methods from the first three ca
 Their results showed no superior method among the methods investigated.
 However, the expert testing methods were complementing each other for finding critical and confusing issues.
 Thus, the authors advocate for using multiple methods.
+
+## Mankoff et al. (2005) Is your web page accessible?: a comparative study of methods for assessing web page accessibility for the blind
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+
+__Participants__:
+* Blind (w/ screen readers)
+* Sighted (w/, w/o screen readers)
+
+Mankoff et al. (2005) compare different accessibility evaluation methods for blind and sighted experts including:
+* _user testing_ in the lab with blind people using screen readers, 
+* _expert testing_ with WCAG 1.0 guidelines, 
+* expert testing with _screen readers_ and a monitor, 
+* _automated testing_ using Bobby 4.0 , and 
+* asynchronous _remote testing_ by blind experts. 
+
+They used the user testing as a baseline and categorized found issues into WCAG accessibility and empirical accessibillity problems. 
+They showed that screen reader techniques could find 50 % of issues, at the same time as asynchronous user testing was least effective.
+They found strengths and weaknesses for all methods:
+* Screen reader testing performed best on effectivness (validity and thoroughness).
+* Remote and screen reader evaluation were equality better than other techniques on validity.
+* Screen reader was very good in finding a variety of of types of problems.
+* Tje re,pe group reported far fewer details and left out a lot of minor problems.
+
+They condlude that a multiple evaluators using screen reader were most effective at finding accessibility problems, at the same time as the screen reader would reduce the number of false positives.
+They show that multiple evaluaotros working independentaly were more efficient than individuals:
+Groups of 5+ could find 50\% of know problems.
+They conclude that using guidelines alone are inadequate for developers without accessibility training.

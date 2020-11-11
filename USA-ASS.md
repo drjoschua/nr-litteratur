@@ -13,7 +13,6 @@ These articles, papers and chapters discuss assessment methods for usability tha
 * [__Bruun et al. (2009)__ Let your users do the testing: a comparison of three remote asynchronous usability testing methods](#bruun-et-al-2009-let-your-users-do-the-testing-a-comparison-of-three-remote-asynchronous-usability-testing-methods)
 * [__Power et al. (2009)__ A Framework for Remote User Evaluation of Accessibility and Usability of Websites](#power-et-al-2009-a-framework-for-remote-user-evaluation-of-accessibility-and-usability-of-websites)
 * [__Petrie et al. (2006)__ Remote usability evaluations with disabled people](#petrie-et-al-2006-remote-usability-evaluations-with-disabled-people)
-* [__Mankoff et al. (2005)__ Is your web page accessible?: a comparative study of methods for assessing web page accessibility for the blind](#mankoff-et-al-2005-is-your-web-page-accessible-a-comparative-study-of-methods-for-assessing-web-page-accessibility-for-the-blind)
 * [__Brush et al. (2004)__ A comparison of synchronous remote and local usability studies for an expert interface](#brush-et-al-2004-a-comparison-of-synchronous-remote-and-local-usability-studies-for-an-expert-interface)
 * [__McFadden et al. (2002)__ Remote Usability Evaluation: Overview and Case Studies](#mcfadden-et-al-2002-remote-usability-evaluation-overview-and-case-studies)
 * [__Boren and Ramey (2000)__ Thinking aloud: reconciling theory and practice](#boren-and-ramey-2000-thinking-aloud-reconciling-theory-and-practice)
@@ -41,9 +40,6 @@ They found out that the remote methods found significantly less issues (with the
 [__Petrie et al. (2006)__](#petrie-et-al-2006-remote-usability-evaluations-with-disabled-people) conducted two case studies (one formative, one summative) for asynchronous remote assessment methods and compared the results to local evaluation.
 Their results show that the quantitative data is highly comparable, at the same time as the amount and richness of the qualitative data is much lesser for the remote evaluation.
 They conclude that remote evaluation is highly appropriate for summative studies, whereas local evaluation should be used for formative studies.
-[__Mankoff et al. (2005)__](#mankoff-et-al-2005-is-your-web-page-accessible-a-comparative-study-of-methods-for-assessing-web-page-accessibility-for-the-blind) compare different accessibility methods for blind people including lab testing, guidelines, screen readers, automatic evaluation, and asynchronous remote user testing.
-They found strength and weaknesses for all methods. 
-They showed that screen reader techniques could find 50 \% of issues, at the same time as asynchronous user testing was least effective. 
 [__Brush et al. (2004)__](#brush-et-al-2004-a-comparison-of-synchronous-remote-and-local-usability-studies-for-an-expert-interface) compared results from a local and a synchronous remote usability study.
 The results suggest that the number of usability issues found including type and severity is comparable, at the same time as the qualitative experience may differ.
 [__McFadden et al. (2002)__](#mcfadden-et-al-2002-remote-usability-evaluation-overview-and-case-studies) describe opportunities of, list some (outdated) collaborative software for, define hardware necessities of, and discuss usability activities for remote evaluation.
@@ -336,34 +332,6 @@ There were also additional questionnaires and post evaluation interviews (face-t
 The quantitative data collected in both remote and local evaluation was comparable, at the same time as the amount and richness of the qualitative data was much lower for the remote evaluation. 
 Thus, the authors argue that remote evaluation might be appropriate for summative evaluations, while local assessment was best suited for formative evaluation.
 Moreover, they list recommendations for local evaluation (investigating assistive tools beforehand, access to location, configuration time, special needs) and remote evaluations (appropriate training material beforehand, wider variety of assistive tools, synchronous vs asynchronous, follow-up phone).
-
-## Mankoff et al. (2005) Is your web page accessible?: a comparative study of methods for assessing web page accessibility for the blind
-
-[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
-
-__Participants__:
-* Blind (w/ screen readers)
-* Sighted (w/, w/o screen readers)
-
-Mankoff et al. (2005) compare different accessibility evaluation methods for blind and sighted experts including:
-* _user testing_ in the lab with blind people using screen readers, 
-* _expert testing_ with WCAG 1.0 guidelines, 
-* expert testing with _screen readers_ and a monitor, 
-* _automated testing_ using Bobby 4.0 , and 
-* asynchronous _remote testing_ by blind experts. 
-
-They used the user testing as a baseline and categorized found issues into WCAG accessibility and empirical accessibillity problems. 
-They showed that screen reader techniques could find 50 % of issues, at the same time as asynchronous user testing was least effective.
-They found strengths and weaknesses for all methods:
-* Screen reader testing performed best on effectivness (validity and thoroughness).
-* Remote and screen reader evaluation were equality better than other techniques on validity.
-* Screen reader was very good in finding a variety of of types of problems.
-* Tje re,pe group reported far fewer details and left out a lot of minor problems.
-
-They condlude that a multiple evaluators using screen reader were most effective at finding accessibility problems, at the same time as the screen reader would reduce the number of false positives.
-They show that multiple evaluaotros working independentaly were more efficient than individuals:
-Groups of 5+ could find 50\% of know problems.
-They conclude that using guidelines alone are inadequate for developers without accessibility training.
 
 ## Brush et al. (2004) A comparison of synchronous remote and local usability studies for an expert interface
 
