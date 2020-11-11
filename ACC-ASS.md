@@ -26,7 +26,7 @@ They showed that screen reader techniques could find 50 \% of issues, at the sam
 
 ## Bai et al. (2019) Evaluating accessibility testing in automated software build processes
 
-[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-tilgjengelighet-acc-ass)
 
 __Participants__:
 _None_
@@ -37,7 +37,7 @@ Moreover, they point out the necessity of an updated website to demonstrate (non
 
 ## Halbach and Tjøstheim (2019) Towards Reliable Accessibility Assessments of Science Center Exhibits 
 
-[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)  
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-tilgjengelighet-acc-ass)
 
 __Participants__:  
 Children with:
@@ -75,7 +75,7 @@ They show indices that barriers and hinders can be counterbalanced by both engag
 
 ## Bai et al. (2018) Categorization and Comparison of Accessibility Testing Methods for Software Development
 
-[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-tilgjengelighet-acc-ass)
 
 __Participants__:
 _None_
@@ -108,7 +108,7 @@ Finally, they list four typical accessibility testing tools for each of the asse
 
 ## Bai et al. (2016b) A cost-benefit evaluation of accessibility testing in agile software development
 
-[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-tilgjengelighet-acc-ass)
 
 __Participants__:
 Sighted
@@ -129,7 +129,7 @@ They also discussed how and when to prioritize different methods in an agile dev
 
 ## Bai et al. (2016a) Evaluation of Accessibility Testing Methods. Which Methods Uncover What Type of Problems?
 
-[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-tilgjengelighet-acc-ass)
 
 __Participants__:  
 Sighted
@@ -150,7 +150,7 @@ Thus, the authors advocate for using multiple methods.
 
 ## Mankoff et al. (2005) Is your web page accessible?: a comparative study of methods for assessing web page accessibility for the blind
 
-[Up](#tekster-som-handler-om-evalueringsmetoder-for-universell-utforming-uu-ass)
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-tilgjengelighet-acc-ass)
 
 __Participants__:
 * Blind (w/ screen readers)
@@ -163,15 +163,15 @@ Mankoff et al. (2005) compare different accessibility evaluation methods for bli
 * _automated testing_ using Bobby 4.0 , and 
 * asynchronous _remote testing_ by blind experts. 
 
-They used the user testing as a baseline and categorized found issues into WCAG accessibility and empirical accessibillity problems. 
+They used the user testing as a baseline and categorized found issues into WCAG accessibility and empirical accessibility problems. 
 They showed that screen reader techniques could find 50 % of issues, at the same time as asynchronous user testing was least effective.
 They found strengths and weaknesses for all methods:
-* Screen reader testing performed best on effectivness (validity and thoroughness).
+* Screen reader testing performed best on effectiveness (validity and thoroughness).
 * Remote and screen reader evaluation were equality better than other techniques on validity.
-* Screen reader was very good in finding a variety of of types of problems.
-* Tje re,pe group reported far fewer details and left out a lot of minor problems.
+* Screen reader was very good in finding a variety of types of problems.
+* The remote group reported far fewer details and left out a lot of minor problems.
 
-They condlude that a multiple evaluators using screen reader were most effective at finding accessibility problems, at the same time as the screen reader would reduce the number of false positives.
-They show that multiple evaluaotros working independentaly were more efficient than individuals:
+They conclude that multiple evaluators using screen reader were most effective at finding accessibility problems, at the same time as the screen reader would reduce the number of false positives.
+They show that multiple evaluators working independently were more efficient than individuals:
 Groups of 5+ could find 50\% of know problems.
 They conclude that using guidelines alone are inadequate for developers without accessibility training.
