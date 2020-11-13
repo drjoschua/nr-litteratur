@@ -147,7 +147,7 @@ The preparation, setup and dismantling time was significantly higher for the rem
 The most common negative comments by the participants on remote evaluation were related to too much effort, high complexity, loudness of screen readers, security and privacy concerns (insecurity, being observed, remote control).
 The most positive comments by the participants on local evaluation were no setup required, face-to-face communication, positive exam feeling.
 Advantages according to the evaluators include realistic environments, ease of recruitment.
-Problems according to the evaluators, include insufficient observations (no observation f braille output, no facial expressions, delay of sound and picture, configuration problems), Hight technical requirements for participants, high computer skills required by the participants, high requirements of evaluator, security and privacy concerns, high effort level, external interruptions.
+Problems according to the evaluators, include insufficient observations (no observation for braille output, no facial expressions, delay of sound and picture, configuration problems), high technical requirements for participants, high computer skills required by the participants, high requirements of evaluator, security and privacy concerns, high effort level, external interruptions.
 
 They give advices for technical improvements:
 * Executable on various operating systems.
@@ -329,6 +329,7 @@ They present two studies for formative and summative evaluations, where they com
 In the first study the have a formative evaluation of a technical program for blind people, whereas in the second study they have a summative evaluation of websites by people with disabilities.
 In both studies participants had to accomplish tasks after being divided into two groups: The first group was asked to do the tasks in-situ while thinking aloud, whereas the other group was asked to complete the tasks on their own time at their own preferred place.
 There were also additional questionnaires and post evaluation interviews (face-to-face or phone).
+They investigated ease and consideration.
 The quantitative data collected in both remote and local evaluation was comparable, at the same time as the amount and richness of the qualitative data was much lower for the remote evaluation. 
 Thus, the authors argue that remote evaluation might be appropriate for summative evaluations, while local assessment was best suited for formative evaluation.
 Moreover, they list recommendations for local evaluation (investigating assistive tools beforehand, access to location, configuration time, special needs) and remote evaluations (appropriate training material beforehand, wider variety of assistive tools, synchronous vs asynchronous, follow-up phone).
@@ -342,6 +343,7 @@ Sighted
 
 Brush et al. (2004) compared results from a local (think aloud) and a synchronous remote (think alone over phone) usability study, investigating usability issues found, participants experience, and facilitator's experience.
 The results suggest that the number of usability issues found including type and severity is comparable, at the same time as the qualitative experience may differ.
+For their study, they investigated comfort, ease, memory, concentration, contribution, convenience, preference.
 For the remote study, they point out that preparation required more effort, recruitment was easier, the tone of voice was enough to sense frustration, and that most of their participants would either prefer both methods equally or the remote evaluation in the future.
 
 ## McFadden et al. (2002) Remote Usability Evaluation: Overview and Case Studies
@@ -400,7 +402,7 @@ They introduce Ericsson and Simon's three level of verbalization:
 They summarize Ericsson and Simon's traditional approach as following:
 * Collect and analyze only "hard" verbal data.
 * Give detailed initial instructions for thinking aloud.
-* remind participants to think aloud.
+* Remind participants to think aloud.
 * Otherwise: do not intervene.
 
 They list the discrepancies between theory and practice of the traditional method.
@@ -454,7 +456,7 @@ Be aware of how you use adjectives and adverbs to avoid bias.
 Castillo et al. (1998) introduce the user-reported critical incident method, an asynchronous usability evaluation for day-to-day task situations, in which user and evaluator are separated by space and time. 
 
 Traditional usability evaluation is often time-consuming, costly, not applicable to real-life tasks, and require direct interaction between user and evaluator.
-They present a method, in which a _Report Incident? button is present on all screens independently from the webpage.
+They present a method, in which a _Report Incident_ button is present on all screens independently from the webpage.
 Clicking this button activates an outside application that allows the user to enter a textual critical incident report containing some basic information about the incident:
 * URL
 * description of task
