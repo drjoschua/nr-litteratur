@@ -13,7 +13,9 @@ Det fins noen tekter som inneholder statistikk rundt universell utforming og men
 ## General
 
 [__United Nations High Commissioner for Refugees (UNHCR) (2019)__](#united-nations-high-commissioner-for-refugees-unhcr-2019-disability-prevalence-and-impact-syrian-arab-republic) measure the prevalence of people with disabilities (around 27%) in Syria by area, age group and population type.
-[__The United States Census Bureau (USBC) (2018)__](#the-united-states-census-bureau-usbc-2018-americans-with-disabilities-2014) did something.
+[__The United States Census Bureau (USBC) (2018)__](#the-united-states-census-bureau-usbc-2018-americans-with-disabilities-2014) indicate that about 27% of the population has some sort of disability, with 18% having a severe disability and 10% needing assistance. 
+They subdivide disabilities according to categories of communication (seeing around 5%, hearing around 7%, and having their speech understood around 2%), physical problem (upper body around 12%, lower body around 18%), and mental around 10%.
+They found that 53% have a disability in one domain only.
 [__The United States Census Bureau (USBC) (2012)__](#the-united-states-census-bureau-usbc-2012-americans-with-disabilities-2010) did something.
 [__World Health Organization (WHO) (2011)__](#world-health-organization-2011-world-report-on-disability) did something.
 [__Loeb et al.__ (2008)](#loeb-et-al-2008-approaching-the-measurement-of-disability-prevalence-the-case-of-zambia) did something.
@@ -39,7 +41,38 @@ They found prevalence of different types of disabilities following the categoriz
 
 [Up](#tekster-om-statistikk)
 
-The United States Census Bureau (USBC) (2018) did something
+The United States Census Bureau (USBC) (2018) indicate the percentage of people with disabilities to about 27 %, 18% with severe disability and 10% needing assistance. 
+They show that disabiliities increase with age:
+Until 18 yrs only 17%, from 18 yrs 30%, from 65 yrs 58%, and from 75 yrs 70% have disabilities.
+They show differences in disability (any) prevalence depending on race:
+Blacks (around 35%), non-Hispanic Whites (32%), Hispanics (25%) and Asians (20%).
+The same ranking is valid for severe disability and needs assistance.
+
+Prevalence depending for different domains:
+* communication domain (18 yrs+ / 65 yrs+):
+   * difficulties seeing (5%/9%)
+   * difficulties hearing (7%/20%)
+   * difficulties having their speech understood (2%/4%).
+* physical domain:
+   * upper body (12%)
+   * lower body (18%).
+* mental domain:
+either a specified condition or any other mental or emotional condition that seriously interfered with everyday acitvities prevalent in about 10% of adults. 
+The prevalence depended on the age:
+Around 12% (65 yrs+) or 9% (18-64) of people. 
+Common symptoms can be seen in at least 16% of the adults, 7% being severe: 
+   * depreseed or anxious: ca 11%,
+   * coping with stress: ca 8%,
+   * trouble concentrating: ca 7%,
+   * trouble getting along with others: 4%.
+   
+About 13% had difficulties with ADL and 10% with iADL.
+Most adults have a disability in one domain only (53%):
+* pysical domain being most common (28%), followed by mental (14%) and communication domain (12%),
+* women have most likely disability in physical (32%) and mental (14%) domains, while
+* men have disabilities most likely in the communication domain (13%).
+
+Adults with disabilities had a lower level of education, were less likely employed, learned less than people without disability even when employed, had a higher poverty rate, especially people with a severe disability, 
 
 ## The United States Census Bureau (USBC) (2012) Americans with Disabilities: 2010 
 

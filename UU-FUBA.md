@@ -6,6 +6,7 @@ Det fins noen tekster som definerer, behandler, osv. funksjonsnedsettelser og ba
 * [__W3C Web Accessibility Initiative (WAI) (2020)__ Diverse Abilities and Barriers](#w3c-web-accessibility-initiative-wai-2020-diverse-abilities-and-barriers)
 * [__Halbach and Tjøstheim (2019)__ Towards Reliable Accessibility Assessments of Science Center Exhibits](#halbach-and-tjøstheim-2019-towards-reliable-accessibility-assessments-of-science-center-exhibits)
 * [__European Telecommunications Standards Institute (ETSI) (2019)__ EN 301 549 v3.1.1 (2019-06): Accessibility requirements for ICT products and services](#european-telecommunications-standards-institute-etsi-2019-en-301-549-v311-2019-06-accessibility-requirements-for-ict-products-and-services)
+* [__The United States Census Bureau (USBC) (2018)__ Americans with Disabilities: 2014](#the-united-states-census-bureau-usbc-2018-americans-with-disabilities-2014)
 * [__Madans et al. (2011)__ Measuring disability and monitoring the UN Convention on the Rights of Persons with Disabilities: the work of the Washington Group on Disability Statistics](#madans-et-al-2011-measuring-disability-and-monitoring-the-un-convention-on-the-rights-of-persons-with-disabilities-the-work-of-the-washington-group-on-disability-statistics)
 * [__Story et al. (1998)__ The Universal Design File: Designing for People of All Ages and Abilities. Revised Edition.](#story-et-al-1998-the-universal-design-file-designing-for-people-of-all-ages-and-abilities-revised-edition)
   
@@ -14,6 +15,7 @@ Det fins noen tekster som definerer, behandler, osv. funksjonsnedsettelser og ba
 [__W3C Web Accessibility Initiative (WAI) (2020)__](#w3c-web-accessibility-initiative-wai-2020-diverse-abilities-and-barriers) explore functional diversity (age, intersectionality, health, changing, temporary, situational) and present functional disabilities and barriers that are the concern of usability and accessibility including auditory, cognitive, learning, and neurological, physical, speech and visual disabilities and barriers.
 [__European Telecommunications Standards Institute (ETSI) (2019)__](#european-telecommunications-standards-institute-etsi-2019-en-301-549-v311-2019-06-accessibility-requirements-for-ict-products-and-services) defines requirements for functional accessibility in ICT products and services that should be upheld in public procurement, providing test procedures and evaluation methodology.
 [__Halbach and Tjøstheim (2019)__](#halbach-and-tjøstheim-2019-towards-reliable-accessibility-assessments-of-science-center-exhibits) propose a methodology for assessing the degree of accessibility of museum and science center exhibits based on six areas of impairments (V, H, M, MT, VC, C), four areas of assessment (getting to/from, perceive, control, understand), and four degrees of (in-)accessibility.
+[__The United States Census Bureau (USBC) (2018)__](#the-united-states-census-bureau-usbc-2018-americans-with-disabilities-2014) define and list three disability domains: communication (seeing, hearing and speech), physical (upper and lower body), and mental (cognitive, mental and emotional).
 [__Madans et al. (2011)__](#madans-et-al-2011-measuring-disability-and-monitoring-the-un-convention-on-the-rights-of-persons-with-disabilities-the-work-of-the-washington-group-on-disability-statistics) did something.
 [__Story et al. (1998)__](#story-et-al-1998-the-universal-design-file-designing-for-people-of-all-ages-and-abilities-revised-edition) did something.
 
@@ -70,6 +72,27 @@ This standard defines eleven functional performance statement that should be ful
 9. Minimize photosensitive seizure triggers
 10. Usage with limited cognition
 11. Privacy
+
+## The United States Census Bureau (USBC) (2018) Americans with Disabilities: 2014 
+
+[Up](#tekster-om-funksjonsnedsettelser-og-barrierer)
+
+The United States Census Bureau (USBC) (2018) define someone with disability status as: 
+* having a wheelchair, cane, crutches, walker, etc., 
+* difficulties seeing and hearing, 
+* having difficulties performing functional activities (speaking, lifting/carrying, stairs, walking, grasping), 
+* problems with Activities of Daily Living (ADL) (getting in/out of bed, bathing, dressing, eating, and toileting) or Instrumental Activities of Daily Living (iADL) (going outside, money & bills, preparing meals, doing housework, using the telephone, etc.), 
+* having a specific condition (learning disability, cerebral palsy, developmental or intellectual disability, Alzheimer's, blind, deaf, mental/emotional condition), 
+* having a mental or emotional condition that seriously interfered with everyday activities (depression, anxiety, trouble getting along with others, trouble concentrating, trouble coping with stress).
+
+
+They define three domains of disability:
+* communication domain: 
+Problems realted to seeing, hearing or having their speech understood.
+* physical domain:
+Problems with one or more functional activities.
+* mental domain:
+Either a specified condition or any other mental or emotional condition that seriously interfered with everyday acitvities (both ADL and iADL).
 
 ## Madans et al. (2011) Measuring disability and monitoring the UN Convention on the Rights of Persons with Disabilities: the work of the Washington Group on Disability Statistics 
 
