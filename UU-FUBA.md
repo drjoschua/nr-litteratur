@@ -7,6 +7,7 @@ Det fins noen tekster som definerer, behandler, osv. funksjonsnedsettelser og ba
 * [__Halbach and Tjøstheim (2019)__ Towards Reliable Accessibility Assessments of Science Center Exhibits](#halbach-and-tjøstheim-2019-towards-reliable-accessibility-assessments-of-science-center-exhibits)
 * [__European Telecommunications Standards Institute (ETSI) (2019)__ EN 301 549 v3.1.1 (2019-06): Accessibility requirements for ICT products and services](#european-telecommunications-standards-institute-etsi-2019-en-301-549-v311-2019-06-accessibility-requirements-for-ict-products-and-services)
 * [__The United States Census Bureau (USBC) (2018)__ Americans with Disabilities: 2014](#the-united-states-census-bureau-usbc-2018-americans-with-disabilities-2014)
+* [__The United States Census Bureau (USBC) (2012)__ Americans with Disabilities: 2010](#the-united-states-census-bureau-usbc-2012-americans-with-disabilities-2010)
 * [__Madans et al. (2011)__ Measuring disability and monitoring the UN Convention on the Rights of Persons with Disabilities: the work of the Washington Group on Disability Statistics](#madans-et-al-2011-measuring-disability-and-monitoring-the-un-convention-on-the-rights-of-persons-with-disabilities-the-work-of-the-washington-group-on-disability-statistics)
 * [__Story et al. (1998)__ The Universal Design File: Designing for People of All Ages and Abilities. Revised Edition.](#story-et-al-1998-the-universal-design-file-designing-for-people-of-all-ages-and-abilities-revised-edition)
   
@@ -16,6 +17,7 @@ Det fins noen tekster som definerer, behandler, osv. funksjonsnedsettelser og ba
 [__European Telecommunications Standards Institute (ETSI) (2019)__](#european-telecommunications-standards-institute-etsi-2019-en-301-549-v311-2019-06-accessibility-requirements-for-ict-products-and-services) defines requirements for functional accessibility in ICT products and services that should be upheld in public procurement, providing test procedures and evaluation methodology.
 [__Halbach and Tjøstheim (2019)__](#halbach-and-tjøstheim-2019-towards-reliable-accessibility-assessments-of-science-center-exhibits) propose a methodology for assessing the degree of accessibility of museum and science center exhibits based on six areas of impairments (V, H, M, MT, VC, C), four areas of assessment (getting to/from, perceive, control, understand), and four degrees of (in-)accessibility.
 [__The United States Census Bureau (USBC) (2018)__](#the-united-states-census-bureau-usbc-2018-americans-with-disabilities-2014) define and list three disability domains: communication (seeing, hearing and speech), physical (upper and lower body), and mental (cognitive, mental and emotional).
+[__The United States Census Bureau (USBC) (2012)__](#the-united-states-census-bureau-usbc-2012-americans-with-disabilities-2010) did something.
 [__Madans et al. (2011)__](#madans-et-al-2011-measuring-disability-and-monitoring-the-un-convention-on-the-rights-of-persons-with-disabilities-the-work-of-the-washington-group-on-disability-statistics) did something.
 [__Story et al. (1998)__](#story-et-al-1998-the-universal-design-file-designing-for-people-of-all-ages-and-abilities-revised-edition) did something.
 
@@ -93,6 +95,23 @@ Problems realted to seeing, hearing or having their speech understood.
 Problems with one or more functional activities.
 * mental domain:
 Either a specified condition or any other mental or emotional condition that seriously interfered with everyday acitvities (both ADL and iADL).
+
+## The United States Census Bureau (USBC) (2012) Americans with Disabilities: 2010 
+
+[Up](#tekster-om-funksjonsnedsettelser-og-barrierer)
+
+The United States Census Bureau (USBC) (2012) define three disability domains:
+1. Communicative domain:
+   1. difficulty seeing / blind
+   2. difficulty hearing / deaf
+   3. difficulty having their speech understood
+2. Mental domain:
+   * learning, intellectual, developmental disability, Alzheimer's disease, senility, dementia
+   * som other mental or emotional condition that seriously interfered with everyday activities.
+3. Physical domain:
+   1. using wheelchair, crutches, or walker
+   2. difficulty walking, climbing, lifting, grasping, or getting in or out of bed.
+   3. other conditions contributing to a reported activity limitation.
 
 ## Madans et al. (2011) Measuring disability and monitoring the UN Convention on the Rights of Persons with Disabilities: the work of the Washington Group on Disability Statistics 
 

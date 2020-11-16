@@ -16,7 +16,9 @@ Det fins noen tekter som inneholder statistikk rundt universell utforming og men
 [__The United States Census Bureau (USBC) (2018)__](#the-united-states-census-bureau-usbc-2018-americans-with-disabilities-2014) indicate that about 27% of the population has some sort of disability, with 18% having a severe disability and 10% needing assistance. 
 They subdivide disabilities according to categories of communication (seeing around 5%, hearing around 7%, and having their speech understood around 2%), physical problem (upper body around 12%, lower body around 18%), and mental around 10%.
 They found that 53% have a disability in one domain only.
-[__The United States Census Bureau (USBC) (2012)__](#the-united-states-census-bureau-usbc-2012-americans-with-disabilities-2010) did something.
+[__The United States Census Bureau (USBC) (2012)__](#the-united-states-census-bureau-usbc-2012-americans-with-disabilities-2010) indicate that about 19% of the population has some sort of disability, with 12% having a severe disability and 4% needing assistance. 
+They subdivide disabilities according to categories of communication (around 6%, seeing around 3%, hearing around 3%, and having their speech understood around 1%), physical problem (upper body around 8%, lower body around 13%), and mental around 6%.
+They found that 59% have a disability in one domain only.
 [__World Health Organization (WHO) (2011)__](#world-health-organization-2011-world-report-on-disability) did something.
 [__Loeb et al.__ (2008)](#loeb-et-al-2008-approaching-the-measurement-of-disability-prevalence-the-case-of-zambia) did something.
 [__Svalund (2004)__](#svalund-2004-funksjonshemmede-i-europa) did something.
@@ -78,7 +80,34 @@ Adults with disabilities had a lower level of education, were less likely employ
 
 [Up](#tekster-om-statistikk)
 
-The United States Census Bureau (USBC) (2012) did something
+The United States Census Bureau (USBC) (2012) indicate the percentage of people with disabilities to about 19%, 12% with severe disability and 4% needing assistance. 
+They show that disabiliities increase with age, as do severe disabilities and the need for personal assistance.
+They point out that the aging of the baby/boomer cohort meat that a greater propotion of the population grew older and therefore in a group with higher risks of disability. 
+They show differences in disability prevalence (any) depending on race:
+Asians having the lowest rate (15%), Hispanics (18%), non-Hispanic Whites (18%) and Blacks (22%) - all numbers are age-adjusted.
+The same ranking is valid for severe disability and needs assistance.
+
+Prevalence depending for different domains:
+* communication domain (15 yrs+ / 65 yrs+) (6%/18%):
+   * difficulties seeing (3%/10%)
+   * difficulties hearing (3%/11%)
+   * difficulties having their speech understood (1%/2%).
+* physical domain:
+   * upper body (8%)
+   * lower body (13%).
+* mental domain:
+about 6% of adults. 
+Common symptoms can be seen in at least 4% of the adults: 
+   * depreseed or anxious: ca 3%,
+   * coping with stress: ca 3%,
+   * trouble concentrating: ca 2%,
+   * trouble getting along with others: 1%.
+   
+About 4% had difficulties with ADL and 6% with iADL.
+Most adults have a disability in one domain only (59%):
+The pysical domain is most common (81%), followed by mental (33%) and communication domain (30%),
+
+Adults with disabilities were less likely employed, earned less than people without disability even when employed, had a higher poverty rate, especially people with a severe disability, 
 
 ## World Health Organization (WHO) (2011) World report on disability 
 
