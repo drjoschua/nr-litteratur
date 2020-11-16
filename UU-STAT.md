@@ -13,10 +13,10 @@ Det fins noen tekter som inneholder statistikk rundt universell utforming og men
 ## General
 
 [__United Nations High Commissioner for Refugees (UNHCR) (2019)__](#united-nations-high-commissioner-for-refugees-unhcr-2019-disability-prevalence-and-impact-syrian-arab-republic) measure the prevalence of people with disabilities (around 27%) in Syria by area, age group and population type.
-[__The United States Census Bureau (USBC) (2018)__](#the-united-states-census-bureau-usbc-2018-americans-with-disabilities-2014) indicate that about 27% of the population has some sort of disability, with 18% having a severe disability and 10% needing assistance. 
+[__The United States Census Bureau (USBC) (2018)__](#the-united-states-census-bureau-usbc-2018-americans-with-disabilities-2014) indicate that  in 2014 about 27% of the population has some sort of disability, with 18% having a severe disability and 10% needing assistance. 
 They subdivide disabilities according to categories of communication (seeing around 5%, hearing around 7%, and having their speech understood around 2%), physical problem (upper body around 12%, lower body around 18%), and mental around 10%.
 They found that 53% have a disability in one domain only.
-[__The United States Census Bureau (USBC) (2012)__](#the-united-states-census-bureau-usbc-2012-americans-with-disabilities-2010) indicate that about 19% of the population has some sort of disability, with 12% having a severe disability and 4% needing assistance. 
+[__The United States Census Bureau (USBC) (2012)__](#the-united-states-census-bureau-usbc-2012-americans-with-disabilities-2010) indicate that in 2010 about 19% of the population has some sort of disability, with 12% having a severe disability and 4% needing assistance. 
 They subdivide disabilities according to categories of communication (around 6%, seeing around 3%, hearing around 3%, and having their speech understood around 1%), physical problem (upper body around 8%, lower body around 13%), and mental around 6%.
 They found that 59% have a disability in one domain only.
 [__World Health Organization (WHO) (2011)__](#world-health-organization-2011-world-report-on-disability) did something.
@@ -43,7 +43,7 @@ They found prevalence of different types of disabilities following the categoriz
 
 [Up](#tekster-om-statistikk)
 
-The United States Census Bureau (USBC) (2018) indicate the percentage of people with disabilities to about 27 %, 18% with severe disability and 10% needing assistance. 
+The United States Census Bureau (USBC) (2018) indicate that in 2014 the percentage of people with disabilities to about 27 %, 18% with severe disability and 10% needing assistance. 
 They show that disabiliities increase with age:
 Until 18 yrs only 17%, from 18 yrs 30%, from 65 yrs 58%, and from 75 yrs 70% have disabilities.
 They show differences in disability (any) prevalence depending on race:
@@ -80,7 +80,7 @@ Adults with disabilities had a lower level of education, were less likely employ
 
 [Up](#tekster-om-statistikk)
 
-The United States Census Bureau (USBC) (2012) indicate the percentage of people with disabilities to about 19%, 12% with severe disability and 4% needing assistance. 
+The United States Census Bureau (USBC) (2012) indicate in 2010 the percentage of people with disabilities to about 19%, 12% with severe disability and 4% needing assistance. 
 They show that disabiliities increase with age, as do severe disabilities and the need for personal assistance.
 They point out that the aging of the baby/boomer cohort meat that a greater propotion of the population grew older and therefore in a group with higher risks of disability. 
 They show differences in disability prevalence (any) depending on race:
