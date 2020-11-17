@@ -17,15 +17,15 @@ Det fins noen tekster som analyserer nytte-kostnad for universell utforming:
 
 ### 2. Disability - a global picture
 
-WHO (2011) highlight costs realted to disability:
+WHO (2011) highlight costs related to disability:
 * direct costs:
    * extra costs of living with disabilities
-   * public spending on disability programmes
-* indirects costs:
+   * public spending on disability programs
+* indirect costs:
    * economic costs:
      * loss of productivity
-     * exits from work or reduced worlk related to the onset of disability
+     * exits from work or reduced work related to the onset of disability
      * loss of taxes related to the loss of productivity
    * non-economic costs:
       * social isolation
-      * stress. 
+      * stress.
