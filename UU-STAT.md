@@ -128,9 +128,9 @@ The World Health Organization (WHO) (2011) gives a genereal introduction in defi
 They descried the transition from an individua, medial model to a structural, social model, in whihc `people are viewed as being disabled by society rather than by theri bodies`.
 However, the authors follow the model adopted in the ICF, the `bio-psycho-social model`, in which functioning and disability is `a dynamic interaction between health conditions and contextual factors, both personal and evnrironemntal` including for example problems arising from a health condition.
 
-"""
+```
 [D]isability results from the interaction between persons with impairments and attitudinal and environmental barriers that hinder thei full and effective participation in societ on an equal basis with others.
-"""
+```
 
 Problems with human functioning can be categorized in three inter-connected areas:
 1. Impariments: problems in body function or alterations in body structure.
