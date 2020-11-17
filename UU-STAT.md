@@ -19,7 +19,8 @@ They found that 53% have a disability in one domain only.
 [__The United States Census Bureau (USBC) (2012)__](#the-united-states-census-bureau-usbc-2012-americans-with-disabilities-2010) indicate that in 2010 about 19% of the population has some sort of disability, with 12% having a severe disability and 4% needing assistance. 
 They subdivide disabilities according to categories of communication (around 6%, seeing around 3%, hearing around 3%, and having their speech understood around 1%), physical problem (upper body around 8%, lower body around 13%), and mental around 6%.
 They found that 59% have a disability in one domain only.
-[__World Health Organization (WHO) (2011)__](#world-health-organization-2011-world-report-on-disability) did something.
+[__World Health Organization (WHO) (2011)__](#world-health-organization-2011-world-report-on-disability) gives a genereal introduction in definitions and scope related to disability.
+
 [__Loeb et al.__ (2008)](#loeb-et-al-2008-approaching-the-measurement-of-disability-prevalence-the-case-of-zambia) did something.
 [__Svalund (2004)__](#svalund-2004-funksjonshemmede-i-europa) did something.
 
@@ -113,7 +114,32 @@ Adults with disabilities were less likely employed, earned less than people with
 
 [Up](#tekster-om-statistikk)
 
-The World Health Organization (WHO) (2011) did something.
+* [1. Understanding disability](#1-understanding-disability)
+
+### 1. Understanding disability
+
+[Over](#world-health-organization-who-2011-world-report-on-disability)
+
+The World Health Organization (WHO) (2011) gives a genereal introduction in definitions and scope related to disability.
+
+They descried the transition from an individua, medial model to a structural, social model, in whihc `people are viewed as being disabled by society rather than by theri bodies`.
+However, the authors follow the model adopted in the ICF, the `bio-psycho-social model`, in which functioning and disability is `a dynamic interaction between health conditions and contextual factors, both personal and evnrironemntal` including for example problems arising from a health condition.
+
+"""
+[D]isability results from the interaction between persons with impairments and attitudinal and environmental barriers that hinder thei full and effective participation in societ on an equal basis with others.
+"""
+
+Problems with human functioning can be categorized in three inter-connected areas:
+1. Impariments: problems in body function or alterations in body structure.
+2. Activity limitations: difficulties in executing activities.
+3. Participation restirctions: problem with involvement in any area of life.
+
+Health conditions (diseases, injuries and disorder) can influecne impairments and vice versa.
+Disability arises from the interaction of health conditions and contextual factors:
+* environmental factors: can be either facilitators or barriers.
+* personal factors: can influence how much a person paricipates in society.
+
+It also lists `a person's capacities to perform actions and the actual performance of those actions in real life`.
 
 ## Loeb et al. (2008) Approaching the measurement of disability prevalence: The case of Zambia 
 
