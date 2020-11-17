@@ -146,6 +146,8 @@ It also lists `a person's capacities to perform actions and the actual performan
 [Up](#tekster-om-statistikk)
 
 Loeb et al. (2008) did something.
+They found disabilities for the different Washington Groups categories as:
+Vision 4.7%, Hearing 3.7%, Mobility 5.1%, Remembering 2.0%, Self-care 2.0%, and Communicating 2.1%.
 
 ## Svalund (2004) Funksjonshemmede i Europa 
 
