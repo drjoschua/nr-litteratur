@@ -9,6 +9,7 @@ Det fins noen tekster som definerer, behandler, osv. funksjonsnedsettelser og ba
 * [__The United States Census Bureau (USBC) (2018)__ Americans with Disabilities: 2014](#the-united-states-census-bureau-usbc-2018-americans-with-disabilities-2014)
 * [__The United States Census Bureau (USBC) (2012)__ Americans with Disabilities: 2010](#the-united-states-census-bureau-usbc-2012-americans-with-disabilities-2010)
 * [__Madans et al. (2011)__ Measuring disability and monitoring the UN Convention on the Rights of Persons with Disabilities: the work of the Washington Group on Disability Statistics](#madans-et-al-2011-measuring-disability-and-monitoring-the-un-convention-on-the-rights-of-persons-with-disabilities-the-work-of-the-washington-group-on-disability-statistics)
+* [__World Health Organization (WHO) (2011)__ World report on disability](#world-health-organization-who-2011-world-report-on-disability)
 * [__Story et al. (1998)__ The Universal Design File: Designing for People of All Ages and Abilities. Revised Edition.](#story-et-al-1998-the-universal-design-file-designing-for-people-of-all-ages-and-abilities-revised-edition)
   
 ## General
@@ -19,6 +20,7 @@ Det fins noen tekster som definerer, behandler, osv. funksjonsnedsettelser og ba
 [__The United States Census Bureau (USBC) (2018)__](#the-united-states-census-bureau-usbc-2018-americans-with-disabilities-2014) define and list three disability domains: communication (seeing, hearing and speech), physical (upper and lower body), and mental (cognitive, mental and emotional).
 [__The United States Census Bureau (USBC) (2012)__](#the-united-states-census-bureau-usbc-2012-americans-with-disabilities-2010) did something.
 [__Madans et al. (2011)__](#madans-et-al-2011-measuring-disability-and-monitoring-the-un-convention-on-the-rights-of-persons-with-disabilities-the-work-of-the-washington-group-on-disability-statistics) did something.
+[__World Health Organization (WHO) (2011)__](#world-health-organization-who-2011-world-report-on-disability) (6) did something. 
 [__Story et al. (1998)__](#story-et-al-1998-the-universal-design-file-designing-for-people-of-all-ages-and-abilities-revised-edition) did something.
 
 ## W3C Web Accessibility Initiative (WAI) (2020) Diverse Abilities and Barriers
@@ -116,6 +118,18 @@ The United States Census Bureau (USBC) (2012) define three disability domains:
 ## Madans et al. (2011) Measuring disability and monitoring the UN Convention on the Rights of Persons with Disabilities: the work of the Washington Group on Disability Statistics 
 
 [Up](#tekster-om-funksjonsnedsettelser-og-barrierer)
+
+## World Health Organization (WHO) (2011) World report on disability 
+
+[Up](#tekster-om-funksjonsnedsettelser-og-barrierer)
+
+* [6. Enabling environments](#6-enabling-environments)
+
+### 6. Enabling environments
+
+Barriers to infomation and communication.  
+Addressing the barriers to information and technology.  
+
 
 ## Story et al. (1998) The Universal Design File: Designing for People of All Ages and Abilities. Revised Edition. 
 
