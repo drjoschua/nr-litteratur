@@ -6,7 +6,7 @@ Det fins noen tekter som inneholder statistikk rundt universell utforming og men
 * [__United Nations High Commissioner for Refugees (UNHCR) (2019)__ Disability: Prevalence and Impact - Syrian Arab Republic](#united-nations-high-commissioner-for-refugees-unhcr-2019-disability-prevalence-and-impact-syrian-arab-republic)
 * [__The United States Census Bureau (USBC) (2018)__ Americans with Disabilities: 2014](#the-united-states-census-bureau-usbc-2018-americans-with-disabilities-2014)
 * [__The United States Census Bureau (USBC) (2012)__ Americans with Disabilities: 2010](#the-united-states-census-bureau-usbc-2012-americans-with-disabilities-2010)
-* [__World Health Organization (WHO) (2011)__ World report on disability](#world-health-organization-2011-world-report-on-disability)
+* [__World Health Organization (WHO) (2011)__ World report on disability](#world-health-organization-who-2011-world-report-on-disability)
 * [__Loeb et al.__ (2008) Approaching the measurement of disability prevalence: The case of Zambia](#loeb-et-al-2008-approaching-the-measurement-of-disability-prevalence-the-case-of-zambia)
 * [__Svalund (2004)__ Funksjonshemmede i Europa](#svalund-2004-funksjonshemmede-i-europa)
 
@@ -19,7 +19,7 @@ They found that 53% have a disability in one domain only.
 [__The United States Census Bureau (USBC) (2012)__](#the-united-states-census-bureau-usbc-2012-americans-with-disabilities-2010) indicate that in 2010 about 19% of the population has some sort of disability, with 12% having a severe disability and 4% needing assistance. 
 They subdivide disabilities according to categories of communication (around 6%, seeing around 3%, hearing around 3%, and having their speech understood around 1%), physical problem (upper body around 8%, lower body around 13%), and mental around 6%.
 They found that 59% have a disability in one domain only.
-[__World Health Organization (WHO) (2011)__](#world-health-organization-2011-world-report-on-disability) (1) give a genereal introduction in definitions and scope related to disability.
+[__World Health Organization (WHO) (2011)__](#world-health-organization-who-2011-world-report-on-disability) (1) give a genereal introduction in definitions and scope related to disability.
 They (2) give a genereal introduction in how to measure disability globally, and presents some estimates for the prevalence of disability.
 Finally, they conclude that about 15% (WHS) / 19% (GBD) of the world population lives with disabilities.
 
@@ -182,18 +182,7 @@ They discuss the importance of environmental factors on disability including exp
 
 They also point out that people with disabilities often have worse educational and labor market otucomes, and are more likely to be poorer than people without disabilities in both developing and developed countries.
 
-They highli9gh costs realted to disability:
-* direct costs:
-   * extra costs of living with disabilities
-   * public spending on disability programmes
-*indirects costs:
-   * economic costs:
-     * loss of productivity
-     * exits from work or reduced worlk related to the onset of disability
-     * loss of taxes related to the loss of productivity
-   * non-economic costs:
-      * social isolation
-      * stress. 
+They highlight costs related to disability.
 
 Finally, they conclude that about 15% (WHS) / 19% (GBD) of the world population lives with disabilities.
 Disability debends on many factors, including age, sex, stage of life, environmental rists, socioeconomic status, culture, and available resources.
