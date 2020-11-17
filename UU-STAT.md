@@ -19,7 +19,9 @@ They found that 53% have a disability in one domain only.
 [__The United States Census Bureau (USBC) (2012)__](#the-united-states-census-bureau-usbc-2012-americans-with-disabilities-2010) indicate that in 2010 about 19% of the population has some sort of disability, with 12% having a severe disability and 4% needing assistance. 
 They subdivide disabilities according to categories of communication (around 6%, seeing around 3%, hearing around 3%, and having their speech understood around 1%), physical problem (upper body around 8%, lower body around 13%), and mental around 6%.
 They found that 59% have a disability in one domain only.
-[__World Health Organization (WHO) (2011)__](#world-health-organization-2011-world-report-on-disability) gives a genereal introduction in definitions and scope related to disability.
+[__World Health Organization (WHO) (2011)__](#world-health-organization-2011-world-report-on-disability) (1) give a genereal introduction in definitions and scope related to disability.
+They (2) give a genereal introduction in how to measure disability globally, and presents some estimates for the prevalence of disability.
+Finally, they conclude that about 15% (WHS) / 19% (GBD) of the world population lives with disabilities.
 
 [__Loeb et al.__ (2008)](#loeb-et-al-2008-approaching-the-measurement-of-disability-prevalence-the-case-of-zambia) did something.
 [__Svalund (2004)__](#svalund-2004-funksjonshemmede-i-europa) did something.
@@ -115,6 +117,7 @@ Adults with disabilities were less likely employed, earned less than people with
 [Up](#tekster-om-statistikk)
 
 * [1. Understanding disability](#1-understanding-disability)
+* [2. Disability - a global picture](#2-disability-a-global-picture)
 
 ### 1. Understanding disability
 
@@ -140,6 +143,66 @@ Disability arises from the interaction of health conditions and contextual facto
 * personal factors: can influence how much a person paricipates in society.
 
 It also lists `a person's capacities to perform actions and the actual performance of those actions in real life`.
+
+### 2. Disability - a global picture
+
+[Over](#world-health-organization-who-2011-world-report-on-disability)
+
+The World Health Organization (WHO) (2011) gives a genereal introduction in how to measure disability globally, and presents some estimates for the prevalence of disability.
+
+Estimates differ widely. 
+The WHO (2001) argues that the question design and reporting source can affect estimates.
+For example, many developing countries only collect disbaility data through census and give only a narrow choice of impairments resulting in low disability prevalence rate.
+Many developed countries record impairment, activity limitations and aprticipation restriction resulting in higher disabiltiy prevalence.
+
+They present prevelance estimates from 
+* natioanl surveys and censuses:
+Surveys are difficult for comaprisons because most developing countris collect data on a narrower set of impairments resulting in lower prevalance rates. 
+Typically based on the Washington Group cagegorizations.
+* the World Health Survey of 2002-2004:
+a face-to-face household survey in a total of 70 countries of which 59 ccountries were used for estimation. 
+The prevalence for 18 yrs+ was ca 16%, with 12% in higher income countries and 18% in lower income countries.
+Vulnerable groups (women, the poor, the elderly) had a higher rate of disability.
+* the WHO Global Burden of Disease study, 2004:
+They estimate that 19% of the world population have a disability, with ca 4% having a severe disability.
+Theyt also estimate of moderate and severe disability prevalence to be 11% higher for women than for men related to higher age-specific prevalence / greater number of older women in the populaiton.
+
+These are no definitive estimate.
+WHO (2001) suggest to get more robust, comparable, and complete data sets.
+
+They also list trends in health conditions associated with disability including infectious diseases, chronic conditions, and injuries.
+The influence of demographics on disability.
+Global ageing contrigutes to more disabilities.
+The elderly have a higher risk of disability, and national populations are ageing.
+In many countries, this ageing is associated with higher rates of survival to an older age and reduce fertility.
+Since 1950, for example, the median age has increased: from 24 (1950), via 22 (1975) and 28 (2005) to an estimated 38 (2050).
+These numbers are higher for high-income countries and lower for low- and middle income coutries.
+
+They discuss the importance of environmental factors on disability including exposure to poor sanitation, malnutrition, lack of access to health care, changes caused by natural disasters of conflict situtations.
+
+They also point out that people with disabilities often have worse educational and labor market otucomes, and are more likely to be poorer than people without disabilities in both developing and developed countries.
+
+They highli9gh costs realted to disability:
+* direct costs:
+   * extra costs of living with disabilities
+   * public spending on disability programmes
+*indirects costs:
+   * economic costs:
+     * loss of productivity
+     * exits from work or reduced worlk related to the onset of disability
+     * loss of taxes related to the loss of productivity
+   * non-economic costs:
+      * social isolation
+      * stress. 
+
+Finally, they conclude that about 15% (WHS) / 19% (GBD) of the world population lives with disabilities.
+Disability debends on many factors, including age, sex, stage of life, environmental rists, socioeconomic status, culture, and available resources.
+They give recommendations for improving statistical data:
+* Adapting the ICF
+* Improving national disability statistics
+* Improving the comparability of data
+* Developing apporpirate tools and fill the research gaps
+
 
 ## Loeb et al. (2008) Approaching the measurement of disability prevalence: The case of Zambia 
 
