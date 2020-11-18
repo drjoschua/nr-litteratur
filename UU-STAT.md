@@ -22,7 +22,7 @@ They found that 59% have a disability in one domain only.
 [__World Health Organization (WHO) (2011)__](#world-health-organization-who-2011-world-report-on-disability) (1) give a general introduction in definitions and scope related to disability.
 They (2) give a general introduction in how to measure disability globally, and presents some estimates for the prevalence of disability.
 Finally, they conclude that about 15% (WHS) / 19% (GBD) of the world population lives with disabilities.
-[__Loeb et al.__ (2008)](#loeb-et-al-2008-approaching-the-measurement-of-disability-prevalence-the-case-of-zambia) show that prevalence estimates of disability change depending on the definitioon or aspect of disability being target, as well on the intended purpose fro collecting disability statistics.
+[__Loeb et al.__ (2008)](#loeb-et-al-2008-approaching-the-measurement-of-disability-prevalence-the-case-of-zambia) show that prevalence estimates of disability change depending on the definition or aspect of disability being targeted, as well on the intended purpose for collecting disability statistics.
 They conduct a study that puts disability prevalence in Zambia to 18% to 13%.
 [__Svalund (2004)__](#svalund-2004-funksjonshemmede-i-europa) did something.
 
@@ -197,16 +197,16 @@ They give recommendations for improving statistical data:
 
 [Up](#tekster-om-statistikk)
 
-Loeb et al. (2008) conducted a representative survey of living conditions in Zambia using the categorization of the WAshington Group.
-They show that the prevalence of disability changes depending on the definitioon or aspect of disability being target, as well on the intended purpose fro collecting disability statistics.
+Loeb et al. (2008) conducted a representative survey of living conditions in Zambia using the categorization of the Washington Group.
+They show that the prevalence of disability changes depending on the definition or aspect of disability being targeted, as well on the intended purpose for collecting disability statistics.
 
-They point out that prevalence of disabilities differe strongly between previous research (f.ex. the Zambia 1990 Census, or the Zambia 200 census), and highlight that there is no single definitions of disability. 
-They use the categorization of the wAshington Group instead based on functional limitations rather than impairments.
+They point out that prevalence of disabilities differs strongly between previous research (e.g. the Zambia 1990 Census, or the Zambia 200 census), and highlight that there is no single definition for disability. 
+They use the categorization of the Washington Group instead based on functional limitations rather than impairments.
 
-They found a disability prevalence of about 18% for "at least some difficulty on a least one", and 13% for "at least some difficutly on at least two" of the six domains. 
-This shows that prevalance changes depending on how people define disability.
+They found a disability prevalence of about 18% for "at least some difficulty on a least one", and 13% for "at least some difficulty on at least two" of the six domains. 
+This shows that prevalence changes depending on how people define disability.
 They found disabilities for the different Washington Groups categories as:
-Mobility 5.1%, Vision 4.7%, Hearing 3.7%,  Remembering 2.0%, Self-care 2.0%, and Communicating 2.1%.
+Mobility 5.1%, Vision 4.7%, Hearing 3.7%, Remembering 2.0%, Self-care 2.0%, and Communicating 2.1%.
 
 Loeb et al. (2008) point out that the term `disability` carries a highly negative connotation in Zambia.
 Moreover, disability is often interpreted to some unspoken cultural norm.
