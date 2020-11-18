@@ -25,8 +25,9 @@ Finally, they conclude that about 15% (WHS) / 19% (GBD) of the world population 
 [__Loeb et al.__ (2008)](#loeb-et-al-2008-approaching-the-measurement-of-disability-prevalence-the-case-of-zambia) show that prevalence estimates of disability change depending on the definition or aspect of disability being targeted, as well on the intended purpose for collecting disability statistics.
 They conduct a study that puts disability prevalence in Zambia to 18% to 13%.
 [__Svalund (2004)__](#svalund-2004-funksjonshemmede-i-europa) compared disability prevalence in Norway (15%), selected European countries (DA: 15%, UK 19%, IR: 10%, ES 9%) and the EU (16%).
-They also found similar number in the domain distribution of said disabilities having the highest numbers of disabilities in physical problems related to lower extremities, upper extreminities and neck, breathing related problems, cardio related problems, mental problems, seeing problems and hearing problems.
-They found only small changes in prevelance rates and only minor differences in the employment rate of people with disability.
+They also found similar number in the domain distribution of said disabilities having the highest numbers of disabilities in physical problems related to lower extremities, upper extremities and neck, breathing related problems, cardio related problems, mental problems, seeing problems and hearing problems.
+They found only small changes in prevalence rates and only minor differences in the employment rate of people with disability.
+
 ## United Nations High Commissioner for Refugees (UNHCR) (2019) Disability: Prevalence and Impact - Syrian Arab Republic 
 
 [Up](#tekster-om-statistikk)
@@ -224,17 +225,17 @@ To assess the impact of having a disability on individuals and their families.
 
 [Up](#tekster-om-statistikk)
 
-Svalund (2004) present prevalence of people with disability in Norway (15%) compared to selected countries in the EU (16%, with UK: 19%, Denmark: 20%, Irland: 10%, Spain: 9%).
-They highlight that there are genereally small differences between men and women.
+Svalund (2004) present prevalence of people with disability in Norway (15%) compared to selected countries in the EU (16%, with UK: 19%, Denmark: 20%, Ireland: 10%, Spain: 9%).
+They highlight that there are generally small differences between men and women.
 
-They point out that differences in numbers can be related to the generel sturcture and infrastructure of the respective socieities, and that conceptions about disability depend strongly on societal and personal expectation that might differ depending on the circumstances, e.g. the gender.
-They emphsize that their study investigate subjective opinions about perceived disabilities.
+They point out that differences in numbers can be related to the general structure and infrastructure of the respective societies, and that conceptions about disability depend strongly on societal and personal expectation that might differ depending on the circumstances, e.g. the gender.
+They emphasize that their study investigates subjective opinions about perceived disabilities.
 
-They argue that one reason for the differences might be related to a non-verbal interpretationframework.
-Countries like the UK or the SCandinavian countrie, on the one hand, can influence demands to businesses to actively adapt to the functional needs of their employees instead of vice versa.
-At the same time, countrice like the UK and Denmark have an economy that is highly based on services and non-physical labor.
+They argue that one reason for the differences might be related to a non-verbal interpretation framework.
+Countries like the UK or the Scandinavian countries, on the one hand, can influence demands to businesses to actively adapt to the functional needs of their employees instead of vice versa.
+At the same time, countries like the UK and Denmark have an economy that is highly based on services and non-physical labor.
 Thus, employees might be more inclined to identify themselves with disability.
-Countries like Spain or Irland, on the other hand, have an economy that mainly based on industry, agriculture, and other physical labor sectors.
+Countries like Spain or Ireland, on the other hand, have an economy that mainly based on industry, agriculture, and other physical labor sectors.
 This leads to higher functional demands, and demands of people with varying types and degrees of functioning.
 Consequently, they argue, the threshold of perceiving oneself with disability is much lower in these countries.
 
@@ -243,7 +244,7 @@ Svalund et al. (2004) list disabilities related to different domains with
 * problems with breathing and lungs (6% in Norway, 11% in the EU),
 * heart and cardio problems (6% in Norway, 13% in the EU),
 * mental health issues (10% in Norway / the EU)
-   * REading and writin problems (4% in Norway)
+   * Reading and writing problems (4% in Norway)
 * problems related to seeing (4% in Norway, 3% in the EU)
 * problems related to hearing (4% in Norway, 2% in the EU)
 
@@ -273,4 +274,4 @@ They show that there are only small differences in different European country wh
 |Empl. %  |47 |50 |48 |40 |
 |Unempl. %|3  |3  |8  |3  |
 
-Small differences occur even though the countries choose different strategies for their disability inclusion policies and measrues.
+Small differences occur even though the countries choose different strategies for their disability inclusion policies and measures.
