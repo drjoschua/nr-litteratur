@@ -5,6 +5,7 @@
 Det fins noen tekster som inneholder statistikk rundt universell utforming og mennesker med nedsatt funksjonsevne:
 * [__United Nations High Commissioner for Refugees (UNHCR) (2019)__ Disability: Prevalence and Impact - Syrian Arab Republic](#united-nations-high-commissioner-for-refugees-unhcr-2019-disability-prevalence-and-impact-syrian-arab-republic)
 * [__The United States Census Bureau (USBC) (2018)__ Americans with Disabilities: 2014](#the-united-states-census-bureau-usbc-2018-americans-with-disabilities-2014)
+* [__Barne-, ungdoms- og familiedirektoratet (Bufdir) (2013)__ Slik jar jeg det i dag. Rapport om levekår for mennesker med utviklingshemming](#barne-ungdoms-og-familiedirektoratet-bufdir-2013-slik-jar-jeg-det-i-dag-rapport-om-levekår-for-mennesker-med-utviklingshemming)
 * [__The United States Census Bureau (USBC) (2012)__ Americans with Disabilities: 2010](#the-united-states-census-bureau-usbc-2012-americans-with-disabilities-2010)
 * [__World Health Organization (WHO) (2011)__ World report on disability](#world-health-organization-who-2011-world-report-on-disability)
 * [__Loeb et al.__ (2008) Approaching the measurement of disability prevalence: The case of Zambia](#loeb-et-al-2008-approaching-the-measurement-of-disability-prevalence-the-case-of-zambia)
@@ -16,6 +17,7 @@ Det fins noen tekster som inneholder statistikk rundt universell utforming og me
 [__The United States Census Bureau (USBC) (2018)__](#the-united-states-census-bureau-usbc-2018-americans-with-disabilities-2014) indicate that in 2014 about 27% of the population has some sort of disability, with 18% having a severe disability and 10% needing assistance. 
 They subdivide disabilities according to categories of communication (seeing around 5%, hearing around 7%, and having their speech understood around 2%), physical problem (upper body around 12%, lower body around 18%), and mental around 10%.
 They found that 53% have a disability in one domain only.
+[__Barne-, ungdoms- og familiedirektoratet (Bufdir) (2013)__](#barne-ungdoms-og-familiedirektoratet-bufdir-2013-slik-jar-jeg-det-i-dag-rapport-om-levekår-for-mennesker-med-utviklingshemming) investigated the situation of people with learning disabilities in Norway that they estimate to around 1-3%.
 [__The United States Census Bureau (USBC) (2012)__](#the-united-states-census-bureau-usbc-2012-americans-with-disabilities-2010) indicate that in 2010 about 19% of the population has some sort of disability, with 12% having a severe disability and 4% needing assistance. 
 They subdivide disabilities according to categories of communication (around 6%, seeing around 3%, hearing around 3%, and having their speech understood around 1%), physical problem (upper body around 8%, lower body around 13%), and mental around 6%.
 They found that 59% have a disability in one domain only.
@@ -80,6 +82,12 @@ Most adults have a disability in one domain only (53%):
 * men have disabilities most likely in the communication domain (13%).
 
 Adults with disabilities had a lower level of education, were less likely employed, learned less than people without disability even when employed, had a higher poverty rate, especially people with a severe disability, 
+
+# Barne-, ungdoms- og familiedirektoratet (Bufdir) (2013) Slik jar jeg det i dag. Rapport om levekår for mennesker med utviklingshemming 
+
+[Up](#tekster-om-statistikk)
+
+Barne-, ungdoms- og familiedirektoratet (Bufdir) (2013) investigated the situation of people with learning disabilities in Norway that they estimate to around 1-3%
 
 ## The United States Census Bureau (USBC) (2012) Americans with Disabilities: 2010 
 
