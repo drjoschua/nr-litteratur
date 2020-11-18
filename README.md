@@ -3,12 +3,15 @@
 This document contains general information about literature research.
 You can find a short summary of relevant literature in the following documents:
 * Universal design
-    * [Assessment methods](./UU-ASS.md)
-    * [Cost-benefit analysis](./UU-NYKO.md)
-    * [Functional impairments and barriers](./UU-FUBA.md)
-    * [General benefits](./UU-BENF.md)
-    * [Legal requirements](./UU-JUS.md)
-    * [Societal impacts](./UU-SAFU.md)
+    * [Assessment methods (UU-ASS)](./UU-ASS.md)
+    * [General benefits (UU-BENF)](./UU-BENF.md)
+    * [Definitions (UU-DEF)](./UU-DEF.md)
+    * [Demographics (UU-DEM)](./UU-DEMO.md)
+    * [Functional impairments and barriers (UU-FUBA)](./UU-FUBA.md)
+    * [Legal requirements (UU-JUS)](./UU-JUS.md)
+    * [Cost-benefit analysis (UU-NYKO)](./UU-NYKO.md)
+    * [Societal impacts (UU-SAFU)](./UU-SAFU.md)
+    * [Statistics (UU-STAT)](./UU-STAT.md)
 * Standards:
     * [Web Accessibility Guidelines (WCAG)](./WCAG.md)
 
