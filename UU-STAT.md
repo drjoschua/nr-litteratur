@@ -24,8 +24,9 @@ They (2) give a general introduction in how to measure disability globally, and 
 Finally, they conclude that about 15% (WHS) / 19% (GBD) of the world population lives with disabilities.
 [__Loeb et al.__ (2008)](#loeb-et-al-2008-approaching-the-measurement-of-disability-prevalence-the-case-of-zambia) show that prevalence estimates of disability change depending on the definition or aspect of disability being targeted, as well on the intended purpose for collecting disability statistics.
 They conduct a study that puts disability prevalence in Zambia to 18% to 13%.
-[__Svalund (2004)__](#svalund-2004-funksjonshemmede-i-europa) did something.
-
+[__Svalund (2004)__](#svalund-2004-funksjonshemmede-i-europa) compared disability prevalence in Norway (15%), selected European countries (DA: 15%, UK 19%, IR: 10%, ES 9%) and the EU (16%).
+They also found similar number in the domain distribution of said disabilities having the highest numbers of disabilities in physical problems related to lower extremities, upper extreminities and neck, breathing related problems, cardio related problems, mental problems, seeing problems and hearing problems.
+They found only small changes in prevelance rates and only minor differences in the employment rate of people with disability.
 ## United Nations High Commissioner for Refugees (UNHCR) (2019) Disability: Prevalence and Impact - Syrian Arab Republic 
 
 [Up](#tekster-om-statistikk)
@@ -223,4 +224,53 @@ To assess the impact of having a disability on individuals and their families.
 
 [Up](#tekster-om-statistikk)
 
-Svalund (2004) did something.
+Svalund (2004) present prevalence of people with disability in Norway (15%) compared to selected countries in the EU (16%, with UK: 19%, Denmark: 20%, Irland: 10%, Spain: 9%).
+They highlight that there are genereally small differences between men and women.
+
+They point out that differences in numbers can be related to the generel sturcture and infrastructure of the respective socieities, and that conceptions about disability depend strongly on societal and personal expectation that might differ depending on the circumstances, e.g. the gender.
+They emphsize that their study investigate subjective opinions about perceived disabilities.
+
+They argue that one reason for the differences might be related to a non-verbal interpretationframework.
+Countries like the UK or the SCandinavian countrie, on the one hand, can influence demands to businesses to actively adapt to the functional needs of their employees instead of vice versa.
+At the same time, countrice like the UK and Denmark have an economy that is highly based on services and non-physical labor.
+Thus, employees might be more inclined to identify themselves with disability.
+Countries like Spain or Irland, on the other hand, have an economy that mainly based on industry, agriculture, and other physical labor sectors.
+This leads to higher functional demands, and demands of people with varying types and degrees of functioning.
+Consequently, they argue, the threshold of perceiving oneself with disability is much lower in these countries.
+
+Svalund et al. (2004) list disabilities related to different domains with
+* physical problems (50% in Norway, 37% in the EU),
+* problems with breathing and lungs (6% in Norway, 11% in the EU),
+* heart and cardio problems (6% in Norway, 13% in the EU),
+* mental health issues (10% in Norway / the EU)
+   * REading and writin problems (4% in Norway)
+* problems related to seeing (4% in Norway, 3% in the EU)
+* problems related to hearing (4% in Norway, 2% in the EU)
+
+|                 |No |DA |UK |IR |ES |EU |
+|:---------------:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:necktie:        |28 |28 |18 |14 |20 |19 |
+|:running:        |11 |10 |11 |8  |13 |11 |
+|:muscle:         |11 |6  |6  |5  |6  |7  |
+|:heart:          |6  |10 |11 |14 |11 |13 |
+|:triumph: :dash: |6  |7  |13 |15 |16 |11 |
+|:thought_balloon:|10 |9  |9  |10 |15 |10 |
+|:books: :pencil: |4  |   |2  |   |   |   |
+|:eyes:           |4  |2  |2  |2  |4  |3  |
+|:ear:            |4  |2  |2  |2  |2  |2  |
+
+They list different three different types of policy to regulated access to the labor marked for people with disability:
+* demand related policies:
+Measures that are directed to the labor marked (tax relief for supporting people with disabilities / sanctions for not supporting people with disabilities via fines, quotas, etc.)
+* supply related policies:
+Measures that help individuals with disabilities.
+* benefit schemes:
+Social benefit measures that help compensate loss of economic goods for people with disability.
+
+They show that there are only small differences in different European country when looking at the employment rate of people with disability:
+|         |NO |DA |UK |IR |
+|:------: |:-:|:-:|:-:|:-:|
+|Empl. %  |47 |50 |48 |40 |
+|Unempl. %|3  |3  |8  |3  |
+
+Small differences occur even though the countries choose different strategies for their disability inclusion policies and measrues.
