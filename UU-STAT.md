@@ -13,7 +13,7 @@ Det fins noen tekster som inneholder statistikk rundt universell utforming og me
 ## General
 
 [__United Nations High Commissioner for Refugees (UNHCR) (2019)__](#united-nations-high-commissioner-for-refugees-unhcr-2019-disability-prevalence-and-impact-syrian-arab-republic) measure the prevalence of people with disabilities (around 27%) in Syria by area, age group and population type.
-[__The United States Census Bureau (USBC) (2018)__](#the-united-states-census-bureau-usbc-2018-americans-with-disabilities-2014) indicate that  in 2014 about 27% of the population has some sort of disability, with 18% having a severe disability and 10% needing assistance. 
+[__The United States Census Bureau (USBC) (2018)__](#the-united-states-census-bureau-usbc-2018-americans-with-disabilities-2014) indicate that in 2014 about 27% of the population has some sort of disability, with 18% having a severe disability and 10% needing assistance. 
 They subdivide disabilities according to categories of communication (seeing around 5%, hearing around 7%, and having their speech understood around 2%), physical problem (upper body around 12%, lower body around 18%), and mental around 10%.
 They found that 53% have a disability in one domain only.
 [__The United States Census Bureau (USBC) (2012)__](#the-united-states-census-bureau-usbc-2012-americans-with-disabilities-2010) indicate that in 2010 about 19% of the population has some sort of disability, with 12% having a severe disability and 4% needing assistance. 
@@ -87,7 +87,7 @@ Adults with disabilities had a lower level of education, were less likely employ
 
 The United States Census Bureau (USBC) (2012) indicate in 2010 the percentage of people with disabilities to about 19%, 12% with severe disability and 4% needing assistance. 
 They show that disabilities increase with age, as do severe disabilities and the need for personal assistance.
-They point out that the aging of the baby/boomer cohort meat that a greater proportion of the population grew older and therefore in a group with higher risks of disability. 
+They point out that the aging of the baby-boomer cohort meat that a greater proportion of the population grew older and therefore in a group with higher risks of disability. 
 They show differences in disability prevalence (any) depending on race:
 Asians having the lowest rate (15%), Hispanics (18%), non-Hispanic Whites (18%) and Blacks (22%) - all numbers are age-adjusted.
 The same ranking is valid for severe disability and needs assistance.
@@ -170,7 +170,7 @@ They estimate that 19% of the world population have a disability, with ca 4% hav
 They also estimate of moderate and severe disability prevalence to be 11% higher for women than for men related to higher age-specific prevalence / greater number of older women in the population.
 
 These are no definitive estimate.
-WHO (2001) suggest to get more robust, comparable, and complete data sets.
+The WHO (2001) suggest to get more robust, comparable, and complete data sets.
 
 They also list trends in health conditions associated with disability including infectious diseases, chronic conditions, and injuries.
 The influence of demographics on disability.
