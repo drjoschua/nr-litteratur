@@ -50,35 +50,38 @@ They found prevalence of different types of disabilities following the categoriz
 
 [Up](#tekster-om-statistikk)
 
-The United States Census Bureau (USBC) (2018) indicate that in 2014 the percentage of people with disabilities to about 27 %, 18% with severe disability and 10% needing assistance. 
+[Question marks ? indicate that the data was unclear.]
+
+The United States Census Bureau (USBC) (2018) indicate that in 2014 the percentage of people with disabilities to about 27% (including minors), 18% with severe disability and 10% needing assistance. 
 They show that disabilities increase with age:
-Until 18 yrs. only 17%, from 18 yrs. 30%, from 65 yrs. 58%, and from 75 yrs. 70% have disabilities.
+Until 18 yrs. only 17%, from 18 yrs. 30%, from 65 yrs. 59%, and from 75 yrs. 71% have disabilities.
 They show differences in disability (any) prevalence depending on race:
 Blacks (around 35%), non-Hispanic Whites (32%), Hispanics (25%) and Asians (20%).
 The same ranking is valid for severe disability and needs assistance.
 
 Prevalence depending for different domains:
-* communication domain (18 yrs.+ / 65 yrs.+):
+* communication domain (12% in 18 yrs.+ / 27% in 65 yrs.+):
    * difficulties seeing (5%/9%)
    * difficulties hearing (7%/20%)
    * difficulties having their speech understood (2%/4%).
 * physical domain:
+   * lower body (16%, 18%?).
    * upper body (12%)
-   * lower body (18%).
 * mental domain:
-either a specified condition or any other mental or emotional condition that seriously interfered with everyday activities prevalent in about 10% of adults. 
+either a specified condition or any other mental or emotional condition that seriously interfered with everyday activities.
+Around 10% have one or more conditions. 
 The prevalence depended on the age:
 Around 12% (65 yrs.+) or 9% (18-64) of people. 
-Common symptoms can be seen in at least 16% of the adults, 7% being severe: 
-   * depressed or anxious: ca 11%,
-   * coping with stress: ca 8%,
-   * trouble concentrating: ca 7%,
-   * trouble getting along with others: 4%.
+Common symptoms can be seen in at least 7% (16%?) of the adults: 
+   * depressed or anxious: 5% (11%?),
+   * coping with stress: 5% (8%?),
+   * trouble concentrating: 4% (7%?),
+   * trouble getting along with others: 2% (4%?).
    
 About 13% had difficulties with ADL and 10% with iADL.
 Most adults have a disability in one domain only (53%):
 * physical domain being most common (28%), followed by mental (14%) and communication domain (12%),
-* women have most likely disability in physical (32%) and mental (14%) domains, while
+* women have most likely disability in physical (32%) and mental (13%, 14%?) domains, while
 * men have disabilities most likely in the communication domain (13%).
 
 Adults with disabilities had a lower level of education, were less likely employed, learned less than people without disability even when employed, had a higher poverty rate, especially people with a severe disability, 
@@ -87,7 +90,7 @@ Adults with disabilities had a lower level of education, were less likely employ
 
 [Up](#tekster-om-statistikk)
 
-Barne-, ungdoms- og familiedirektoratet (Bufdir) (2013) investigated the situation of people with learning disabilities in Norway that they estimate to around 1-3%
+Barne-, ungdoms- og familiedirektoratet (Bufdir) (2013) investigated the situation of people with learning disabilities in Norway that they estimate to around 1-3%.
 
 ## The United States Census Bureau (USBC) (2012) Americans with Disabilities: 2010 
 
@@ -106,8 +109,8 @@ Prevalence depending for different domains:
    * difficulties hearing (3%/11%)
    * difficulties having their speech understood (1%/2%).
 * physical domain:
-   * upper body (8%)
    * lower body (13%).
+   * upper body (8%)
 * mental domain:
 about 6% of adults. 
 Common symptoms can be seen in at least 4% of the adults: 
