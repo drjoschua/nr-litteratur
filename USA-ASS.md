@@ -183,9 +183,7 @@ They conducted the study on university students in two groups: local and asynchr
 In the experiment, they give deductive instructions by providing a general rule (conceptual definition like "not useful", "difficult to learn", "difficult to remember", "ineffective to use", "unsatisfying to use", etc.)
 They also gave inductive instructions by providing examples of usability issues without definitions related to consistency and affordance).
 
-On the one hand, they show that 
-users receiving predefined tasks completed more tasks, identify more usability problems, and have higher level of problem agreement 
-than users working on their own tasks.
+On the one hand, they show that users receiving predefined tasks completed more tasks, identify more usability problems, and have higher level of problem agreement than users working on their own tasks.
 On the other hand, users working on their own tasks identify a more variety of usability issues.
 Finally, users who received inductive instructions identified more usability issues than users who were given deductive instructions, at the same time as the satisfaction rating were higher from users with inductive instructions as well.
 The authors could not in any bias resulting from the examples in the inductive instructions, or that the combination of the inductions and deductive instructions was preferred before either individual.
