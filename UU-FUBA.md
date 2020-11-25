@@ -19,7 +19,8 @@ Det fins noen tekster som definerer, behandler, osv. funksjonsnedsettelser og ba
 [__Halbach and Tjøstheim (2019)__](#halbach-and-tjøstheim-2019-towards-reliable-accessibility-assessments-of-science-center-exhibits) propose a methodology for assessing the degree of accessibility of museum and science center exhibits based on six areas of impairments (V, H, M, MT, VC, C), four areas of assessment (getting to/from, perceive, control, understand), and four degrees of (in-)accessibility.
 [__The United States Census Bureau (USBC) (2018)__](#the-united-states-census-bureau-usbc-2018-americans-with-disabilities-2014) define and list three disability domains: communication (seeing, hearing and speech), physical (upper and lower body), and mental (cognitive, mental and emotional).
 [__The United States Census Bureau (USBC) (2012)__](#the-united-states-census-bureau-usbc-2012-americans-with-disabilities-2010) did something.
-[__Madans et al. (2011)__](#madans-et-al-2011-measuring-disability-and-monitoring-the-un-convention-on-the-rights-of-persons-with-disabilities-the-work-of-the-washington-group-on-disability-statistics) did something.
+[__Madans et al. (2011)__](#madans-et-al-2011-measuring-disability-and-monitoring-the-un-convention-on-the-rights-of-persons-with-disabilities-the-work-of-the-washington-group-on-disability-statistics) discusses the work of the Washington Group that created a set of short questions to monitor the participation of persons with disabilities.
+They categorize disabilities into six categories of seeing, hearing, walking and climbing, remembering or concentrating, self-care, and communication.
 [__World Health Organization (WHO) (2011)__](#world-health-organization-who-2011-world-report-on-disability) (6) did something. 
 [__Story et al. (1998)__](#story-et-al-1998-the-universal-design-file-designing-for-people-of-all-ages-and-abilities-revised-edition) did something.
 
@@ -118,6 +119,38 @@ The United States Census Bureau (USBC) (2012) define three disability domains:
 ## Madans et al. (2011) Measuring disability and monitoring the UN Convention on the Rights of Persons with Disabilities: the work of the Washington Group on Disability Statistics 
 
 [Up](#tekster-om-funksjonsnedsettelser-og-barrierer)
+
+The Washington Group is a voluntary working group foundended in 2001 and made up of representatives of National Statistical Offices and international, non-governmental and siability organizations within the United Nations Statistical Division. Its main goal is a cultural netural and reasonably standardized disability definition and mesurement. The WG uses the International Classificaiton of Functioning, Dsisabiality and HEalth (ICF) as framework and proposes a short set of six disability-related questions that can be used as a mesaurement tool for use in both censuses and surveys.
+
+The WG is based on the UN Convetion on the Right of Persons with Disabilities (UNCRPD) that aims on the full and effective participation and inclusion in society, non-discrimination, accessiblity and equality of opportunity for people with disabilities. Its major objective is the development of tools to collect comparablae information on disability throughout the world by providing a short set of disability measures that can be used in cenuses and surveys, and by recommending categorizations measuring different aspects or forms of disability. The tools by the WG can be used to monitor the paritcipation of people with disabilities for example by cross-referencing prevalence of certain disabilities with the employment numbers.
+
+The WG sees disability as `the outcome of the interaction of aperson and his/her environment (physical, social, cultural or liegislative) and represents a measure of the negative impact of environmental factors on one's ability to participate`. Different studies have revealed different prevalance number because they ask different questions and aks different things. The WG addresses the question whether people with disabilities participated in activities such as education, employment or family/civic life. Instead of asking if somebody is disabled, they propose to invetigate difficulties in functioning in basic actions that are the building block for more complex activities. Their rationale is that having difficulties in these functionings may lead to decreases participation. The ooutcome of these tools is comparable data cross-nationally for different countries reprentsing (a) the majority of persons with limitations in basic actions, (b)the most commonly occuring limitations in basic actions, and (c) to capture persons with similar problems across countries.
+
+The WG provids a short set of questions:
+```
+The next questions ask about difficulties you may have doing certain activities becasue of a HEALTH PROBLEM:
+(a) Do you have difficulty seeing, even if wearing glasses?
+(b) Do you have difficulty hearing, even if using a hearing aid?
+(c) Do you have difficulty walking or climbing steps?
+(d) Do you have difficulty remembering or concentrating?
+(e) Do you have difficulty (with self-care such as) wahing all over or dressing?
+(f) Using your usual (customary) language, do you have difficulty communicating. (for example understanding or being understood by others)?
+```
+
+Each question has four response categories (severity scale):
+```
+(1) No, no difficulty.
+(2) Yes, some difficulty.
+(3) Yes, a lot of difficulty.
+(4) Cannot do it at all.
+```
+
+The WG proposes to also gather information about environmental barriers or facilitators:
+* micro-environmental: personal and technical assistance.
+* meso-environmental: environment beyond the person.
+* macro-environmental: affects on a regional, societal or national scale. 
+
+They also show results from interantional studies using the short question sets.
 
 ## World Health Organization (WHO) (2011) World report on disability 
 
