@@ -169,21 +169,21 @@ Addressing the barriers to information and technology.
 [Up](#tekster-om-funksjonsnedsettelser-og-barrierer)
 
 Story et al. (1998) categorize human functions or abilities into 8 groups:
-* cognition including impairments related to literacy, reasoning, language or cultural prophiciency, memory, attention, comprehension, concentration, etc.,
-* vision including impairments related to blindness, hereditary loss of vision, cataracts, glaucoma, retinitis, presbyopia (farsightedness after middle age), macular degeneration, eye injuries, etc.,
-* hearing and speech inclduing impairments related to 
-* body function including impairments related to 
-* arm function including impairments related to 
-* hand function including impairments related to , and 
-* mobility including impairments related to 
+* cognition is the ability of `receiving, comprehending, interpreting, remembering or acting on information`.
+* vision  is the ability of `perceiving visual stimuli`,
+* hearing and speech is the ability of `perceiving audtiory stimuli`, 
+* body function is the ability of `performing common tasks` especially those related to the cardiovascular, musculoskeletal, and central nervous system, 
+* arm function is the ability of `in upper extremity range of motion, coordination and strength`, 
+* hand function is the ability of performing tasks related to the hands like grasping, squeezing, etc., and
+* mobility is the ability of performing tasks related to the lower extremities like walking, rising, etc. 
 
 
-|Category|Age|Environment|Situation|Disability|
-|-|-|-|-|-|
-|Cognition||||literacy, reasoning, language or cultural prophiciency, memory, attention, comprehension, concentration, etc.|
-|Vision||||blindness, hereditary loss of vision, cataracts, glaucoma, retinitis, presbyopia (farsightedness after middle age), macular degeneration, eye injuries, etc.|
-|Hearing and Speech||||deafness, hereditary loss of hearing, blockages in the route to the inner ear, damage from prolonged exposure to excessive noise, diseases, presbycusis (reduction of hearing in older age), head injuries or stroke, etc.,|
-|Body||||epilepsy or other seizure disorders, allergies, multiple chemical sensitivities, asthma, diabetes, arthritis, musculoskeletal injuries or illness, hernia, stroke, etc.|
-|Arm||||congenital loss or deformation of an arm, cerebral palsy, post-poliomyelitis, muscular dystrophy, multiple sclerosis, Lou Gehrig's disease (amyotrophic lateral sclerosis, or ALS), Parkinson's disease, spinal cord injuries, amputations, arthritis, bursitis, tendonitis, stroke, etc.|
-|Hand||||congenital loss or deformation of a hand, cerebral palsy, post-poliomyelitis, muscular dystrophy, multiple sclerosis, Lou Gehrig's disease (amyotrophic lateral sclerosis, or ALS), Parkinson's disease, spinal cord injuries, amputations, carpal tunnel syndrome, arthritis, stroke, etc.|
-|Mobility||||congenital loss or deformation of a leg, cerebral palsy, post-poliomyelitis, muscular dystrophy, multiple sclerosis, Lou Gehrig's disease (amyotrophic lateral sclerosis, or ALS), Parkinson's disease, spinal cord injuries, amputations, carpal tunnel syndrome, arthritis, stroke, asthma, emphysema, or other respiratory complications, etc.|
+|Category          |Age|Environment|Situation|Disability|
+|:----------------:|---|-----------|---------|----------|
+|Cognition         |young children, older adults, indiv. with a condition (leasrning disability, Alzheimer's, Down's syndrome, etc.)|indiv. with limited literacy or foreign/cultural background|fatigued or distracted individuals|literacy, reasoning, language or cultural prophiciency, memory, attention, comprehension, concentration, etc.|
+|Vision            |older people with conditions (cataracts, glaucoma, retinitis, etc.)|adverse weather conditions, colored lighting, very high or very low lighting conditions|distracted or fatigued individuals, |blindness, hereditary loss of vision, cataracts, glaucoma, retinitis, presbyopia (farsightedness after middle age), macular degeneration, eye injuries, etc.|
+|Hearing and Speech|older adults with conditions (deafness, stroke, etc.)|distracting or noisy environment|indiv. using headphones|deafness, hereditary loss of hearing, blockages in the route to the inner ear, damage from prolonged exposure to excessive noise, diseases, presbycusis (reduction of hearing in older age), head injuries or stroke, etc.,|
+|Body              |young children, older adults|indiv. with chronic conditions indiv. with extreme body weight or size, pregnanat women, indiv. in pain, bad weather, extreme temperature, poor air, unstable footing|fatigued or ill people|epilepsy or other seizure disorders, allergies, multiple chemical sensitivities, asthma, diabetes, arthritis, musculoskeletal injuries or illness, hernia, stroke, etc.|
+|Arm               |young childer, older adults|indiv. with injuries or conditions|fatigued indiv., indiv. wearing gloves or only one free arm|congenital loss or deformation of an arm, cerebral palsy, post-poliomyelitis, muscular dystrophy, multiple sclerosis, Lou Gehrig's disease (amyotrophic lateral sclerosis, or ALS), Parkinson's disease, spinal cord injuries, amputations, arthritis, bursitis, tendonitis, stroke, etc.|
+|Hand              |young childre, older adults|indiv. with injuries or conditions|fatigued indiv., indiv. wearing mittens, wet or oily hands, only one free hand|congenital loss or deformation of a hand, cerebral palsy, post-poliomyelitis, muscular dystrophy, multiple sclerosis, Lou Gehrig's disease (amyotrophic lateral sclerosis, or ALS), Parkinson's disease, spinal cord injuries, amputations, carpal tunnel syndrome, arthritis, stroke, etc.|
+|Mobility          |young childre, older adults|indiv. with extreme body size or weight, indiv. with injuries or conditions, bad weather conditions|fatigued indiv.|congenital loss or deformation of a leg, cerebral palsy, post-poliomyelitis, muscular dystrophy, multiple sclerosis, Lou Gehrig's disease (amyotrophic lateral sclerosis, or ALS), Parkinson's disease, spinal cord injuries, amputations, carpal tunnel syndrome, arthritis, stroke, asthma, emphysema, or other respiratory complications, etc.|
