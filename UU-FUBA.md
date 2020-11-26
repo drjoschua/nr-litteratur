@@ -10,6 +10,7 @@ Det fins noen tekster som definerer, behandler, osv. funksjonsnedsettelser og ba
 * [__The United States Census Bureau (USBC) (2012)__ Americans with Disabilities: 2010](#the-united-states-census-bureau-usbc-2012-americans-with-disabilities-2010)
 * [__Madans et al. (2011)__ Measuring disability and monitoring the UN Convention on the Rights of Persons with Disabilities: the work of the Washington Group on Disability Statistics](#madans-et-al-2011-measuring-disability-and-monitoring-the-un-convention-on-the-rights-of-persons-with-disabilities-the-work-of-the-washington-group-on-disability-statistics)
 * [__World Health Organization (WHO) (2011)__ World report on disability](#world-health-organization-who-2011-world-report-on-disability)
+* [__World Health Organization (WHO)__ (2001) International Classification of Functioning, Disability and Health (ICF)](#world-health-organization-who-2001-international-classification-of-functioning-disability-and-health-icf)
 * [__Story et al. (1998)__ The Universal Design File: Designing for People of All Ages and Abilities. Revised Edition.](#story-et-al-1998-the-universal-design-file-designing-for-people-of-all-ages-and-abilities-revised-edition)
   
 ## General
@@ -22,6 +23,7 @@ Det fins noen tekster som definerer, behandler, osv. funksjonsnedsettelser og ba
 [__Madans et al. (2011)__](#madans-et-al-2011-measuring-disability-and-monitoring-the-un-convention-on-the-rights-of-persons-with-disabilities-the-work-of-the-washington-group-on-disability-statistics) discuss the work of the Washington Group that created a set of short questions to monitor the participation of persons with disabilities.
 They categorize disabilities into six categories of seeing, hearing, walking and climbing, remembering or concentrating, self-care, and communication.
 [__World Health Organization (WHO) (2011)__](#world-health-organization-who-2011-world-report-on-disability) (6) did something. 
+The [__World Health Organization (WHO)__ (2001)](#world-health-organization-who-2001-international-classification-of-functioning-disability-and-health-icf) present a categorization framework divided into two parts for functionality and disability comprising body functions and structures, and activities and participation, and contextual factors madeup of environmental and personal factors.
 [__Story et al. (1998)__](#story-et-al-1998-the-universal-design-file-designing-for-people-of-all-ages-and-abilities-revised-edition) did something.
 
 ## W3C Web Accessibility Initiative (WAI) (2020) Diverse Abilities and Barriers
@@ -164,6 +166,108 @@ Barriers to infomation and communication.
 Addressing the barriers to information and technology.  
 
 
+### World Health Organization (WHO) (2001) International Classification of Functioning, Disability and Health (ICF)
+
+[Up](#tekster-om-funksjonsnedsettelser-og-barrierer)
+
+The World Health Organization (WHO) (2001) presents a classificaiton framework that can serve as scientific basis for understanding imapairments, disabilities and its factors, establish a a common language, permit comparison of data, and provide a systematic coding scheme for all elements involved.
+
+The ICF encompasses all aspects of human health and some health-relevant compoments. The ICF describes human functioning and its restrictions and provides a framework to organize this information. The information is organizaed in:
+
+* Part 1. __Functioning and disability__: can be expressed to indicate problems («disability») or indicate nonproblematic neutral aspects («functioning»)  
+   * 1.1. __Body functions and structures__: interpreted by constructs and operationalized by qualifiers:  
+     * 1.1.1. __Body functions__: `physiological functions of body systems` interpreted by changes in physiological systems and anatomical structures.  
+     * 1.1.2. __Body structures__: `anatomical partsof the body such as organs, limbs and their compoments` interpreted by capacity and performance  
+   * 1.2. __Activities and participation__
+     * 1.2.1. __Activity__: `the exectution of a task or action by an individual`.
+     * 1.2.2. __Participation__: `[the] involvement in a life situation`.
+* Part 2. __Contextual factors__
+   * 2.1. __Enviornmental factors__: `make up the physical, social and attidudinl environment in which people live and conduct their lives` organized from the individual's most immediate enviornment to the general environment.  
+      * 2.2.1. __Individual__ the immediate environment of the individual.
+      * 2.2.2. __Societal__ formanl and informal social structures in the community or society that have an impact on individuals
+   * 2.2. __Personal factors__: The particular background on an individual's life and living. Not further classified in the ICF.
+
+### 1.1. Body functions and structures
+
+Impairments represent a deviation from the statistical norm.
+They can be temporary or permanent; progressive, regressive, or static; intermittent or continuous.
+
+#### 1.1.1. Body functions
+
+The ICF proposes eight chapters for body functions:
+1. Mental functions: of the brain.
+   * Global mental functions (orientation, intellectual, temperament and personality, etc.).
+   * Specific mental functions (attention, memory, emotional, perceptual, calculation, etc.).
+2. Sensory functions and pain: functions of the senses, seeing, hearing, tasting as well as pain. 
+   * Seeing and related functions
+   * HEaring and vestibular functions
+   * Additional sensory functions.
+   * Pain. 
+3. Voice and speech functions of producing sounds and speech.
+4. Functions of the cardiovascular, haematological, immunological and respiratory systems
+5. Functions of the digestive, metabolic and endocrine systems
+6. Genitourinary and reproductive functions
+7. Neuromusculoskeletal and movement-related functions of movement and mobility.
+   * Functions of the joints and bones
+   * Muscle fucntions
+   * Movement functions
+8. Functions of the skin and related structures
+
+#### 1.1.2. Body structures
+
+The ICF proposes eight chapters for body structures:
+1. Structures of the nervous system
+2. The eye, ear and related structures
+3. Structures involved in voice and speech
+4. Structures of the cardiovascular, immunological and respiratory systems
+5. Structures related to the digestive, metabolic and endocrine systems
+6. Structures related to the genitourinary and reproductive systems
+7. Structures related to movement
+8. Skin and related structures
+
+### 1.2. Acitivities and participation
+
+There are nine domains (cf. Fig.2): 
+1. learning and applying knowledge, 
+2. general tasks and demands, 
+3. communication, 
+4. mobility, 
+5. self-care, 
+6. domestic life, 
+7. interpersonal interactions and relationships, 
+8. major life areas, 
+9. community, social and civic life. 
+Every domain can be qualified in terms of performance and capacity.
+The performance `describes what an individual does in his or her current environment`.
+The capacity `describes an individual's ability to execute a task or an action`.
+Both qualifiers can be used with and withou assistive devices or personal assistance.
+Limitations or restirctions are measured against the statistical norm.
+
+### Part 2. Contextual factors
+
+Environmental factors interact with the compoments in body functions and structures and in activities and participation (cf. Fig.3):
+An individul's functioning is an interction between the health condition and contextual factors.
+Interventions may modify one or more of the other entities.
+The interactions work in both directions.
+The ICF proposes five environmental factors:
+1. Products and technology
+2. NAtural environment and human-made changes to environment
+3. Support and relationships
+4. Attitudes
+5. Services, systems and policies
+
+
+### How to use the ICF
+
+The ICF is an alphanummeric system using the letters __b__ (Body Functions), __s__ (Body Structures), __d__ (Activities and Participation), and __e__ (Environmental FActors),
+followed by the chapter number (1 digit),
+followed by the second level (2 digits),
+followed by the thrid and fourth level (1 digit each).
+A qualifier indicating the magnitude is coded as 1 or 2 numbers after a point.
+The scale of an qualifier ranges from 0-4: __0__ (no problem), __1__ (mild problem), __2__ (moderate problem), __3__ (severe problem), and __4__ (complete problem).
+For facilitators, the point is replace with a + sign.
+
+ 
 ## Story et al. (1998) The Universal Design File: Designing for People of All Ages and Abilities. Revised Edition. 
 
 [Up](#tekster-om-funksjonsnedsettelser-og-barrierer)
