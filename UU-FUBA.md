@@ -235,6 +235,7 @@ There are nine domains (cf. Fig.2):
 7. interpersonal interactions and relationships, 
 8. major life areas, 
 9. community, social and civic life. 
+
 Every domain can be qualified in terms of performance and capacity.
 The performance `describes what an individual does in his or her current environment`.
 The capacity `describes an individual's ability to execute a task or an action`.
