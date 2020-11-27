@@ -92,7 +92,6 @@ The United States Census Bureau (USBC) (2018) define someone with disability sta
 * having a specific condition (learning disability, cerebral palsy, developmental or intellectual disability, Alzheimer's, blind, deaf, mental/emotional condition), 
 * having a mental or emotional condition that seriously interfered with everyday activities (depression, anxiety, trouble getting along with others, trouble concentrating, trouble coping with stress).
 
-
 They define three domains of disability:
 * communication domain: 
 Problems realted to seeing, hearing or having their speech understood.
@@ -164,7 +163,6 @@ They also show results from international studies using the short question sets.
 
 Barriers to infomation and communication.  
 Addressing the barriers to information and technology.  
-
 
 ### World Health Organization (WHO) (2001) International Classification of Functioning, Disability and Health (ICF)
 
@@ -256,7 +254,6 @@ The ICF proposes five environmental factors:
 4. Attitudes
 5. Services, systems and policies
 
-
 ### How to use the ICF
 
 The ICF is an alphanumeric system using the letters __b__ (Body Functions), __s__ (Body Structures), __d__ (Activities and Participation), and __e__ (Environmental Factors),
@@ -266,8 +263,6 @@ followed by the third and fourth level (1 digit each).
 A qualifier indicating the magnitude is coded as 1 or 2 numbers after a point.
 The scale of an qualifier ranges from 0-4: __0__ (no problem), __1__ (mild problem), __2__ (moderate problem), __3__ (severe problem), and __4__ (complete problem).
 For facilitators, the point is replaced with a + sign.
-
-
  
 ## Story et al. (1998) The Universal Design File: Designing for People of All Ages and Abilities. Revised Edition. 
 
@@ -281,7 +276,6 @@ Story et al. (1998) categorize human functions or abilities into 8 groups:
 * arm function is the ability of `in upper extremity range of motion, coordination and strength`, 
 * hand function is the ability of performing tasks related to the hands like grasping, squeezing, etc., and
 * mobility is the ability of performing tasks related to the lower extremities like walking, rising, etc. 
-
 
 |Category          |Age|Environment|Situation|Disability|
 |:----------------:|---|-----------|---------|----------|
