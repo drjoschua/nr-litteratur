@@ -16,7 +16,8 @@ These articles, papers and chapters discuss assessment methods for accessibility
 [__Bai et al. (2019)__](#bai-et-al-2019-evaluating-accessibility-testing-in-automated-software-build-processes) presented an overview over available automatic assessment, and discusses means of assessment and analysis for the different tools. 
 They argue that tools based on the aXe-core rulesets are superior to those based on HTML-CS to-date.
 [__Halbach and Tjøstheim (2019)__](#halbach-and-tjøstheim-2019-towards-reliable-accessibility-assessments-of-science-center-exhibits) propose a methodology for assessing the degree of accessibility of museum and science center exhibits based on six areas of impairments (V, H, M, MT, VC, C), four areas of assessment (getting to/from, perceive, control, understand), and four degrees of (in-)accessibility.
-[__Stray et al. (2019)__](#stray-et-al-2019-empowering-agile-project-members-with-accessibility-testing-tools-a-case-study) did something-
+[__Stray et al. (2019)__](#stray-et-al-2019-empowering-agile-project-members-with-accessibility-testing-tools-a-case-study) used three simulated accessibility testing methods in agile programming projects (an automatic WCAG checker, simulation glasses, and a dyslexia simulator) to uncover accessibility issues and raise awareness in developers towards issues for people with disabilities in a cost-efficient manner.
+They claim that this method
 [__Bai et al. (2018)__](#bai-et-al-2018-categorization-and-comparison-of-accessibility-testing-methods-for-software-development) expended W3C accessibility cognitive barriers from one to three resulting in seven barriers in total (Aud, A&M, HLL, L&N, Phy, Spe, Vis), and categorized accessibility tools in different categories (Auto, Check, Sim, AT, Exp) including an indication of their cost for developers.
 Moreover, they analyzed four assessment methods for each of the categories showing the accessibility barriers they cover. 
 [__Bai et al. (2016b)__](#bai-et-al-2016b-a-cost-benefit-evaluation-of-accessibility-testing-in-agile-software-development) analyzed accessibility methods with respect to resources and knowledge requirements in terms of a cost-benefit analysis. Moreover, they described the inclusion of testing methods into an agile process by using an agile accessibility spiral.
@@ -78,6 +79,13 @@ They show indices that barriers and hinders can be counterbalanced by both engag
 ## Stray et al. (2019) Empowering agile project members with accessibility testing tools: a case study 
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-tilgjengelighet-acc-ass)
+
+Stray et al. (2019) investigated how to integrate three simulated accessibility testing methods in agile programming projects (SiteImprove Accessibility Checker for WCAG criteria, Cambridge Simulation Glasses, and Dyslexia Simulation).
+They found that the tools were useful, and that that the developers were largely positive towards the tools. 
+They claim that they are cost-efficient than.
+They argue that exposure to simulation testing helps programmers to be more aware of the needs of people with disabilities.
+They suggest to use Cambridge classes early in the development process, and automatic Accessibility Checkers later in the process.
+They also point out the barrier that many testing tools are platform dependent.
 
 ## Bai et al. (2018) Categorization and Comparison of Accessibility Testing Methods for Software Development
 
