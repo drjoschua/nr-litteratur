@@ -43,7 +43,7 @@ Their results show that the quantitative data is highly comparable, at the same 
 They conclude that remote evaluation is highly appropriate for summative studies, whereas local evaluation should be used for formative studies.
 [__Brush et al. (2004)__](#brush-et-al-2004-a-comparison-of-synchronous-remote-and-local-usability-studies-for-an-expert-interface) compared results from a local and a synchronous remote usability study.
 The results suggest that the number of usability issues found including type and severity is comparable, at the same time as the qualitative experience may differ.
-[__Pruitt & Grudin (2003)__](#pruitt-grudin-2003-personas-practice-and-theory) did something.
+[__Pruitt & Grudin (2003)__](#pruitt-grudin-2003-personas-practice-and-theory) take a look at the use of personas in the design process, present their best practice at Microsoft, and discuss the pros and cons of using personas..
 [__McFadden et al. (2002)__](#mcfadden-et-al-2002-remote-usability-evaluation-overview-and-case-studies) describe opportunities of, list some (outdated) collaborative software for, define hardware necessities of, and discuss usability activities for remote evaluation.
 They conduct three studies where they compare local with remote evaluation and show that remote evaluation can be effective and produce comparable results to traditional approaches.
 [__Boren and Ramey (2000)__](#boren-and-ramey-2000-thinking-aloud-reconciling-theory-and-practice) introduce the concept of speech genre as theoretical basis for a thinking aloud protocol.
@@ -349,6 +349,28 @@ For the remote study, they point out that preparation required more effort, recr
 ## Pruitt & Grudin (2003) Personas: practice and theory 
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-brukervennlighet-usa-ass)
+
+Pruitt & Grudin (2003) define Personas as fictional characters representing of individual users or user groups based on Alan Cooper's The Inmates are Running the Asylum.
+They explain that Personas were originally rough sketches that were used in marketing. 
+These Personas had some original downsides including not being believable, the characters being communicated poorly, not providing a manual on how to use the characters, and the lack of high-level support within a company.
+Consequently, Personas involved to more detailed characters by including data from interviews and statistical data. 
+
+They present their own best-practice approach to Personas within Microsoft.
+
+Pruitt & Grudin (2003) furthermore discuss the pros and cons of using more evolved Personas in the design process.
+Pros:
+- Creating a strong focus on users and work contexts through a fictionalized setting that can create engagement in designers and developers.
+- Creating Personas helps to make assumptions about the target audience more explicit.
+- Creating a powerful medium for communicating results and improving the understanding of the target group.
+- Focusing attention on a specific target group.
+
+Cons:
+- Getting the right Persona or set of Personas for a specific target group can be challenging.
+- Reusing existing Personas when it would be more appropriate to create new ones.
+- Different groups or roles in the design process might have different needs requiring diverging Persona attributes or target audiences. A marketing department might have different wishes to Personas than for example product development.
+- Overusing personas replacing other valid methods like user-testing, product evaluation, etc. ("Persona mania").
+
+Persona is not a science! It requires decision-making.
 
 ## McFadden et al. (2002) Remote Usability Evaluation: Overview and Case Studies
 
