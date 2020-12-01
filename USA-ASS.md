@@ -350,6 +350,9 @@ For the remote study, they point out that preparation required more effort, recr
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-brukervennlighet-usa-ass)
 
+__Participants__:  
+Normal
+
 Pruitt & Grudin (2003) define Personas as fictional characters representing of individual users or user groups based on Alan Cooper's The Inmates are Running the Asylum.
 They explain that Personas were originally rough sketches that were used in marketing. 
 These Personas had some original downsides including not being believable, the characters being communicated poorly, not providing a manual on how to use the characters, and the lack of high-level support within a company.
