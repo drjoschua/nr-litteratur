@@ -5,6 +5,7 @@
 These articles, papers and chapters discuss assessment methods for accessibility that are needed for the evaluation in universal design:
 * [__Bai et al. (2019)__ Evaluating accessibility testing in automated software build processes](#bai-et-al-2019-evaluating-accessibility-testing-in-automated-software-build-processes)
 * [__Halbach and Tjøstheim (2019)__ Towards Reliable Accessibility Assessments of Science Center Exhibits](#halbach-and-tjøstheim-2019-towards-reliable-accessibility-assessments-of-science-center-exhibits)
+* [__Stray et al. (2019)__ Empowering agile project members with accessibility testing tools: a case study](#stray-et-al-2019-empowering-agile-project-members-with-accessibility-testing-tools-a-case-study)
 * [__Bai et al. (2018)__ Categorization and Comparison of Accessibility Testing Methods for Software Development](#bai-et-al-2018-categorization-and-comparison-of-accessibility-testing-methods-for-software-development)
 * [__Bai et al. (2016b)__ A cost-benefit evaluation of accessibility testing in agile software development](#bai-et-al-2016b-a-cost-benefit-evaluation-of-accessibility-testing-in-agile-software-development)
 * [__Bai et al. (2016a)__ Evaluation of Accessibility Testing Methods. Which Methods Uncover What Type of Problems?](#bai-et-al-2016a-evaluation-of-accessibility-testing-methods-which-methods-uncover-what-type-of-problems)
@@ -15,6 +16,7 @@ These articles, papers and chapters discuss assessment methods for accessibility
 [__Bai et al. (2019)__](#bai-et-al-2019-evaluating-accessibility-testing-in-automated-software-build-processes) presented an overview over available automatic assessment, and discusses means of assessment and analysis for the different tools. 
 They argue that tools based on the aXe-core rulesets are superior to those based on HTML-CS to-date.
 [__Halbach and Tjøstheim (2019)__](#halbach-and-tjøstheim-2019-towards-reliable-accessibility-assessments-of-science-center-exhibits) propose a methodology for assessing the degree of accessibility of museum and science center exhibits based on six areas of impairments (V, H, M, MT, VC, C), four areas of assessment (getting to/from, perceive, control, understand), and four degrees of (in-)accessibility.
+[__Stray et al. (2019)__](#stray-et-al-2019-empowering-agile-project-members-with-accessibility-testing-tools-a-case-study) did something-
 [__Bai et al. (2018)__](#bai-et-al-2018-categorization-and-comparison-of-accessibility-testing-methods-for-software-development) expended W3C accessibility cognitive barriers from one to three resulting in seven barriers in total (Aud, A&M, HLL, L&N, Phy, Spe, Vis), and categorized accessibility tools in different categories (Auto, Check, Sim, AT, Exp) including an indication of their cost for developers.
 Moreover, they analyzed four assessment methods for each of the categories showing the accessibility barriers they cover. 
 [__Bai et al. (2016b)__](#bai-et-al-2016b-a-cost-benefit-evaluation-of-accessibility-testing-in-agile-software-development) analyzed accessibility methods with respect to resources and knowledge requirements in terms of a cost-benefit analysis. Moreover, they described the inclusion of testing methods into an agile process by using an agile accessibility spiral.
@@ -72,6 +74,10 @@ They tested the framework at the Oslo Science Center with children with disabili
 
 They claim that their framework is well suited to measure and quantify the degree of accessibility and reveal strengths and weaknesses of an exhibit.
 They show indices that barriers and hinders can be counterbalanced by both engagement and social aspects of the users.
+
+## Stray et al. (2019) Empowering agile project members with accessibility testing tools: a case study 
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-tilgjengelighet-acc-ass)
 
 ## Bai et al. (2018) Categorization and Comparison of Accessibility Testing Methods for Software Development
 
