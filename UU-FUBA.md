@@ -1,8 +1,9 @@
-# Tekster om funskjonsnedsettelser og barrierer
+# Tekster som handler om funskjonsnedsettelser og barrierer (UU-FUBA)
 
 [Home](./README.md)
 
 Det fins noen tekster som definerer, behandler, osv. funksjonsnedsettelser og barrierer som er hovedfokuset innen universell utforming:
+* [__Sauer et al. (2020)__ Usability, user experience and accessibility: towards an integrative model](#sauer-et-al-2020-usability-user-experience-and-accessibility-towards-an-integrative-model)
 * [__W3C Web Accessibility Initiative (WAI) (2020)__ Diverse Abilities and Barriers](#w3c-web-accessibility-initiative-wai-2020-diverse-abilities-and-barriers)
 * [__Halbach and Tjøstheim (2019)__ Towards Reliable Accessibility Assessments of Science Center Exhibits](#halbach-and-tjøstheim-2019-towards-reliable-accessibility-assessments-of-science-center-exhibits)
 * [__European Telecommunications Standards Institute (ETSI) (2019)__ EN 301 549 v3.1.1 (2019-06): Accessibility requirements for ICT products and services](#european-telecommunications-standards-institute-etsi-2019-en-301-549-v311-2019-06-accessibility-requirements-for-ict-products-and-services)
@@ -15,6 +16,8 @@ Det fins noen tekster som definerer, behandler, osv. funksjonsnedsettelser og ba
   
 ## General
 
+[__Sauer et al. (2020)__ Usability, user experience and accessibility: towards an integrative model](#sauer-et-al-2020-usability-user-experience-and-accessibility-towards-an-integrative-model) review common definitions of the concepts of usability, user experience (UX) and accessibility, discuss their relationship to each other and analyze definitions, evaluation methods and typical outcome measures.
+They propose a new term called `interaction experience (IX)` as a higher-level concept expression.
 [__W3C Web Accessibility Initiative (WAI) (2020)__](#w3c-web-accessibility-initiative-wai-2020-diverse-abilities-and-barriers) explore functional diversity (age, intersectionality, health, changing, temporary, situational) and present functional disabilities and barriers that are the concern of usability and accessibility including auditory, cognitive, learning, and neurological, physical, speech and visual disabilities and barriers.
 [__European Telecommunications Standards Institute (ETSI) (2019)__](#european-telecommunications-standards-institute-etsi-2019-en-301-549-v311-2019-06-accessibility-requirements-for-ict-products-and-services) defines requirements for functional accessibility in ICT products and services that should be upheld in public procurement, providing test procedures and evaluation methodology.
 [__Halbach and Tjøstheim (2019)__](#halbach-and-tjøstheim-2019-towards-reliable-accessibility-assessments-of-science-center-exhibits) propose a methodology for assessing the degree of accessibility of museum and science center exhibits based on six areas of impairments (V, H, M, MT, VC, C), four areas of assessment (getting to/from, perceive, control, understand), and four degrees of (in-)accessibility.
@@ -26,9 +29,28 @@ They categorize disabilities into six categories of seeing, hearing, walking and
 The [__World Health Organization (WHO)__ (2001)](#world-health-organization-who-2001-international-classification-of-functioning-disability-and-health-icf) present a categorization framework divided into two parts for functionality and disability comprising body functions and structures, and activities and participation, and contextual factors made up of environmental and personal factors.
 [__Story et al. (1998)__](#story-et-al-1998-the-universal-design-file-designing-for-people-of-all-ages-and-abilities-revised-edition) did something.
 
+## Sauer et al. (2020) Usability, user experience and accessibility: towards an integrative model 
+
+[Up](#tekster-som-handler-om-funskjonsnedsettelser-og-barrierer-uu-fuba)
+
+Sauer et al. (2020) give defintions for usability, user experience, and accessibility. 
+You can read about this [here](./UU-DEF.md#sauer-et-al-2020-usability-user-experience-and-accessibility-towards-an-integrative-model).
+
+They define accessibility with respect to four main types of impairments:
+* visual,
+* hearing,
+* motor, and
+* cognitive.
+
+They list some evaluation methods for usability, user experience, and accessibility. 
+You can read about this [here](./UU-ASS.md#sauer-et-al-2020-usability-user-experience-and-accessibility-towards-an-integrative-model).
+
+They introduce a new concept of `interaction experience (IX)`. 
+You can read about this [here](./UU-DEF.md#sauer-et-al-2020-usability-user-experience-and-accessibility-towards-an-integrative-model).
+
 ## W3C Web Accessibility Initiative (WAI) (2020) Diverse Abilities and Barriers
 
-[Up](#tekster-om-funksjonsnedsettelser-og-barrierer) |
+[Up](#tekster-som-handler-om-funskjonsnedsettelser-og-barrierer-uu-fuba) |
 [Kilde](https://www.w3.org/WAI/people-use-web/abilities-barriers/)
 
 The W3C Web Accessibility Initiative (WAI) (2020) explores the nature of functional diversity including age-related impairments, multiple disabilities, health conditions, changing abilities, temprorary impairments, and situational limitations.
@@ -41,7 +63,7 @@ Moreover, WAI names some of the functional disabilities and barriers that are a 
 
 ## Halbach and Tjøstheim (2019) Towards Reliable Accessibility Assessments of Science Center Exhibits 
 
-[Up](#tekster-om-funksjonsnedsettelser-og-barrierer)
+[Up](#tekster-som-handler-om-funskjonsnedsettelser-og-barrierer-uu-fuba)
 
 __Participants__:  
 Children with:
@@ -62,7 +84,7 @@ Six areas of impairments:
 
 ## European Telecommunications Standards Institute (ETSI) (2019) EN 301 549 v3.1.1 (2019-06): Accessibility requirements for ICT products and services
 
-[Up](#tekster-om-funksjonsnedsettelser-og-barrierer) |
+[Up](#tekster-som-handler-om-funskjonsnedsettelser-og-barrierer-uu-fuba) |
 [Kilde](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.02_60/en_301549v010102p.pdf)
 
 EN 301 549 defines requirements for functional accessibility in ICT products and services, providing test procedures and evaluation methodology.
@@ -82,7 +104,7 @@ This standard defines eleven functional performance statement that should be ful
 
 ## The United States Census Bureau (USBC) (2018) Americans with Disabilities: 2014 
 
-[Up](#tekster-om-funksjonsnedsettelser-og-barrierer)
+[Up](#tekster-som-handler-om-funskjonsnedsettelser-og-barrierer-uu-fuba)
 
 The United States Census Bureau (USBC) (2018) define someone with disability status as: 
 * having a wheelchair, cane, crutches, walker, etc., 
@@ -102,7 +124,7 @@ Either a specified condition or any other mental or emotional condition that ser
 
 ## The United States Census Bureau (USBC) (2012) Americans with Disabilities: 2010 
 
-[Up](#tekster-om-funksjonsnedsettelser-og-barrierer)
+[Up](#tekster-som-handler-om-funskjonsnedsettelser-og-barrierer-uu-fuba)
 
 The United States Census Bureau (USBC) (2012) define three disability domains:
 1. Communicative domain:
@@ -119,7 +141,7 @@ The United States Census Bureau (USBC) (2012) define three disability domains:
 
 ## Madans et al. (2011) Measuring disability and monitoring the UN Convention on the Rights of Persons with Disabilities: the work of the Washington Group on Disability Statistics 
 
-[Up](#tekster-om-funksjonsnedsettelser-og-barrierer)
+[Up](#tekster-som-handler-om-funskjonsnedsettelser-og-barrierer-uu-fuba)
 
 The Washington Group is a voluntary working group founded in 2001 and made up of representatives of National Statistical Offices and international, non-governmental and disability organizations within the United Nations Statistical Division. Its main goal is a cultural neutral and reasonably standardized disability definition and measurement. The WG uses the International Classification of Functioning, Disability and Health (ICF) as framework and proposes a short set of six disability-related questions that can be used as a measurement tool for use in both censuses and surveys.
 
@@ -155,7 +177,7 @@ They also show results from international studies using the short question sets.
 
 ## World Health Organization (WHO) (2011) World report on disability 
 
-[Up](#tekster-om-funksjonsnedsettelser-og-barrierer)
+[Up](#tekster-som-handler-om-funskjonsnedsettelser-og-barrierer-uu-fuba)
 
 * [6. Enabling environments](#6-enabling-environments)
 
@@ -166,7 +188,7 @@ Addressing the barriers to information and technology.
 
 ### World Health Organization (WHO) (2001) International Classification of Functioning, Disability and Health (ICF)
 
-[Up](#tekster-om-funksjonsnedsettelser-og-barrierer)
+[Up](#tekster-som-handler-om-funskjonsnedsettelser-og-barrierer-uu-fuba)
 
 The World Health Organization (WHO) (2001) presents a classification framework that can serve as scientific basis for understanding impairments, disabilities and its factors, establish a common language, permit comparison of data, and provide a systematic coding scheme for all elements involved.
 
@@ -267,7 +289,7 @@ For facilitators, the point is replaced with a + sign.
  
 ## Story et al. (1998) The Universal Design File: Designing for People of All Ages and Abilities. Revised Edition. 
 
-[Up](#tekster-om-funksjonsnedsettelser-og-barrierer)
+[Up](#tekster-som-handler-om-funskjonsnedsettelser-og-barrierer-uu-fuba)
 
 Story et al. (1998) categorize human functions or abilities into 8 groups:
 * cognition is the ability of `receiving, comprehending, interpreting, remembering or acting on information`.
