@@ -37,7 +37,7 @@ They name three basic methods for evaluating accessibility:
 * automatic checking tools that measure quantifiable parameters by the means of algorithms.
 
 They point out that user testing with users with impairments is often considered to be too time or resource intensive, at the same time as it might be difficult to get access to relevant users.
-Also, the testing setup has to be adapted to users with impairments
+Also, the testing setup has to be adapted to users with impairments.
 
 |Method                     |U or EX?|QL and/or QNT?|OBJ or SUBJ?|Usability?|User experience?|Accessibility|
 |:-------------------------:|:------:|:------------:|:----------:|:--------:|:--------------:|:-----------:|
