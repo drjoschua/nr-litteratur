@@ -3,23 +3,30 @@
 [Home](./UU-ASS.md)
 
 These articles, papers and chapters discuss assessment methods for usability that are needed for the evaluation in universal design: 
-* [__Arrue Recondo et al. (2019)__ Inclusive Web Empirical Studies in Remote and In-Situ Settings: A User Evaluation of the RemoTest Platform](#arrue-recondo-et-al-2019-inclusive-web-empirical-studies-in-remote-and-in-situ-settings-a-user-evaluation-of-the-remotest-platform)
-* [__Power & Petrie (2019)__ Working With Participants](#power-petrie-2019-working-with-participants)
-* [__Sauer et al. (2019)__ Extra-laboratorial usability tests: An empirical comparison of remote and classical field testing with lab testing](#sauer-et-al-2019-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing)
-* [__Miao et al. (2016)__ Contrasting usability evaluation methods with blind users](#miao-et-al-2016-contrasting-usability-evaluation-methods-with-blind-users)
-* [__Bruun & Stage (2012)__ The effect of task assignments and instruction types on remote asynchronous usability testing](#bruun-stage-2012-the-effect-of-task-assignments-and-instruction-types-on-remote-asynchronous-usability-testing)
-* [__Power et al. (2011)__ Remote Evaluation of WCAG 2.0 Techniques by Web Users with Visual Disabilities](#power-et-al-2011-remote-evaluation-of-wcag-20-techniques-by-web-users-with-visual-disabilities)
-* [__Schnepp & Shiver (2011)__ Improving deaf accessibility in remote usability testing](#schnepp-shiver-2011-improving-deaf-accessibility-in-remote-usability-testing)
-* [__Bruun et al. (2009)__ Let your users do the testing: a comparison of three remote asynchronous usability testing methods](#bruun-et-al-2009-let-your-users-do-the-testing-a-comparison-of-three-remote-asynchronous-usability-testing-methods)
-* [__Power et al. (2009)__ A Framework for Remote User Evaluation of Accessibility and Usability of Websites](#power-et-al-2009-a-framework-for-remote-user-evaluation-of-accessibility-and-usability-of-websites)
-* [__Petrie et al. (2006)__ Remote usability evaluations with disabled people](#petrie-et-al-2006-remote-usability-evaluations-with-disabled-people)
-* [__Brush et al. (2004)__ A comparison of synchronous remote and local usability studies for an expert interface](#brush-et-al-2004-a-comparison-of-synchronous-remote-and-local-usability-studies-for-an-expert-interface)
-* [__Pruitt & Grudin (2003)__ Personas: practice and theory](#pruitt-grudin-2003-personas-practice-and-theory)
-* [__McFadden et al. (2002)__ Remote Usability Evaluation: Overview and Case Studies](#mcfadden-et-al-2002-remote-usability-evaluation-overview-and-case-studies)
-* [__Boren and Ramey (2000)__ Thinking aloud: reconciling theory and practice](#boren-and-ramey-2000-thinking-aloud-reconciling-theory-and-practice)
-* [__Castillo et al. (1998)__ Remote usability evaluation: can users report their own critical incidents?](#castillo-et-al-1998-remote-usability-evaluation-can-users-report-their-own-critical-incidents)
+* __201X__
+   * [__Arrue Recondo et al. (2019)__ Inclusive Web Empirical Studies in Remote and In-Situ Settings: A User Evaluation of the RemoTest Platform](#arrue-recondo-et-al-2019-inclusive-web-empirical-studies-in-remote-and-in-situ-settings-a-user-evaluation-of-the-remotest-platform)
+   * [__Power & Petrie (2019)__ Working With Participants](#power-petrie-2019-working-with-participants)
+   * [__Sauer et al. (2019)__ Extra-laboratorial usability tests: An empirical comparison of remote and classical field testing with lab testing](#sauer-et-al-2019-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing)
+   * [__Miao et al. (2016)__ Contrasting usability evaluation methods with blind users](#miao-et-al-2016-contrasting-usability-evaluation-methods-with-blind-users)
+   * [__Bruun & Stage (2012)__ The effect of task assignments and instruction types on remote asynchronous usability testing](#bruun-stage-2012-the-effect-of-task-assignments-and-instruction-types-on-remote-asynchronous-usability-testing)
+   * [__Power et al. (2011)__ Remote Evaluation of WCAG 2.0 Techniques by Web Users with Visual Disabilities](#power-et-al-2011-remote-evaluation-of-wcag-20-techniques-by-web-users-with-visual-disabilities)
+   * [__Schnepp & Shiver (2011)__ Improving deaf accessibility in remote usability testing](#schnepp-shiver-2011-improving-deaf-accessibility-in-remote-usability-testing)
+* __200X__
+   * [__Bruun et al. (2009)__ Let your users do the testing: a comparison of three remote asynchronous usability testing methods](#bruun-et-al-2009-let-your-users-do-the-testing-a-comparison-of-three-remote-asynchronous-usability-testing-methods)
+   * [__Power et al. (2009)__ A Framework for Remote User Evaluation of Accessibility and Usability of Websites](#power-et-al-2009-a-framework-for-remote-user-evaluation-of-accessibility-and-usability-of-websites)
+   * [__Andreasen et al. (2007)__ What happened to remote usability testing?: an empirical study of three methods](#andreasen-et-al-2007-what-happened-to-remote-usability-testing-an-empirical-study-of-three-methods)
+   * [__Petrie et al. (2006)__ Remote usability evaluations with disabled people](#petrie-et-al-2006-remote-usability-evaluations-with-disabled-people)
+   * [__Brush et al. (2004)__ A comparison of synchronous remote and local usability studies for an expert interface](#brush-et-al-2004-a-comparison-of-synchronous-remote-and-local-usability-studies-for-an-expert-interface)
+   * [__Pruitt & Grudin (2003)__ Personas: practice and theory](#pruitt-grudin-2003-personas-practice-and-theory)
+   * [__McFadden et al. (2002)__ Remote Usability Evaluation: Overview and Case Studies](#mcfadden-et-al-2002-remote-usability-evaluation-overview-and-case-studies)
+   * [Hertzum & Jacobsen (2001) The Evaluator Effect: A Chilling Fact About Usability Evaluation Methods](#hertzum-jacobsen-2001-the-evaluator-effect-a-chilling-fact-about-usability-evaluation-methods)
+   * [__Boren and Ramey (2000)__ Thinking aloud: reconciling theory and practice](#boren-and-ramey-2000-thinking-aloud-reconciling-theory-and-practice)
+* __199X__
+   * [__Castillo et al. (1998)__ Remote usability evaluation: can users report their own critical incidents?](#castillo-et-al-1998-remote-usability-evaluation-can-users-report-their-own-critical-incidents)
 
 ## General
+
+### 201X
 
 [__Arrue Recondo et al. (2019)__](#arrue-recondo-et-al-2019-inclusive-web-empirical-studies-in-remote-and-in-situ-settings-a-user-evaluation-of-the-remotest-platform) discuss existing browser tools that can be used for remote usability testing, and present a study with their own platform RemoTest (which is not publicly accessible).
 They conclude with recommendations for future remote usability tools. 
@@ -37,7 +44,11 @@ The results suggest that only an explanation in plain text within an anchor elem
 [__Schnepp & Shiver (2011)__](#schnepp-shiver-2011-improving-deaf-accessibility-in-remote-usability-testing) show a platform that is more accessible for deaf people by presenting and recording all information in ASL without the need of written English. 
 [__Bruun et al. (2009)__](#bruun-et-al-2009-let-your-users-do-the-testing-a-comparison-of-three-remote-asynchronous-usability-testing-methods) compared three remote asynchronous usability testing methods (user-reported critical incidents, forum-based online reporting and discussion, diary-based longitudinal user reporting) with conventional laboratory-based thinking aloud testing as benchmark. 
 They found out that the remote methods found significantly less issues (with the diary performing at 50% for some of the issue types), at the same time as they require significantly less time.
+
+### 200X
+
 [__Power et al. (2009)__](#power-et-al-2009-a-framework-for-remote-user-evaluation-of-accessibility-and-usability-of-websites) define a framework containing requirements and architecture of an automated online tool to help with the design, deployment and analysis of evaluations with participants that have some sort of impairment.
+[__Andreasen et al. (2007)__](#andreasen-et-al-2007-what-happened-to-remote-usability-testing-an-empirical-study-of-three-methods) define guidelines used for the categorization of the severity of usability problems.
 [__Petrie et al. (2006)__](#petrie-et-al-2006-remote-usability-evaluations-with-disabled-people) conducted two case studies (one formative, one summative) for asynchronous remote assessment methods and compared the results to local evaluation.
 Their results show that the quantitative data is highly comparable, at the same time as the amount and richness of the qualitative data is much lesser for the remote evaluation.
 They conclude that remote evaluation is highly appropriate for summative studies, whereas local evaluation should be used for formative studies.
@@ -46,8 +57,12 @@ The results suggest that the number of usability issues found including type and
 [__Pruitt & Grudin (2003)__](#pruitt-grudin-2003-personas-practice-and-theory) take a look at the use of personas in the design process, present their best practice at Microsoft, and discuss the pros and cons of using personas..
 [__McFadden et al. (2002)__](#mcfadden-et-al-2002-remote-usability-evaluation-overview-and-case-studies) describe opportunities of, list some (outdated) collaborative software for, define hardware necessities of, and discuss usability activities for remote evaluation.
 They conduct three studies where they compare local with remote evaluation and show that remote evaluation can be effective and produce comparable results to traditional approaches.
+[__Hertzum & Jacobsen (2001)__](#hertzum-jacobsen-2001-the-evaluator-effect-a-chilling-fact-about-usability-evaluation-methods) did something.
 [__Boren and Ramey (2000)__](#boren-and-ramey-2000-thinking-aloud-reconciling-theory-and-practice) introduce the concept of speech genre as theoretical basis for a thinking aloud protocol.
 They present a new framework for usability testing in which the evaluator: (1) sets the stage for a productive interaction, (2) elicits a verbal report that is undirected, undisturbed, and as constant as possible while still accounting for the social nature of speech, provides guidance on (3) interventions often required by problems and disturbances arising in usability testing, and (4) proactive interventions to retrieve more information from the participant.
+
+### 199X
+
 [__Castillo et al. (1998)__](#castillo-et-al-1998-remote-usability-evaluation-can-users-report-their-own-critical-incidents) introduce the user-reported critical incident method, an asynchronous usability evaluation for day-to-day task situations, in which user and evaluator are separated by space and time.  
 
 ## Arrue Recondo et al. (2019) Inclusive Web Empirical Studies in Remote and In-Situ Settings: A User Evaluation of the RemoTest Platform
@@ -309,6 +324,21 @@ The framework consists of:
 
 The framework will be implemented in JSP.
 
+## Andreasen et al. (2007) What happened to remote usability testing?: an empirical study of three methods
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-brukervennlighet-usa-ass)
+
+__Participants__:  
+???
+
+Andreasen et al. (2007) present guidelines used for the categorization of the severity of usability problems.
+
+|Problem severity|Delay in task completion|Irritation|Expectation in system behavior|
+|:-:|:-:|:-:|:-:|
+|Small/cosmetic | Less than 30 seconds delay | Slight irritation | Minor difference in expected action|
+|Medium/serious | More than 30 seconds delay | Average irritation | Significant difference in expected action|
+|Large/critical | Could not complete the task | High irritation | Critical difference in expected action|
+
 ## Petrie et al. (2006) Remote usability evaluations with disabled people
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-brukervennlighet-usa-ass)
@@ -412,6 +442,15 @@ They also list some recommendations including:
 
 They where they compare local with remote evaluation and show that remote evaluation can be effective and produce comparable results to traditional approaches.
 They conclude that both methods were not mutually exclusive but can complete each other.
+
+# Hertzum & Jacobsen (2001) The Evaluator Effect: A Chilling Fact About Usability Evaluation Methods
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-brukervennlighet-usa-ass)
+
+__Participants__:  
+
+
+Hertzum & Jacobsen (2001) did something.
 
 ## Boren and Ramey (2000) Thinking aloud: reconciling theory and practice
 
