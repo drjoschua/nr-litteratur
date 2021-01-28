@@ -8,8 +8,12 @@ These articles, papers and chapters discuss assessment methods for usability tha
    * [__Power & Petrie (2019)__ Working With Participants](#power-petrie-2019-working-with-participants)
    * [__Sauer et al. (2019)__ Extra-laboratorial usability tests: An empirical comparison of remote and classical field testing with lab testing](#sauer-et-al-2019-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing)
    * [__Miao et al. (2016)__ Contrasting usability evaluation methods with blind users](#miao-et-al-2016-contrasting-usability-evaluation-methods-with-blind-users)
+   * [__Venable et al. (2016)__ FEDS: A Framework for Evaluation in Design Science Research](#venable-et-al-2016-feds-a-framework-for-evaluation-in-design-science-research)
    * [__Bruun & Stage (2012)__ The effect of task assignments and instruction types on remote asynchronous usability testing](#bruun-stage-2012-the-effect-of-task-assignments-and-instruction-types-on-remote-asynchronous-usability-testing)
+   * [__Sauro (2012a)__ 10 Things to Know About the Single Ease Quesiton (SEQ)](#sauro-2012a-10-things-to-know-about-the-single-ease-quesiton-seq)
+   * [__Sauro (2012b)__ Predicting Net Promoter Scores from System Usability Scale Scores](#sauro-2012b-predicting-net-promoter-scores-from-system-usability-scale-scores)
    * [__Power et al. (2011)__ Remote Evaluation of WCAG 2.0 Techniques by Web Users with Visual Disabilities](#power-et-al-2011-remote-evaluation-of-wcag-20-techniques-by-web-users-with-visual-disabilities)
+   * [__Sauro (2011)__ Measuring Usability with the System Usability Scale (SUS)](#sauro-2011-measuring-usability-with-the-system-usability-scale-sus)
    * [__Schnepp & Shiver (2011)__ Improving deaf accessibility in remote usability testing](#schnepp-shiver-2011-improving-deaf-accessibility-in-remote-usability-testing)
 * __200X__
    * [__Bruun et al. (2009)__ Let your users do the testing: a comparison of three remote asynchronous usability testing methods](#bruun-et-al-2009-let-your-users-do-the-testing-a-comparison-of-three-remote-asynchronous-usability-testing-methods)
@@ -19,7 +23,7 @@ These articles, papers and chapters discuss assessment methods for usability tha
    * [__Brush et al. (2004)__ A comparison of synchronous remote and local usability studies for an expert interface](#brush-et-al-2004-a-comparison-of-synchronous-remote-and-local-usability-studies-for-an-expert-interface)
    * [__Pruitt & Grudin (2003)__ Personas: practice and theory](#pruitt-grudin-2003-personas-practice-and-theory)
    * [__McFadden et al. (2002)__ Remote Usability Evaluation: Overview and Case Studies](#mcfadden-et-al-2002-remote-usability-evaluation-overview-and-case-studies)
-   * [Hertzum & Jacobsen (2001) The Evaluator Effect: A Chilling Fact About Usability Evaluation Methods](#hertzum-jacobsen-2001-the-evaluator-effect-a-chilling-fact-about-usability-evaluation-methods)
+   * [__Hertzum & Jacobsen (2001)__ The Evaluator Effect: A Chilling Fact About Usability Evaluation Methods](#hertzum-jacobsen-2001-the-evaluator-effect-a-chilling-fact-about-usability-evaluation-methods)
    * [__Boren and Ramey (2000)__ Thinking aloud: reconciling theory and practice](#boren-and-ramey-2000-thinking-aloud-reconciling-theory-and-practice)
 * __199X__
    * [__Castillo et al. (1998)__ Remote usability evaluation: can users report their own critical incidents?](#castillo-et-al-1998-remote-usability-evaluation-can-users-report-their-own-critical-incidents)
@@ -37,10 +41,14 @@ They advise to conduct usability testing as close as possible to the real life s
 [__Miao et al. (2016)__](#miao-et-al-2016-contrasting-usability-evaluation-methods-with-blind-users) conduct usability tests with blind and visually impaired participants testing local vs synchronous testing and tactile paper prototyping v computer-based prototyping.
 They found that local synchronous remote testing gave comparable number of usability problems, reduced completion time for blind participants but not for the visually impaired and sighted, and that blind and visually impaired participants prefer the local test.
 They list problems related to the synchronous remote testing, and give recommendations on how to overcome them.
+[__Venable et al. (2016)__ FEDS: A Framework for Evaluation in Design Science Research](#venable-et-al-2016-feds-a-framework-for-evaluation-in-design-science-research) propose a Framework for Evaluation in Design Science (FEDS) that guide researchers to evaluate artefacts.
 [__Bruun & Stage (2012)__](#bruun-stage-2012-the-effect-of-task-assignments-and-instruction-types-on-remote-asynchronous-usability-testing) conducted a comparative study investigating the effect of task assignments and instruction types on remote asynchronous usability testing.
 They show that predefined tasks lead to more detected usability issues than working on own issues, at the same time as instructions by means of examples lead to more detected issues that using a conceptual definition as introduction.
+[__Sauro (2012a)__](#sauro-2012a-10-things-to-know-about-the-single-ease-quesiton-seq) did something
+[__Sauro (2012b)__](#sauro-2012b-predicting-net-promoter-scores-from-system-usability-scale-scores) did something.
 [__Power et al. (2011)__](#power-et-al-2011-remote-evaluation-of-wcag-20-techniques-by-web-users-with-visual-disabilities) propose a lightweight, flexible and remote methodology using a text website and questionnaires to assess implementation techniques for WCAG Success Criterion that they demonstrate on the Success Criterion 2.4.4. 
 The results suggest that only an explanation in plain text within an anchor element fulfills the criterion almost 100% of the time, although other techniques can reach high compliance as well.
+[__Sauro (2011)__](#sauro-2011-measuring-usability-with-the-system-usability-scale-sus) gives a definition for the System Usability Scale and how to score it.
 [__Schnepp & Shiver (2011)__](#schnepp-shiver-2011-improving-deaf-accessibility-in-remote-usability-testing) show a platform that is more accessible for deaf people by presenting and recording all information in ASL without the need of written English. 
 [__Bruun et al. (2009)__](#bruun-et-al-2009-let-your-users-do-the-testing-a-comparison-of-three-remote-asynchronous-usability-testing-methods) compared three remote asynchronous usability testing methods (user-reported critical incidents, forum-based online reporting and discussion, diary-based longitudinal user reporting) with conventional laboratory-based thinking aloud testing as benchmark. 
 They found out that the remote methods found significantly less issues (with the diary performing at 50% for some of the issue types), at the same time as they require significantly less time.
@@ -184,6 +192,18 @@ And recommendations for organizational improvements:
 * Pilot tests with blind and visually impaired people.
 * Minimizing interference with privacy.
 
+## Venable et al. (2016) FEDS: A Framework for Evaluation in Design Science Research
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-brukervennlighet-usa-ass)
+
+__Participants__:  
+???
+
+Venable et al. (2016) propose a Framework for Evaluation in Design Science (FEDS) that guide researchers to evaluate artefacts.
+
+
+
+
 ## Bruun & Stage (2012) The effect of task assignments and instruction types on remote asynchronous usability testing
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-brukervennlighet-usa-ass)
@@ -205,6 +225,20 @@ On the other hand, users working on their own tasks identify a more variety of u
 Finally, users who received inductive instructions identified more usability issues than users who were given deductive instructions, at the same time as the satisfaction rating were higher from users with inductive instructions as well.
 The authors could not in any bias resulting from the examples in the inductive instructions, or that the combination of the inductions and deductive instructions was preferred before either individual.
 
+## Sauro (2012a) 10 Things to Know About the Single Ease Quesiton (SEQ)
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-brukervennlighet-usa-ass)
+
+__Participants:__
+None
+
+## Sauro (2012b) Predicting Net Promoter Scores from System Usability Scale Scores 
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-brukervennlighet-usa-ass)
+
+__Participants:__
+None
+
 ## Power et al. (2011) Remote Evaluation of WCAG 2.0 Techniques by Web Users with Visual Disabilities
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-brukervennlighet-usa-ass)
@@ -222,6 +256,43 @@ In their technique they
 (5) collect data about the operating system, user agent and assistive technologies.
 They implemented this approach for evaluating different implementation techniques for the WCAG 2.0 Success Criterion 2.4.4 (accessibility of links).
 The results suggest that only G91 (clear text embedded in anchor tag) succeeds in almost 100% of the time, although other techniques like G53 (click her), H30 (alt image text), H77 (enclosing list), etc. can reach high success and confidence and low difficulty as well.
+
+## Sauro (2011) Measuring Usability with the System Usability Scale (SUS) 
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-brukervennlighet-usa-ass)
+
+__Participants__:  
+None
+
+Sauro (2011) defines the question for the System Usability Scale (SUS):
+```
+1. I think that I would like to use this system frequently.
+2. I found the system unnecessarily complex.
+3. I thought the system was easy to use.
+4. I think that I would need the support of a technical person to be able to use this system.
+5. I found the various functions in this system were well integrated.
+6. I thought there was too much inconsistency in this system.
+7. I would imagine that most people would learn to use this system very quickly.
+8. I found the system very cumbersome to use.
+9. I felt very confident using the system.
+10. I needed to learn a lot of things before I could get going with this system.
+```
+
+With responses from strongly disagree (1) to strongly agree (5).
+
+Scoring is done with the following formula:
+```
+* For odd items: subtract one from the user response.
+* For even-numbered items: subtract the user responses from 5
+* This scales all values from 0 to 4 (with four being the most positive response).
+* Add up the converted responses for each user and multiply that total by 2.5. This converts the range of possible values from 0 to 100 instead of from 0 to 40.
+```
+As alternative can you use the following formula:
+![How to score the SUS](./media/bilder/sauro2011measuring_sus-scoring.png)
+
+The average scoe is 68. 
+It is possible to give grades from A+ to F.
+![SUS scores](./media/bilder/sauro2012measuring_sus-scores.png)
 
 ## Schnepp & Shiver (2011) Improving deaf accessibility in remote usability testing
 
@@ -448,6 +519,7 @@ They conclude that both methods were not mutually exclusive but can complete eac
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-brukervennlighet-usa-ass)
 
 __Participants__:  
+_None_
 
 
 Hertzum & Jacobsen (2001) did something.
