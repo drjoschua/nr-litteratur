@@ -3,6 +3,8 @@
 [Home](./UU-ASS.md)
 
 These articles, papers and chapters discuss assessment methods for usability that are needed for the evaluation in universal design: 
+* __202X__
+   * [__McLaughlin et al. (2020)__ Evaluating Medical Devices Remotely: Current Methods and Potential Innovations](#mclaughlin-et-al-2020-evaluating-medical-devices-remotely-current-methods-and-potential-innovations)
 * __201X__
    * [__Arrue Recondo et al. (2019)__ Inclusive Web Empirical Studies in Remote and In-Situ Settings: A User Evaluation of the RemoTest Platform](#arrue-recondo-et-al-2019-inclusive-web-empirical-studies-in-remote-and-in-situ-settings-a-user-evaluation-of-the-remotest-platform)
    * [__Power & Petrie (2019)__ Working With Participants](#power-petrie-2019-working-with-participants)
@@ -29,6 +31,10 @@ These articles, papers and chapters discuss assessment methods for usability tha
    * [__Castillo et al. (1998)__ Remote usability evaluation: can users report their own critical incidents?](#castillo-et-al-1998-remote-usability-evaluation-can-users-report-their-own-critical-incidents)
 
 ## General
+
+### 202X
+
+[__McLaughlin et al. (2020)__](#mclaughlin-et-al-2020-evaluating-medical-devices-remotely-current-methods-and-potential-innovations) did something.
 
 ### 201X
 
@@ -72,6 +78,12 @@ They present a new framework for usability testing in which the evaluator: (1) s
 ### 199X
 
 [__Castillo et al. (1998)__](#castillo-et-al-1998-remote-usability-evaluation-can-users-report-their-own-critical-incidents) introduce the user-reported critical incident method, an asynchronous usability evaluation for day-to-day task situations, in which user and evaluator are separated by space and time.  
+
+## McLaughlin et al. (2020) Evaluating Medical Devices Remotely: Current Methods and Potential Innovations
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-brukervennlighet-usa-ass)
+
+McLaughlin et al. (2020) did something.
 
 ## Arrue Recondo et al. (2019) Inclusive Web Empirical Studies in Remote and In-Situ Settings: A User Evaluation of the RemoTest Platform
 
