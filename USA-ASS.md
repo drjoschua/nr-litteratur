@@ -11,6 +11,8 @@ These articles, papers and chapters discuss assessment methods for usability tha
    * [__Sauer et al. (2019)__ Extra-laboratorial usability tests: An empirical comparison of remote and classical field testing with lab testing](#sauer-et-al-2019-extra-laboratorial-usability-tests-an-empirical-comparison-of-remote-and-classical-field-testing-with-lab-testing)
    * [__Miao et al. (2016)__ Contrasting usability evaluation methods with blind users](#miao-et-al-2016-contrasting-usability-evaluation-methods-with-blind-users)
    * [__Venable et al. (2016)__ FEDS: A Framework for Evaluation in Design Science Research](#venable-et-al-2016-feds-a-framework-for-evaluation-in-design-science-research)
+   * [__Lizano & Stage (2014)__ Remote Synchronous Usability Testing as a Strategy to Integrate Usability Evaluations in the Software Development Process: A Field Study](#lizano-stage-2014-remote-synchronous-usability-testing-as-a-strategy-to-integrate-usability-evaluations-in-the-software-development-process-a-field-study)
+   * [__Alghamdi et al. (2013)__ A Comparative Study of Synchronous and Asynchronous Remote Usability Testing Methods](#alghamdi-et-al-2013-a-comparative-study-of-synchronous-and-asynchronous-remote-usability-testing-methods)
    * [__Bruun & Stage (2012)__ The effect of task assignments and instruction types on remote asynchronous usability testing](#bruun-stage-2012-the-effect-of-task-assignments-and-instruction-types-on-remote-asynchronous-usability-testing)
    * [__Sauro (2012a)__ 10 Things to Know About the Single Ease Quesiton (SEQ)](#sauro-2012a-10-things-to-know-about-the-single-ease-quesiton-seq)
    * [__Sauro (2012b)__ Predicting Net Promoter Scores from System Usability Scale Scores](#sauro-2012b-predicting-net-promoter-scores-from-system-usability-scale-scores)
@@ -47,7 +49,9 @@ They advise to conduct usability testing as close as possible to the real life s
 [__Miao et al. (2016)__](#miao-et-al-2016-contrasting-usability-evaluation-methods-with-blind-users) conduct usability tests with blind and visually impaired participants testing local vs synchronous testing and tactile paper prototyping v computer-based prototyping.
 They found that local synchronous remote testing gave comparable number of usability problems, reduced completion time for blind participants but not for the visually impaired and sighted, and that blind and visually impaired participants prefer the local test.
 They list problems related to the synchronous remote testing, and give recommendations on how to overcome them.
-[__Venable et al. (2016)__ FEDS: A Framework for Evaluation in Design Science Research](#venable-et-al-2016-feds-a-framework-for-evaluation-in-design-science-research) propose a Framework for Evaluation in Design Science (FEDS) that guide researchers to evaluate artefacts.
+[__Venable et al. (2016)__](#venable-et-al-2016-feds-a-framework-for-evaluation-in-design-science-research) propose a Framework for Evaluation in Design Science (FEDS) that guide researchers to evaluate artefacts.
+[__Lizano & Stage (2014)__](#lizano-stage-2014-remote-synchronous-usability-testing-as-a-strategy-to-integrate-usability-evaluations-in-the-software-development-process-a-field-study) did something.
+[__Alghamdi et al. (2013)__](#alghamdi-et-al-2013-a-comparative-study-of-synchronous-and-asynchronous-remote-usability-testing-methods) did something.
 [__Bruun & Stage (2012)__](#bruun-stage-2012-the-effect-of-task-assignments-and-instruction-types-on-remote-asynchronous-usability-testing) conducted a comparative study investigating the effect of task assignments and instruction types on remote asynchronous usability testing.
 They show that predefined tasks lead to more detected usability issues than working on own issues, at the same time as instructions by means of examples lead to more detected issues that using a conceptual definition as introduction.
 [__Sauro (2012a)__](#sauro-2012a-10-things-to-know-about-the-single-ease-quesiton-seq) did something
@@ -213,8 +217,23 @@ __Participants__:
 
 Venable et al. (2016) propose a Framework for Evaluation in Design Science (FEDS) that guide researchers to evaluate artefacts.
 
+## Lizano & Stage (2014) Remote Synchronous Usability Testing as a Strategy to Integrate Usability Evaluations in the Software Development Process: A Field Study
 
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-brukervennlighet-usa-ass)
 
+__Participants__:  
+???
+
+Lizano & Stage (2014) did something.
+
+## Alghamdi et al. (2013) A Comparative Study of Synchronous and Asynchronous Remote Usability Testing Methods
+
+[Up](#tekster-som-handler-om-evalueringsmetoder-for-brukervennlighet-usa-ass)
+
+__Participants__:  
+???
+
+Alghamdi et al. (2013) did something.
 
 ## Bruun & Stage (2012) The effect of task assignments and instruction types on remote asynchronous usability testing
 
@@ -244,12 +263,16 @@ The authors could not in any bias resulting from the examples in the inductive i
 __Participants:__
 None
 
+Sauro (2012a) did something.
+
 ## Sauro (2012b) Predicting Net Promoter Scores from System Usability Scale Scores 
 
 [Up](#tekster-som-handler-om-evalueringsmetoder-for-brukervennlighet-usa-ass)
 
 __Participants:__
 None
+
+Sauro (2012b) did something.
 
 ## Power et al. (2011) Remote Evaluation of WCAG 2.0 Techniques by Web Users with Visual Disabilities
 
@@ -532,7 +555,6 @@ They conclude that both methods were not mutually exclusive but can complete eac
 
 __Participants__:  
 _None_
-
 
 Hertzum & Jacobsen (2001) did something.
 
